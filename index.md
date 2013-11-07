@@ -4,8 +4,10 @@ title: The Rift
 ---
 The Rift
 ======
+
 Chapter 1
 ---------
+
 The low hanging clouds on that dreary November day kept the lumbering airship out of view. No one in the miles leading to the town of Briersville saw it coming. No one heard it either. The silent structure of cloth and steel had crept through the cloud cover. It must have descended gradually, foot after foot until it managed to collide with the court house's radio tower.
 
 The people in town hardly noticed it there, bobbing up and down, twisting side to side in the breeze. Then a brisk wind picked up, propelling the airship forward. The radio tower's metal struts whined. A woman on the sidewalk pushing a baby stroller looked up and screamed. People passing by stopped. A young couple rushed to her aid. A police car darted across the street and stopped, it's tires popping up over the curb.
@@ -138,6 +140,7 @@ From the mayor's look and the police chief's sermon like discourse, the police c
 
 Chapter 2
 ---------
+
 Nathaniel Plaice wondered where his younger brother was. And his sister for that matter. No one was around, leaving him to finish chores around the house. The house always seemed to be in a state of disrepair. He might have caused some of it himself, but felt obligated to keep the appearance of things going. He learned quickly after moving back home that the appearances of things mattered in a way he didnt' understand anymore.
 
 He resisted the urge to blame every strange or unsual on being at war. Hardly identified himself as a veteran, and couldn't much stand talk about units and regiments, fronts and advances. It sickened him all now. Fortunatly people around Briersville seemed to get over their war fever pretty quickly. Once the munitions factory closed down, that settled it for everyone.
@@ -234,7 +237,82 @@ Officer Doyle turned his hat around and around in his hands. He sat on the edge 
 
 Nathaniel nodded his head, not really to indicate that he understood anything, but just the fill the space between his confusion and his reluctance to hear whatever the police officer had to tell him.
 
+"You see we have a...information problem on our hands."
 
+"You might have more than that," Nathaniel replied.
+
+"Yes, exactly. But, we don't know. We don't properly know." The police officer spoke with a far away, almost dreamy quality in his voice. Between his sister and her boyfriend, Nathaniel found fragments of an old poem floating back into his memory:
+
+    'There was a ship,' quoth he.
+    'Hold off! unhand me, grey-beard loon!'
+    Eftsoons his hand dropt he.
+
+    He holds him with his glittering eye—`
+
+Apparently these lines had been in his memory for years, though he hadn't recalled them before today. 
+
+"And how can you help with your information problem, Office Doyle?"
+
+"My superiors," whom Nathaniel knew to be the two chiefs and the mayor, "think you have a special skill that can be or services."
+
+"Tending a rundown farm? Picking up after adolescent siblings? Or, maybe, being harrassed by the police for having a few drinks?"
+
+"Well as to that last one you know we have certain rules on the books that have to be followed."
+
+"Fine. But it sounds like you are going to ask me to do something that isn't a run of the mill request. So, I would apprecitate the courtesy of you just coming out to say it to me."
+
+The office straightened himself out a bit, either uncomfortable or annoyed, Nathaniel couldn't say. "Yes, well, that skill involves your time in the army."
+
+"Oh, so slogging through muddy fields, huddling in frozen mountain caves?"
+
+"That last one. No, I mean your mountaineering skills. That's what we're talking about."
+
+Nathaniel leaned back in his chair. "I see. And how exactly will those skills be useful to you?"
+
+"Imagine this. Imagine a seesaw." Officer Doyle help one hand flat and upright in the air. He placed the other flat across it. "And that seesaw is rocking back and forth. This plank is just balanced on a pin point, nothing at all. Only that plank is metal and fabric and maybe filled with dangerous gas. But we don't know, and there's not many people who can climb up that pin point, which is really a 30 foot tall pin point that isn't safely secured anymore."
+
+"That's what you're asking me to do, to climb up to this airship and see when and if it will explode over our town?"
+
+"Yes, that's exactly it."
+
+"And what if I refuse?"
+
+"My boss' instructions were to be *creative*."
+
+Chapter 3
+---------
+
+"Who the hell is there?" The surly voice shot down from a platform high up in the trees above.
+
+"It's me you asshole," replied Arthur.
+
+"Got the smokes?"
+
+"Yeah, I got 'em"
+
+"Then come the hell on up"
+
+A rope dropped and dangled unceremoniously in front of Arthur's face. He hated climbing up the rope ladder like some kind of army recruit. But he had to deliver the package to Jeff, Charlie, and the other guys.
+
+When he finally scrambled up on to the plaform and stood up, three other guys hunched around him. One of them, Charlie, was stabbing the wood under his feet with a switchblade, then carving dirty words into it. The other two--Jeff and Nick--were laughing and saying "boobs" over and over again.
+
+"You got it?" Charlie looked up from his woodworking.
+
+"Yep," said Arthur. He took off a stiff green army knapsack. flipped it open, and took out a bundle wrapped in a red bandana. He untied the bandanna and took out two packages of cigarettes.
+
+"Hey that's one open already!" complained Jeff, who was the tallest of the three.
+
+"So!" said Arthur. He started to put the bundle back in his pack.
+
+"Give it over, Paisley", their creative transformation of his last name. "That's not yours to give and take as you want. You owe us."
+
+"It's a tithe," said Nick, who secretly was the smart one, probably as smart as Arthur, maybe as smart as his sister.
+
+"A what?" said the other two.
+
+"Nevermind, here. I could only lay my hands on these two. They're fresh though."
+
+"We'll be the judge of that," said Charlie. He retrieved a banged up metal lighter--one that he claimed his father used in the war, and lit up one the cigarrettes. He inhaled and exhaled, brushing off little bits of tobacco left behind on his lips. "Pretty good." He passed the 
 
 <!---
 Parts
