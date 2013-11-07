@@ -234,6 +234,8 @@ Officer Doyle turned his hat around and around in his hands. He sat on the edge 
 
 Nathaniel nodded his head, not really to indicate that he understood anything, but just the fill the space between his confusion and his reluctance to hear whatever the police officer had to tell him.
 
+
+
 <!--Parts
 ------
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs--too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
