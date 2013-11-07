@@ -1,3 +1,7 @@
+---
+layout: default
+title: The Rift
+---
 The Rift
 ======
 Chapter 1

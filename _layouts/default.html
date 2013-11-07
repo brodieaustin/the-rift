@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <meta type="author" content="{{ site.author }}">
+    <meta type="description" content="{{ site.description }}">
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
+    <style>
+        body{font-size: 20px; font-family: 'Vollkorn', serif; color: #333; line-height: 1.4;}
+        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px;}
+        .site-header a {text-decoration: none;}
+        .site-title {float: left; margin: 0; font-size: 100%; font-weight: normal;}
+        .site-meta{float: left; color: #aaa;}
+        .site-title a {color: #333;}
+        .site-title a:hover {color: #aaa;}
+        .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #ccc; color: #333; font-family: inherit; font-size: inherit;}
+        .button:hover{background-color: #eee;}
+        #save-bookmark{float: right; margin-top: 8px;}
+        .content{width: 50%; margin: 0 auto; padding-top: 72px;}
+    </style>
+
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <div class="site-meta">{{ site.author }}, {{ site.pub_year }} ({{ page.content | number_of_words }})</spam></div>
+        <button id="save-bookmark" class="button">Bookmark</button>
+    </header>
+    <div class="content">
+        <article class="novel">
+            {{ content }}
+        </article>
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="js/jquery.viewport.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script>
+    $(document).ready(function(){
+        
+        init();
+        
+        $('#save-bookmark').click(function(){
+            $('article p:in-viewport').each(function(){
+                $(this).addClass('reading');
+            });
+            $('article p:above-the-top').each(function(){
+                $(this).removeClass('reading');
+            });
+            
+            var i = $('article p').index($('.reading'));
+            
+            $('article p').eq(i).attr('id', 'bookmark');
+            $.cookie('bookmark', i);
+            $('#saved').slideDown().delay(3000).slideUp();
+            
+            return false;
+        });
+        
+        function init(){
+            var i = $.cookie('bookmark');
+        
+            if (i){
+                $('#resume').slideDown();
+                $('#confirm-ok').click(function(){
+                    $('article p').eq(i).attr('id', 'bookmark');
+                    location.href = '#bookmark';
+                    $('#resume').slideUp();
+                });
+                $('#confirm-cancel').click(function(){
+                    $('#resume').slideUp();
+                });
+                
+                $.removeCookie('bookmark');
+            }
+        };
+        
+    });
+ </script>
+</body>
+</html>
