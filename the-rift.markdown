@@ -232,7 +232,8 @@ Nathaniel nodded his head, not really to indicate that he understood anything, b
 
 
 
-<!--Parts
+<!---
+Parts
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
 
 He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
@@ -266,4 +267,5 @@ And so they moved through the ceremony. The priest read from the Book of Solomon
 >Being perfected in a short time, they fulfilled long years; for their souls 
 were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
 
-Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."-->
+Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
+-->
