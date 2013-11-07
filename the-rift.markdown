@@ -44,9 +44,9 @@ Lonnie looked down at the kerchief, then the road. Much like Office Doyle, the p
 
 "Everyone, I need you to cross the street," she shouted again.
 
-The woman tipped her stroller down off the sidewalk and passed through the gap that Lonnie had managed to make with the help of the drivers. The girl, Natalie, began gently nudging people along too. Fortunately, once a few people started to move, the rest followed. They started circling the block, clearing the area.
+The woman tipped her stroller down off the sidewalk and passed through the gap that Lonnie had managed to make with the help of the drivers. The girl, Lisa, began gently nudging people along too. Fortunately, once a few people started to move, the rest followed. They started circling the block, clearing the area.
 
-It wasn't long afterwards that the fire department arrived, two trucks and the captain's car. The other squad car appeared as well. The men in uniforms jumped and dashed out of their vehicles. Then, one by one, they all came to a dead stop. Head after head tilted up, staring at the airship above them. Huddling happened next. Consultations. Gestures. 
+It wasn't long afterwards that the fire department arrived. Three trucks in all. The other police squad cars appeared as well. Eveyone seemed to apepared at once. The men in uniforms jumped and dashed out of their vehicles. Then, one by one, they all came to a dead stop. Head after head tilted up, staring at the airship above them. Huddling happened next. Consultations. Gestures. 
 
 The fire chief broke through the crowd on the other side of the street--he had walked from the station. The firefighters parted, letting him into the center of their group.
 
@@ -68,7 +68,7 @@ The police chief arrived with the mayor in tow, a woman as it turned out, and he
 
 The fire chief shifted his weight from side to side, looked back at his guys. He wasn't about to let the police chief upstage him here. He had lived in Briersville long before the police chief arrived on the scene. He knew people. And knowing people meant something.
 
-The mayor interceded, "I don't want anyone going up there that isn't **experienced**," she said, managing to make both men irritated now. She had been a "professional" woman from the city not that long ago. She was more of an upstart than the police chief, as far as the fire chief was concerned. But they both accepted the logic of what she said. 
+The mayor interceded, "I don't want anyone going up there that isn't *experienced*," she said, managing to make both men irritated now. She had been a "professional" woman from the city not that long ago. She was more of an upstart than the police chief, as far as the fire chief was concerned. But they both accepted the logic of what she said. 
 
 The fire chief rifled through the list of things he knew, of people that he knew. There had to be something or someone that could help out. Then he remembered something, the Plaice boy. He had been a war hero, or at least a veteran. The chief had to turn down his application to be a firefighter for...extenuating circumstance. But he had been a mountaineering solider, and lived in Colorado for some years.
 
@@ -166,9 +166,71 @@ The boyfriend chimed in, "This old airships, at least 50 years old..."
 
 "That's the one."
 
-What were they going on about? He wondered. His sister 
+What were they going on about? He wondered. His sister, Lisa, was pacing the kitchen, full of more nervous energy than he had yet to see in her. She started in on her fingernails, biting and tearing at them. Her boyfriend, Lonnie, watched her. It was clear that his terror and awe all stemmed from her.
 
-Parts
+With his sister lost in thought about somethign, Nathaniel turned to the boyfriend, "Lonnie? Lonnie..." He snapped his fingers at him. "Tell me what's going on. I don't understand what you're talking about."
+
+"Well, it's really peculiar."
+
+"I get that..."
+
+"I'm sorry. It just doesn't make sense. There's an airship, a rigid airship..."
+
+"Dirigible..." Lisa inserted.
+
+Lonnie was holding up one hand now, flat like a plane. "And the airship, up here, somehow came drifting down and..." Another hand represented the courthouse. "Then like that it get's snagged on the radio tower. And it doesn't blow up."
+
+"It hasn't blown up?" Nathaniel asked.
+
+"Not yet," Lisa replied, stepping into their conversation now. "But it could at any minute right? It's just a big gas cloud covered in metal. And even it doesn't blow up. What it just deflates and just, kind of, drapes itself over the town..."
+
+"Like a blanket!" said Lonnie, though neither Plaice felt the figure quite captured it.
+
+"But, Nathaniel, the realy puzzle is, where did this thing come from. I mean, an airhsip?"
+
+"No one has really built a airship for twenty or thirty years," he said.
+
+"Exactly. Has it just been floating up there in the sky for all this time, just waiting to come down."
+
+"And why here, exactly?" asked Lonnie. Being the outsider, he didn't take it as a given that an enormous airship would appear anywhere else but Briersville. But he coudl readily imagine his own home town faced with the same circumstances. For all they knew every small town in America was facing the same crisis.
+
+"Well," Nathaniel finally said, "It's not our problem, and you're safe, so let's move on, okay?" As if responding to him, they all turned at the distant sound of police sirens, sirens that came closer and closer to their house. The driver must have killed the sound at their entrance to long driveway that led off of the county road to the farmhouse where they lived. 
+
+A knock on the door. Nathaniel went to answer with Lisa and Lonnie trailing behind him. It was Office Doyle again. "Officer Doyle, how can I help you?"
+
+The police officer hardly acknowledged the two kids who had helped him out with the crowd earlier. "Afternoon. Probably heard about the airship in town."
+
+"I did. My sister just came from there and told me about it. You making sure everyone hears about. Any roads closed."
+
+"Oh sure. Downtown is barricaded for now. Not much going in and out."
+
+"Hope that won't impact the businesses down there too much."
+
+"Yeah, we'll see."
+
+Officer Doyle seemed to forget the purpose of his visit. Behind him, the can shaped lights on his far rotated furiosuly, even though the sun and sky absorbed most of their light.
+
+"But that's not the real reason I'm calling on you, Nathaniel."
+
+As he removed his hat, Nathaniel realized that he needed to invite the officer in. "Why don't you come inside then."
+
+"Don't mind if I do."
+
+"Need anythign to drink, Officer Doyle?" Lisa asked.
+
+"No thank young lady. Oh, you were outside the court house earlier."
+
+"Yes, sir"
+
+"Big help these two, right in the middle of the action." Nathaniel reaised an eyebrow at his sister, who deflected his inquisitive, irritated gesture, as she so often did.
+
+"Let's sit down here in the parlor and talk over...what ever it is you came out here to talk about."
+
+Officer Doyle turned his hat around and around in his hands. He sat on the edge of the long couch in the front parlor, his feet pitched far apart. He leaned forward with his elbows propped on his knees. "This is kind of a sensitive matter. And, I think speaking for everyone in town..." Nathaniel understood him to mean the mayor and the two chiefs, "...that it would be best to not go telling everyone what we talk about here."
+
+Nathaniel nodded his head, not really to indicate that he understood anything, but just the fill the space between his confusion and his reluctance to hear whatever the police officer had to tell him.
+
+<!--Parts
 ------
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs--too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
 
@@ -203,5 +265,5 @@ And so they moved through the ceremony. The priest read from the Book of Solomon
 >Being perfected in a short time, they fulfilled long years; for their souls 
 were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
 
-Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
+Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."-->
 
