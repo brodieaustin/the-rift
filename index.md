@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: novel
 title: The Rift
 ---
 The Rift
