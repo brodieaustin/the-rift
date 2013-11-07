@@ -10,7 +10,7 @@
     <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
     <style>
         body{font-size: 20px; font-family: 'Vollkorn', serif; color: #333; line-height: 1.4;}
-        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px;}
+        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px; z-index: 1000;}
         .site-header a {text-decoration: none;}
         .site-title {float: left; margin: 0; font-size: 100%; font-weight: normal;}
         .site-meta{float: left; margin-left: 1em; color: #aaa;}
@@ -21,6 +21,8 @@
         .button:hover{background-color: #eee;}
         #save-bookmark{float: right; margin-top: 8px;}
         .content{width: 50%; max-width: 700px; margin: 0 auto; padding-top: 72px;}
+        .alert{display: none; width: 92%; position: fixed; top: 48px; left: 2%; padding: 1% 2%; background-color: #eee; border: 1px solid #eee; font-size: 16px; z-index: 500;}
+
         @media screen and (max-width: 800px;){
             .content{width: 80%;}
         }
@@ -41,6 +43,14 @@
             {{ content }}
         </article>
     </div>
+    <div class="alert" id="resume">
+        <p>Do you want to pick up reading where you left off last time?</p>
+        <button id="confirm-ok" class="button">Ok</button>
+        <button id="confirm-cancel" class="button">Cancel</button>
+    </div>
+    <div class="alert" id="saved">
+        <p>Bookmark saved</p>
+    </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="js/jquery.viewport.js"></script>
     <script src="js/jquery.cookie.js"></script>
@@ -50,16 +60,16 @@
         init();
         
         $('#save-bookmark').click(function(){
-            $('article p:in-viewport').each(function(){
+            $('.novel p:in-viewport').each(function(){
                 $(this).addClass('reading');
             });
-            $('article p:above-the-top').each(function(){
+            $('.novel p:above-the-top').each(function(){
                 $(this).removeClass('reading');
             });
             
-            var i = $('article p').index($('.reading'));
+            var i = $('.novel p').index($('.reading'));
             
-            $('article p').eq(i).attr('id', 'bookmark');
+            $('.novel p').eq(i).attr('id', 'bookmark');
             $.cookie('bookmark', i);
             $('#saved').slideDown().delay(3000).slideUp();
             
@@ -72,7 +82,7 @@
             if (i){
                 $('#resume').slideDown();
                 $('#confirm-ok').click(function(){
-                    $('article p').eq(i).attr('id', 'bookmark');
+                    $('.novel p').eq(i).attr('id', 'bookmark');
                     location.href = '#bookmark';
                     $('#resume').slideUp();
                 });
