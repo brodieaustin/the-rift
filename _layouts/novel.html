@@ -16,17 +16,19 @@
         .site-meta{float: left; margin-left: 1em; color: #aaa;}
         .site-title a {color: #333;}
         .site-title a:hover {color: #aaa;}
-        .novel h1{font-size: 46px; text-align: center;}
+        .novel h1{font-size: 46px; border-bottom: 1px solid #333;}
         .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #ccc; color: #333; font-family: inherit; font-size: inherit;}
         .button:hover{background-color: #eee;}
         #save-bookmark{float: right; margin-top: 8px;}
         .content{width: 50%; max-width: 700px; margin: 0 auto; padding-top: 72px;}
-        .alert{display: none; width: 92%; position: fixed; top: 48px; left: 2%; padding: 1% 2%; background-color: #eee; border: 1px solid #eee; font-size: 16px; z-index: 500;}
+        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2% 2% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 500;}
 
         @media screen and (max-width: 800px){
             .content{width: 80%;}
         }
         @media screen and (max-width: 480px){
+            .site-header{height: auto;}
+            .site-meta{display: none;}
             .content{width: 96%;}
         }
     </style>
