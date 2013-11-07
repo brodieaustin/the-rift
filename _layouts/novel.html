@@ -10,25 +10,28 @@
     <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
     <style>
         body{font-size: 20px; font-family: 'Vollkorn', serif; color: #333; line-height: 1.4;}
-        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px; z-index: 1000;}
+        .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px; z-index: 500;}
         .site-header a {text-decoration: none;}
-        .site-title {float: left; margin: 0; font-size: 100%; font-weight: normal;}
-        .site-meta{float: left; margin-left: 1em; color: #aaa;}
+        .site-title {float: left; margin: 0; margin-right: .5em; font-size: 100%; font-weight: normal;}
+        .site-meta{float: left; margin-left: .5em; color: #888;}
         .site-title a {color: #333;}
         .site-title a:hover {color: #aaa;}
-        .novel h1{font-size: 46px; border-bottom: 1px solid #333;}
-        .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #ccc; color: #333; font-family: inherit; font-size: inherit;}
+        .novel h1{font-size: 46px; border-bottom: 1px solid #ddd;}
+        .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #aaa; color: #333; font-family: inherit; font-size: inherit; cursor: pointer;}
         .button:hover{background-color: #eee;}
+        .button-no-back{background-color: transparent;}
         #save-bookmark{float: right; margin-top: 8px;}
-        .content{width: 50%; max-width: 700px; margin: 0 auto; padding-top: 72px;}
-        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2% 2% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 500;}
-
+        .content{width: 50%; max-width: 700px; margin: 0 auto; padding: 72px 0;}
+        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2% 2% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 1000;}
+        #show-meta{display: none;}
+        .show-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
         @media screen and (max-width: 800px){
             .content{width: 80%;}
         }
-        @media screen and (max-width: 480px){
+        @media screen and (max-width: 600px){
             .site-header{height: auto;}
-            .site-meta{display: none;}
+            .site-meta{display: none; width: 96%;position: absolute;left: 0;margin-left: 0;padding: 0 2%;background-color: #fff;border-bottom: 1px solid #ddd; z-index: 200;}
+            #show-meta{display: inline-block;}
             .content{width: 96%;}
         }
     </style>
@@ -37,6 +40,11 @@
 <body>
     <header class="site-header">
         <h1 class="site-title">{{ site.title }}</h1>
+        <button id="show-meta" class="button button-no-back">
+            <span class="show-dot"></span>
+            <span class="show-dot"></span>
+            <span class="show-dot"></span>
+        </button>
         <div class="site-meta">{{ site.author }}, {{ site.pub_year }} ({{ page.content | number_of_words }} words)</spam></div>
         <button id="save-bookmark" class="button">Bookmark</button>
     </header>
@@ -77,6 +85,10 @@
             
             return false;
         });
+
+        $('#show-meta').click(function(){
+            $(this).next('.site-meta').slideToggle();
+        })
         
         function init(){
             var i = $.cookie('bookmark');
