@@ -4,7 +4,7 @@ The Rift
 Chapter 1
 ---------
 
-The low hanging clouds on that dreary November day kept the lumbering airship out of view. No one in the miles leading to the town of Briersville saw it coming. No one heard it either. The silent structure of cloth and steel had crept through the cloud cover. It must have descended gradually, foot after foot until it managed to collide with the court house's radio tower.
+The low hanging clouds on that dreary November day kept the lumbering airship out of view. No one in the miles leading to the town of Briersville saw it coming. No one heard it either. The silent structure of cloth and steel had crept through the cloud cover. It must have descended gradually, foot after foot until it managed to collide with a newly built office building's radio tower.
 
 The people in town hardly noticed it there, bobbing up and down, twisting side to side in the breeze. Then a brisk wind picked up, propelling the airship forward. The radio tower's metal struts whined. A woman on the sidewalk pushing a baby stroller looked up and screamed. People passing by stopped. A young couple rushed to her aid. A police car darted across the street and stopped, it's tires popping up over the curb.
 
@@ -165,7 +165,7 @@ The boyfriend chimed in, "This old airships, at least 50 years old..."
 
 "Snagged on the radio tower in town."
 
-"On top of the court house?"
+"On top of the office building?"
 
 "That's the one."
 
@@ -181,7 +181,7 @@ With his sister lost in thought about somethign, Nathaniel turned to the boyfrie
 
 "Dirigible..." Lisa inserted.
 
-Lonnie was holding up one hand now, flat like a plane. "And the airship, up here, somehow came drifting down and..." Another hand represented the courthouse. "Then like that it get's snagged on the radio tower. And it doesn't blow up."
+Lonnie was holding up one hand now, flat like a plane. "And the airship, up here, somehow came drifting down and..." Another hand represented the office building. "Then like that it get's snagged on the radio tower. And it doesn't blow up."
 
 "It hasn't blown up?" Nathaniel asked.
 
@@ -221,7 +221,7 @@ As he removed his hat, Nathaniel realized that he needed to invite the officer i
 
 "Need anythign to drink, Officer Doyle?" Lisa asked.
 
-"No thank young lady. Oh, you were outside the court house earlier."
+"No thank young lady. Oh, you were outside the office building earlier."
 
 "Yes, sir"
 
@@ -243,7 +243,7 @@ Nathaniel nodded his head, not really to indicate that he understood anything, b
     'Hold off! unhand me, grey-beard loon!'
     Eftsoons his hand dropt he.
 
-    He holds him with his glittering eye—`
+    He holds him with his glittering eye—
 
 Apparently these lines had been in his memory for years, though he hadn't recalled them before today. 
 
@@ -339,6 +339,49 @@ In their minds, they posed and modeled as someone they knew or had seen in a mov
 "Why!?" said Charlie, clearly upset that *his* group was hatching plans without him.
 
 "Could be major, like an earthquake or something," said Jeff. Noone bothered to point out the obvious problems with his theory. One by one, they slid down the rope to the ground.
+
+They assembled around Charlie's black, banged up car. He sauntered up slowly, as if reminding them that they travelled by virute of grace. He was a few years older and having a car made him a very powerful, and persuasive, figure in the group. Once in the car, Charlie passed the cigarettes around again. Arthur knew that he'd have to figure out a way to get the smoke smell off his clothes at home. The vial of perfume he had lifted from this sister's room had caused more problems than it solved for him.
+
+Much as they had on the wooden platform in the woods, each boy sat mostly silent, smoking, staring out at the farmlands around Briersville. They were only a few miles away from the center of the town, but the landscape and worlds between here and there could not have been more different. They didn't have to travel long, though, before they each saw a enormous thing hovering over their town.
+
+"It's goddamn aliens!" should Jeff, pitching himself onto to dash board to get a better look. 
+
+"What would aliens be doing in Briersville? Think wontcha!" replied Charlie.
+
+"Okay then what is it?" Jeff replied.
+
+"It's an airship," said Arthur.
+
+"An old airship," added Nick.
+
+"See," Charlie said, thumping Jeff's arm hard with his first. "Not aliens."
+
+"But aliens could be driving it."
+
+"Pilot it," corrected Nick.
+
+"Since when was everyone a bunch of pointy headed professors around here."
+
+"Didn't ever see newsweels of the Hindenberg or the Graf Zeppelin?" Nick asked.
+
+"No!"
+
+"Just because we know what it is, doesn't make it make sense," Arthur asserted. "I don't think airships really fly anymore."
+
+"There's that blimp over football games sometimes," Charlie said.
+
+"Sure, but that's just a big balloon. An airhip is...a lot more complicated," Arthur said.
+
+"And why is it here? There hasn't been any planes made around here in years," Nick said. He stopped himself short. No one said anything, and avoided looking at Arthur. He tried to shrug off the awkwardness as best as he could. It wasn't even worth going through the feelings anymore. Showing his discomfort would make him weak. Arthur had resolved never to be weak, especially around these guys.
+
+Finally, Charlie said, "Well, boys, let's go check it out." He gunned the car and it shot forward down the long strip of road before them.
+
+When they reached the center of the town, a police officer waved them off to the right. They caught his glare as soon as he recognized who was in the car. Charlie flicked a cigarette butt at the offier's feet. Everyone in the car smirked and laugh. Getting one up on the local cops was an on going matter of their discussions and plans. More ofen than not their best plans failed on some crucial detail.
+
+The fact that Jeff's father was a fire fighter didn't endear their little group to the police either. Each officer on the force seemed to take particular satisfaction in dragging the deliquent son to the father's front steps.
+
+"Sealed off pretty tight,"
+
 <!---
 Parts
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
