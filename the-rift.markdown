@@ -296,7 +296,7 @@ When he finally scrambled up on to the plaform and stood up, three other guys hu
 
 "Yep," said Arthur. He took off a stiff green army knapsack. flipped it open, and took out a bundle wrapped in a red bandana. He untied the bandanna and took out two packages of cigarettes.
 
-"Hey that's one open already!" complained Jeff, who was the tallest of the three.
+"Hey that one's open already!" complained Jeff, who was the tallest of the three.
 
 "So!" said Arthur. He started to put the bundle back in his pack.
 
@@ -308,8 +308,37 @@ When he finally scrambled up on to the plaform and stood up, three other guys hu
 
 "Nevermind, here. I could only lay my hands on these two. They're fresh though."
 
-"We'll be the judge of that," said Charlie. He retrieved a banged up metal lighter--one that he claimed his father used in the war, and lit up one the cigarrettes. He inhaled and exhaled, brushing off little bits of tobacco left behind on his lips. "Pretty good." He passed the 
+"We'll be the judge of that," said Charlie. He retrieved a banged up metal lighter--one that he claimed his father used in the war, and lit up one the cigarrettes. He inhaled and exhaled, brushing off little bits of tobacco left behind on his lips. "Pretty good." He passed the the pack around. The two other boys didn't turn pass on them, open or not.
 
+The pack came back around to Arthur. His slender fingers dug into the pack for a smoke, flimsy now that three had already been taken out. The cigerattes rolled back and forth under his fingers.
+
+"Here." Charlie grabbed the pack, shook it until the cigarattes all clumped together at the opening, then gave it a quick upwards flick. Like drawing straws, Arthur pulled one out and lit up with the other boys. They all stood silently, taking short drags from cigerattes. Not having to pass it from mouth to mouth felt like a luxury, though Arthur hoped that his brother never found out that he was stealing cigarettes.
+
+In their minds, they posed and modeled as someone they knew or had seen in a movie. Each boy sucked in his cheeks, made his eyes narrow and grim. 
+
+"Oh, shit!" Nick said, stamping out his cigarette and making for the rope ladder.
+
+"What is it?" Arhtur asked. Then he heard the whine of police sirens. 
+
+"We gotta get out of here!"
+
+"Relax," said Charlie. "They ain't coming this way."
+
+"How do you know?" Arthur asked.
+
+"Because it's already getting fainter."
+
+"Wonder where it's goin'," said Jeff.
+
+"Who cares," said Charlie.
+
+"There's another one," Arthur said.
+
+"Whoa, we gotta find out what's going on."
+
+"Why!?" said Charlie, clearly upset that *his* group was hatching plans without him.
+
+"Could be major, like an earthquake or something," said Jeff. Noone bothered to point out the obvious problems with his theory. One by one, they slid down the rope to the ground.
 <!---
 Parts
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
