@@ -343,6 +343,7 @@ In their minds, they posed and modeled as someone they knew or had seen in a mov
 "Why!?" said Charlie, clearly upset that *his* group was hatching plans without him.
 
 "Could be major, like an earthquake or something," said Jeff. Noone bothered to point out the obvious problems with his theory. One by one, they slid down the rope to the ground.
+
 <!---
 Parts
 His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.

@@ -17,15 +17,16 @@
         .site-title a {color: #333;}
         .site-title a:hover {color: #aaa;}
         .novel h1{font-size: 46px; border-bottom: 1px solid #ddd;}
+        .buttons{margin-bottom: 1em;}
         .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #aaa; color: #333; font-family: inherit; font-size: inherit; cursor: pointer;}
         .button:hover{background-color: #eee;}
         .button-no-back{background-color: transparent;}
         #save-bookmark{float: right; margin-top: 8px;}
         .content{width: 50%; max-width: 700px; margin: 0 auto; padding: 72px 0;}
-        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2% 2% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 1000;}
+        .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 1000;}
         #show-meta{display: none;}
-        .show-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
-        @media screen and (max-width: 800px){
+        .icon-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
+        @media screen and (max-width: 860px){
             .content{width: 80%;}
         }
         @media screen and (max-width: 600px){
@@ -41,9 +42,9 @@
     <header class="site-header">
         <h1 class="site-title">{{ site.title }}</h1>
         <button id="show-meta" class="button button-no-back">
-            <span class="show-dot"></span>
-            <span class="show-dot"></span>
-            <span class="show-dot"></span>
+            <span class="icon-dot"></span>
+            <span class="icon-dot"></span>
+            <span class="icon-dot"></span>
         </button>
         <div class="site-meta">{{ site.author }}, {{ site.pub_year }} ({{ page.content | number_of_words }} words)</spam></div>
         <button id="save-bookmark" class="button">Bookmark</button>
@@ -55,14 +56,16 @@
     </div>
     <div class="alert" id="resume">
         <p>Do you want to pick up reading where you left off last time?</p>
-        <button id="confirm-ok" class="button">Ok</button>
-        <button id="confirm-cancel" class="button">Cancel</button>
+        <div class="buttons">
+            <button id="confirm-ok" class="button">Ok</button>
+            <button id="confirm-cancel" class="button">Cancel</button>
+        </div>
     </div>
     <div class="alert" id="saved">
         <p>Bookmark saved</p>
     </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="js/jquery.viewport.js"></script>
+    <!--<script src="js/jquery.viewport.js"></script>-->
     <script src="js/jquery.cookie.js"></script>
     <script>
     $(document).ready(function(){
@@ -70,16 +73,7 @@
         init();
         
         $('#save-bookmark').click(function(){
-            $('.novel p:in-viewport').each(function(){
-                $(this).addClass('reading');
-            });
-            $('.novel p:above-the-top').each(function(){
-                $(this).removeClass('reading');
-            });
-            
-            var i = $('.novel p').index($('.reading'));
-            
-            $('.novel p').eq(i).attr('id', 'bookmark');
+            var i = $(document).scrollTop() + $('.site-header').height();
             $.cookie('bookmark', i);
             $('#saved').slideDown().delay(3000).slideUp();
             
@@ -96,8 +90,7 @@
             if (i){
                 $('#resume').slideDown();
                 $('#confirm-ok').click(function(){
-                    $('.novel p').eq(i).attr('id', 'bookmark');
-                    location.href = '#bookmark';
+                    $(document).scrollTop(i);
                     $('#resume').slideUp();
                 });
                 $('#confirm-cancel').click(function(){
