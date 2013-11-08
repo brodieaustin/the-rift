@@ -14,10 +14,10 @@
         .site-header{position: fixed; top: 0; left: 0; width: 96%; height: 48px; line-height: 48px; margin: 0; padding: 0 2%; border-bottom: 1px solid #ddd; background-color: #ddd; font-size: 16px; z-index: 500;}
         .site-header a {text-decoration: none;}
         .site-title {float: left; margin: 0; margin-right: .5em; font-size: 100%; font-weight: normal;}
-        .site-meta{float: left; margin-left: .5em; color: #888;}
+        .site-meta{float: left; margin-left: .5em; margin-right: .5em; color: #888;}
+        .word-count-data{margin-left: .5em;}
         .site-title a {color: #333;}
         .site-title a:hover {color: #aaa;}
-        .novel h1{font-size: 46px; border-bottom: 1px solid #ddd;}
         .buttons{margin-bottom: 1em;}
         .button{display: inline-block; padding: 4px 8px; border: 0; border-radius: 4px; background-color: #aaa; color: #333; font-family: inherit; font-size: inherit; cursor: pointer;}
         .button:hover{background-color: #eee;}
@@ -26,7 +26,10 @@
         .content{width: 50%; max-width: 700px; margin: 0 auto; padding: 72px 0;}
         .alert{display: none; width: 96%; position: fixed; top: 48px; left: 0; padding: 1% 2%; background-color: #f8f8f8; font-size: 16px; z-index: 1000;}
         #show-meta{display: none;}
+        .inline-chart{margin-right: 1em;}
+        .inline-chart>canvas{vertical-align: text-top !important;}
         .icon-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
+        .novel h1{font-size: 46px; border-bottom: 1px solid #ddd;}
         @media screen and (max-width: 860px){
             .content{width: 80%;}
         }
@@ -48,7 +51,7 @@
             <span class="icon-dot"></span>
             <span class="icon-dot"></span>
         </button>
-        <div class="site-meta">{{ site.author }}, {{ site.pub_year }} ({{ page.content | number_of_words }} words)</spam></div>
+        <div class="site-meta">{{ site.author }}, {{ site.pub_year }} <span class="word-count-data">{{ page.content | number_of_words }} words <span class="inline-chart inline-bar"></span></span></div>
         <button id="save-bookmark" class="button">Bookmark</button>
     </header>
     <div class="content">
@@ -69,11 +72,21 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <!--<script src="js/jquery.viewport.js"></script>-->
     <script src="js/jquery.cookie.js"></script>
+    <script src="js/jquery.sparkline.min.js"></script>
     <script>
     $(document).ready(function(){
         
         init();
-        
+        var counts = [];
+
+        $.getJSON('http://brodieaustin.com/nanowrimo/data.php?jsoncallback=?', {url: 'http://nanowrimo.org/wordcount_api/wchistory/brodieaustin', format: 'json'}, function(data){
+            $.each(data.wordcounts.wcentry, function(index, value){
+                counts.push(value.wc)
+
+            });
+            $('.inline-bar').sparkline(counts, {type: 'line', height: '20px', spotColor: false, minSpotColor: false, maxSpotColor: false, lineColor: '#888', fillColor: false});
+        });
+
         $('#save-bookmark').click(function(){
             var i = $(document).scrollTop() + $('.site-header').height();
             $.cookie('bookmark', i);
