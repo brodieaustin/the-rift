@@ -386,7 +386,76 @@ When they reached the center of the town, a police officer waved them off to the
 
 The fact that Jeff's father was a fire fighter didn't endear their little group to the police either. Each officer on the force seemed to take particular satisfaction in dragging the deliquent son to the father's front steps.
 
-"Sealed off pretty tight,"
+"Sealed off pretty tight," Nick said.
+
+"They don't want anyone coming in," Arthur agreed.
+
+"There aren't enough cops in town to close every road. We can get in." Charlie pulled hard to the left and parked on a residential street just out of site of the patrol car blocking the road. They got out and started walking towards the building.
+
+They could see the backside of the airship much more clearly. Arthur studied it intently, almost fell over twice because of it. It did look old. He could see scraps of fabric coming loose from the frame. As he stared up at the huge airship, Arthur automatically followed the boys, who were creeping alongside a building, then turning into an alley.
+
+The alleys weren't being monitored and they crossed several blocks before needing to retreat out of sight again. Arthur had never seen the town so quiet and still before. He almost imagined himself being the last person on Earth, only he had three people with him. 
+
+After creeping and stalking their way through town, they finally arrived at the backside of the office building. Charlie walked up to the rear delivery door and gave it a rough pull. The door swung open, and made Charlie stumble back a few steps before regaining his footing. "Gentlemen," he said, waving the boys inside the building.
+
+Chapter 4
+---------
+
+Somehow her brother had convinced Officer Doyle that he wasn't fit for the job. The argument hinged on his lack of equipment. "I didn't keep and thing. And no one in town would have what I need."
+
+"Well, let's talk to the chief. I'm sure we can work something out."
+
+Lisa could tell that Office Doyle didn't want to cause a scene, and probably wasn't being as "creative" as he could have been. She wished he would. She felt irritated that her brother wouldn't just relent and agree to do it. He would be a hero, after all. She still felt, event being older and understanding a bit more about these things, that he had been cheated out of a hero's welcome so long ago.
+
+She had just been a little girl, certainly she felt that now, and couldn't accept that her big brother, whom everyone had been worrying so much about, wasn't coming home. She kept claiming that he had died, but her parents would quickly correct her in the grocery store aisle or the waiting for an open bank teller. "He's just staying out in Colorado for awhile." At that point whatever stranger--stranger to her at least--that they were talking to would politely find some way to end the conversation. 
+
+After the policeman left, she stormed into the front parlor, where her brother stood watching squad car disappear in a cloud of dust. "What was that about?"
+
+"What exactly?"
+
+"That!" she pointed out the window.
+
+"That was a police officer."
+
+"I know that, Nathaniel. You don't have to be smart with me." She realized that she was speaking to him like a parent.
+
+"Lisa, I don't know what you could mean."
+
+"Not volunteering to help."
+
+"Help do what exactly?"
+
+"Go up and invetigate that airship."
+
+"And why should I?"
+
+"It's the right thing to do."
+
+"According to who?"
+
+"Well..." she realized that she had to think this one through. Her brother was always pining her only little barbs of logic. "According to me, for one thing."
+
+"It may be hard to understand this, but doing the "right thing"  just because it is gratifying doesn't make it the right thing all the time. Besides, that airship is probably filled with helium. It won't expldoe."
+
+"Bit it stil could crash and drap a lot of metal and skin all over everything."
+
+"Yes, that's true. But not the end of the world. It's probably worse that they've got everything shut down, down there."
+
+"Well, there could be people down there."
+
+"He didn't mention anyone calling for help. I mean, if you were stuck in an old airship that just collided with a building, wouldn't you call for help?"
+
+Lisa hadn't really considered that point before. As usual, her brother made a strong case. It woudl be difficult to manuever around that one. But they could be hurt and needing help."
+
+"Or, dead already. Had you considered that?"
+
+"Are you saying it's a ghost ship?"
+
+Sure, why not. And I try not to go chasing after ghosts, if I can avoid it. I spent enough time doing that already."
+
+Of course he meant, "in the war". Whenever he invoked "enough time doing x" it meant the war and was a cue to drop the topic of conversation. Lisa was much more clued into the is than her younger brother. Unlike her, Arthur wouldn't observe the signs, even if he noticed them at all.
+
+
 
 <!---
 Parts
