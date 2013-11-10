@@ -5,6 +5,44 @@ title: The Rift
 The Rift
 ======
 
+<!---
+Parts
+His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
+
+He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
+
+The people around him seemed perfectly settled into their places. Distant relatives from his wife's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
+
+The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking atheistic teenager that his wife had always taken him for. He had programmed that out of himself a long time ago. And yet that little variable, that little declaration made at some point, recurred throughout their relationship. Nevertheless, he couldn't help but feel there was some other intention at work here that made the seats uncomfortable, and the room a little too warm. Even the glare of the hymnals seemed to distract him in ways even he didn't fully understand and wasn't fully able to control.
+
+The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old Anglican pews, worn by dog leashes, that he and his wife had seen so long ago on vacation. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed? Maybe kids dangling feet had done the work, another  accident of biology that the builders of the space had not foreseen.
+
+At this point, the program for the memorial was tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
+
+Bouncing like this, his mother reached over to settle him, restrain him, really. The firm hand on his knees stopped the kinetic bouncing, but didn't really restrain the inner compulsion to expel the waves of energy inside him. The order of the day was to seem serene, so he did. In some ways he felt he owed this to his mother as much as to his wife. His wife had been possessed with the same kind of nervous energy as him, quick to bounce from idea to idea. Her conversations could be long detours through memories and thoughts. But now his mother imparted her focus on setting things in order on the day. The people, the flowers, the church, the clothes, the food, all of it showed up on this inauspicious day because his mother had willed it to.
+
+From across the room, his wife's mother made a few glances in his direction, but seemed largely concerned with sisters and brothers from lives past. Their children and children's children were there too. Outside the church earlier, they had all exchanged pleasant condolences. One sister, a younger one who seemed to project herself as an outcast, stood off to the side smoking cigarette after cigarette. Her wiry, nervous hands waved away the clouds of smoke, but it didn't stop it from seeping into the church's entry way. When they had entered, the church's sublime order had been tainted by the acrid fragrance of nicotine.
+
+The kids outside had cut through those clouds, paying no attention, and no one else had seemed to give it any thought. One of his wife's older brothers had corned him outside and talked about his family, his job, and his mother in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over a smartphone.
+
+"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the device to his father. The older one turned to her father and said, "But what if something's corrupted?" she said.
+
+"It's not corrupted!" objected the boy.
+
+"You shouldn't be carrying around anything that important. I'm holding on to this until the funeral is over."
+
+By the time the conflict defused itself, people began moving inside. The hearse had arrived, and a few members of the congregation materialized to transport his wife into the church for the service. He took this as a chance to escape inside. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
+
+And so they moved through the ceremony. The priest read from the Book of Solomon:
+
+>But the righteous, though they die early, will be at rest. For old age is not honored for length of time, or measured by number of years;  but understanding is gray hair for anyone, and a blameless life is ripe old age. 
+ 
+>Being perfected in a short time, they fulfilled long years; for their souls 
+were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
+
+Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
+-->
+
 Chapter 1
 ---------
 
@@ -451,46 +489,183 @@ Lisa hadn't really considered that point before. As usual, her brother made a st
 
 "Are you saying it's a ghost ship?"
 
-Sure, why not. And I try not to go chasing after ghosts, if I can avoid it. I spent enough time doing that already."
+"Sure, why not. And I try not to go chasing after ghosts, if I can avoid it. I spent enough time doing that already."
 
 Of course he meant, "in the war". Whenever he invoked "enough time doing x" it meant the war and was a cue to drop the topic of conversation. Lisa was much more clued into the is than her younger brother. Unlike her, Arthur wouldn't observe the signs, even if he noticed them at all.
 
+Lisa stomped off through the house, grabbing Lonnie's hand as she didn. "Where are we going?"
 
+"To the shed," she said.
 
-<!---
-Parts
-His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
+The "shed" really was an old barn behind the house. It wasn't full of animals and hay, though. It hadn't for as long as Lisa could remember. She forced open the rusty door enough to squeeze through and climbed up into the loft. In one corner were boxes her brother had sent before his move home. The boxes had never been opened. A few years of dust already covered them, which made them less dusty than the other bins, barrels, and boxes in the shed.
 
-He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
+She opened the boxes, pulling out books and old clothes. "Lisa, what are we looking for?" Lonnie asked. "It's really dust...ahchoo...in here."
 
-The people around him seemed perfectly settled into their places. Distant relatives from his wife's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
+"Here it is." Lisa pulled out large coils of rope, pitons, and other climbing gear. "Here, help me get this stuff into the house."
 
-The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking atheistic teenager that his wife had always taken him for. He had programmed that out of himself a long time ago. And yet that little variable, that little declaration made at some point, recurred throughout their relationship. Nevertheless, he couldn't help but feel there was some other intention at work here that made the seats uncomfortable, and the room a little too warm. Even the glare of the hymnals seemed to distract him in ways even he didn't fully understand and wasn't fully able to control.
+"What is all of this?"
 
-The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old Anglican pews, worn by dog leashes, that he and his wife had seen so long ago on vacation. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed? Maybe kids dangling feet had done the work, another  accident of biology that the builders of the space had not foreseen.
+"Climbing equipment. My brother used to climb mountains."
 
-At this point, the program for the memorial was tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
+They piled up everything on the kitchen table. Nathaniel came in, shook his head, and turned around, raising his voice as he did, "I expect that to be put away, Lisa."
 
-Bouncing like this, his mother reached over to settle him, restrain him, really. The firm hand on his knees stopped the kinetic bouncing, but didn't really restrain the inner compulsion to expel the waves of energy inside him. The order of the day was to seem serene, so he did. In some ways he felt he owed this to his mother as much as to his wife. His wife had been possessed with the same kind of nervous energy as him, quick to bounce from idea to idea. Her conversations could be long detours through memories and thoughts. But now his mother imparted her focus on setting things in order on the day. The people, the flowers, the church, the clothes, the food, all of it showed up on this inauspicious day because his mother had willed it to.
+Instead of packing everything away, Lisa and Lonnie arranged all of the gear on the table. They gathered today the robes, the climbing aids. Put the worn boots with an equally worn pair of gloves. "There's a lot of stuff here," Lonnie commented. Lisa nodded her head.
 
-From across the room, his wife's mother made a few glances in his direction, but seemed largely concerned with sisters and brothers from lives past. Their children and children's children were there too. Outside the church earlier, they had all exchanged pleasant condolences. One sister, a younger one who seemed to project herself as an outcast, stood off to the side smoking cigarette after cigarette. Her wiry, nervous hands waved away the clouds of smoke, but it didn't stop it from seeping into the church's entry way. When they had entered, the church's sublime order had been tainted by the acrid fragrance of nicotine.
+She decided that leaving the equipment on te table might persuade her brother to take it up and go help out at the site of the airship. In the meantime, she wondered what was going on with back in town. The radio in the parlor wasn't working--hadn't worked for a few years now, so they went out to Lonnie's car to listen.
 
-The kids outside had cut through those clouds, paying no attention, and no one else had seemed to give it any thought. One of his wife's older brothers had corned him outside and talked about his family, his job, and his mother in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over a smartphone.
+"...Local authorities advise residents to stay away from the center of town. The airship could be unstable. Officials from the FAA were not able to comments on the situation, not having been advised of any lighter than air craft that might be in the vicinity. Locally, air traffice controllers in the region are puzzled as well. Based on the airship current position and heading, no airports in a 10 mile radius of is flight path detected any abnormal activity."
 
-"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the device to his father. The older one turned to her father and said, "But what if something's corrupted?" she said.
+"It's weird, isn't it?" Lisa said, talking over the steady cadence of the radio announcer.
 
-"It's not corrupted!" objected the boy.
+"The airship, definitely."
 
-"You shouldn't be carrying around anything that important. I'm holding on to this until the funeral is over."
+"Not just the airship, but the idea of it too. It's weird to think about where it came from. Why it's here."
 
-By the time the conflict defused itself, people began moving inside. The hearse had arrived, and a few members of the congregation materialized to transport his wife into the church for the service. He took this as a chance to escape inside. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
+"Must have blown off course or something."
 
-And so they moved through the ceremony. The priest read from the Book of Solomon:
+"Maybe but you heard what they just said. No one noticed a thing. Dont you think someone would have picked it up on radar or something?"
 
->But the righteous, though they die early, will be at rest. For old age is not honored for length of time, or measured by number of years;  but understanding is gray hair for anyone, and a blameless life is ripe old age. 
- 
->Being perfected in a short time, they fulfilled long years; for their souls 
-were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
+"Well, that's just what they're saying... It's some kind of cover up?"
 
+<<<<<<< HEAD:index.md
 Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
 -->
+=======
+"Not exactly. I don't know. But it came from somewhere, right? What if there are more?"
+
+"More airships drifting long with seemingly no one piloting it? Seems unlikey, doesn't it?"
+
+"I guess, but just imagine that there are hundreds of lost planes and airships and other things just floating along up there, waiting to be sent back down to earth."
+
+"But everyone inside would be dead!"
+
+"Maybe, but how else do you explain the airship that just crashed in the middle fo our town. It had to have been floating around for years. And something made it finally come down."
+
+It's too bad your brother doens't want to go up and check it out. Sounds pretty exicting."
+
+"He'll come aroudn. It's just a matter of time."
+
+Once the news switch to some other story, national politics, legistlators disagreeing with each other, they switched the radio over to a rock and roll station. Instead of agitating them into a teenage frenzy of movement though, the comforting, familiar sounds lulled them both there in the car. They each closed their eyes and nodded off, siting in the front seat of the car.
+
+Lisa work up first, startled awake by a signal test on the radio. She nudged Lonnie who woke up to. "Fell asleep? Uh, I feel terrible. Guess we should go back inside."
+
+Soups smells filled the house--onions and celelry sauteeing, tomotaoes simmering. Nathaniel was hovering over a tall battered soup pot in the kitchen. Lisa always felt like he looked most like an old soldier when he cooked. There was something grim and quick about his movements. He cooked for them most of the time, but always dead simple things that required one or two pots most.
+
+"Time to eat?" Lonnie asked cheerfully. Nathaniel glared at him.
+
+Lisa stepped in, "Let's set the table. Then we'll take you back to the Y."
+
+"Lonnie, when are you going home?" Nathaniel asked. Lisa cringed at how rude her brother was being. It wasn't Lonnie's fault that he was caught in their squabble.
+
+"His mom and bad are coming back from Europe on WEdnesday."
+
+"They don't even know he's here?"
+
+"Well, not exactly," Lisa said.
+
+"They know I'm not home. But they don't know where exactly."
+
+"Oh great. Well, it's none of my business. Just don't get me involved in any trouble that might happen. I'm washing my hands of it."
+
+"Figures," Lisa interjected.
+
+Nathaniel tasted the soup slowly and calmly. Not looking at her, he said, "I would advise you to get the hell out of this house right now."
+
+"Come on Lonnie, we'll go into town for supper."
+
+Lonnie whipsered to her, "I don't have any money to cover it."
+
+"Don't worry, I'll pay for it. Let's just get out of here."
+
+Chapter 5
+---------
+
+They sat up on the rooftop bullshitting, smoking, spitting, under the shadow of the airship. Arthur nervously glanced at the radio tower's creeking base, but tried to downplay his anxiety. The other guys didn't seem to notice just how perilous their current situation was. So, just like he usually didn, Arthur imagined himself slipping a mask. It wasn't a monster's mask, with mishapen ears and perfectly round holes bored into the eye sockets. It was a perfectly fitting mask that he seemed to wear in a very comfortable way. But just like those cheap drug store masks, this mask made all those everday worries and concerns a little harder to see and hear.
+
+Once the sun went down completely, the temperature droped twenty degrees. The wind picked up again. The airship creaked in a rhyhmic way above them. "I'm cold," Jeff complained. None of them had heavy coats or sweaters on.
+
+"I've got something for that," Charlie said. He produced a scratched up metal flask from his jacket. 
+
+"Pass it around!" said Jeff excitedly. Charlie only brought out the flask on special occasions.
+
+They each took turns downing sips of brandy from the flask. It wasn't good quality, not like what Arthur's father used to drink. He remembered his father letting him try a sip at a holiday dinner when he was little. He had wrinkled his nose and everyone at the table laughed in a good humored way as the little boy said, "Yuckee daddy!" He shivered. Must be the taste of the brandy and the cold, he thought. But the shivering stopped once the brandy started to make him feel loose and warm.
+
+Charlie was the most animated. He was circling the base of the radio tower, pushing it at random, hoisting himself on it then propelling himself back on the roof. Only a foot or two at a time. Around and around. Suddenly he stopped and turned to the group, huddled together, warming their hands over a lighter. "I have an idea," he said.
+
+"What's that?" Nick asked, probably trying to get out in front of whatever crazy idea their "leader" was sure to have.
+
+"Well, no one knows why this thing is here, right?"
+
+What makes you say that," Nick asked.
+
+"No one's up here. No cops, no investigators. No scientists runnig around with geiger counters or anything. So no one knows what hte make of it."
+
+"Dumb ashes," Jeff said in a slur.
+
+"Let's help them out."
+
+"How'll we do that?" Arthur asked.
+
+"Glad you asked Paisly. 'Caus you're going to go up there." Charlie was pointing up at the airship. The twenty or thirty feet between them and the underside of the airship seemed much greater in light of this "idea."
+
+"Me?"
+
+"Sure, of course you."
+
+"Why, of course?"
+
+"Well, you're still the new guy. You haven't passed all of the tests. And this is the mother of all tests."
+
+Arthur looked wildly at the two other boys. They seemed calm and removed, as if to reinforce the idea that he had not been tested. Arthur wondered whther any of them really had had to climb up an unstable radio tower to climb into a ancient airship that had mysteriously appeared out of thin air. But no one would say anything now. They didn't want to accompany him up there.
+
+"And you're brother was some kind of mountain climber or something, right?"
+
+"Yeah, but it's not like he taught me anything."
+
+"Well, you know more than Nick or Jeff here, besides Jeff is sloshed and Nick is an egghead. He can barely do a pull up in gym." Nick nodded solemnly. Jeff was rolling side to side on his back, saying, "It's a long way up there, Paisly."
+
+"What if I say no?"
+
+"Terrible things will happen I'm sure."
+
+"Sure would be cold to be stuck up here all night," said Jeff.
+
+Arthur stared at Nick, whom he could count on from time to time to assert some reason into assignements like this. But Nick wouldn't budge. "Come on, Nick, this is crazy. That thing's not safe."
+
+"Nick is, I'm sure, very intellectually curious about what's inside that sirhip."
+
+"Then why don't you send him up there."
+
+Charlie in all of this two year older bulk stepped to Arthur, towered over him, and said, "Because I didn't tell him to. I told you. Now get up there." He shoved the flask in his hand. "Screw up your courage."
+
+There was one swig in the flask left, brandy diluted with their collective spit. Arthur downed it, not even noticing the taste. There were no arguments to be made, no one to back him up. He could bolt for the door. He even tried to shift in that direction, before realizing that Charlie had been slowly backing him against the radio tower without him even noticing.
+
+The only option, it seemed was to climb.
+
+Arthur huffed some hot breaths into his hands to loosen up his cold fingers. He bounced around a few times, shook his head. "Come on Paisly, climb!" Jeff said.
+
+"Get on with it, Paisly. Come back with a full report."
+
+Arthur grapsed the radio tower with both hands and gave it a shake. It actually seemed more secure that he had expected. He got himself up on the first rows of the tower's lattice work. The effects of the brandy made him feel more comfortable than he had epected. He kept going and got a few feet off the ground pretty quickly.
+
+He turned to look back and realized that he had come pretty far. The wind felt more severe even a little bit higher up. He also could feel the tower swaying more that it did higher up. He got higher up, and could hear the guys below whooping and hollering, even though they seemd to not be paying attention to him at all.
+
+Arthur had just a few more feet to cover before he reached the airhip. From up here, he got a better view of the tangle of fabric and metal girders wheren it was colided with the radio tower. He figured he could just grabbed one of the girders and hoist himself up. The structure probably would be rigid enough to support his weight. What he would do once inside remained to be seen.
+
+His hands were getting cold and numb now, though. The brandy wasn't working. The exertion of climbing probably had burned it all up. One by one he huffed again into his hands to warm them. He tried to pull at a little extra length of his shirt to use as golves, but his hand immediately slipped from the tower wrapped in fabric. Not worth the risk at this point.
+
+The tower creaked under his weight not that he was at the narrowest part of it. He could feel it shifting downwards. He would have to move fast. The opening into the airship wasn't as large as he had thought now that he was touch it.
+
+He shimmied up closer to the top. The airship kept bobbing just out of reach. Finally he grabbed a scrap of the outer fabric that hung down. He gave it a yank, but as he did, the tower lurched dangerously down. 
+
+Arthur kept his grip on the fabric, but he hadn't made the opening any larger. He remembered that he had a small pocketknife in his pocket. He gripped the airship tighter than before, clenched his legs to the point of straining around the tower's framework and retrieved this knife. He wished that he had Charlie's switch blade, instead of the single blade knife that needed two hand to open. He settled on using his teeth and his free hand to open it.A few tries and he managed to extract the blade and lock it in place. 
+
+The wind was noisy in his ears. Even still the ripping sounds of the fabric sounded louder than he expected. The fabric also was much tougher than expected. To have any effect at all, he had to saw at the tear in the fabric, tug at it forcefully then saw some more.
+
+Even though he was exhausted, Arthur felt a surge of strength and confidence when he realized that the opening was large enough now to climb up. The torn strip of fabric was also long enough for him to climb up like a ragged piece of rope. He could shimmy up and grab the girders and be inside.
+
+As he planned his final ascent, though, he also noticed the the din that the guys below were causing. Would anyone hear them, he wondered. He really didn't want to be hauled home for this.
+
+Arthur took a deep breath and grabbed the fabric with both hands. He let one foot go free then another. The fabric began to rip, leaving him dangling hundreds of feet above the street. The tearing stop though, and he worked his way up bit by bit. He could reach the metal frame now and swung a leg up to get inside.
+
+Just then, he could hear shouting below, and just make out, "What's going on up there!?" He heard a loud, "Oh shit" then feet scrambling on the roof top. The roof door slammed. Arthur realized that he was all alone now, hovering above town, in an ancient airship.
