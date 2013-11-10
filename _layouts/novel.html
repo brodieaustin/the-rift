@@ -29,7 +29,7 @@
         .inline-chart{margin-right: 1em;}
         .inline-chart>canvas{vertical-align: text-top !important;}
         .icon-dot{display: inline-block; height: 6px; width: 6px; border-radius: 50%; background-color: #aaa;}
-        .novel h1{padding-bottom: .5em; font-size: 46px; border-bottom: 1px solid #ddd;}
+        .novel h1{padding-bottom: 6px; font-size: 46px; border-bottom: 1px solid #ddd;}
         @media screen and (max-width: 860px){
             .content{width: 80%;}
         }
@@ -82,7 +82,6 @@
         $.getJSON('http://brodieaustin.com/nanowrimo/data.php?jsoncallback=?', {url: 'http://nanowrimo.org/wordcount_api/wchistory/brodieaustin', format: 'json'}, function(data){
             $.each(data.wordcounts.wcentry, function(index, value){
                 counts.push(value.wc)
-
             });
             $('.inline-bar').sparkline(counts, {type: 'line', height: '20px', spotColor: false, minSpotColor: false, maxSpotColor: false, lineColor: '#888', fillColor: false});
         });
