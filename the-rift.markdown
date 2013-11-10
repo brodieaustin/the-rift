@@ -519,11 +519,143 @@ She decided that leaving the equipment on te table might persuade her brother to
 
 "Maybe but you heard what they just said. No one noticed a thing. Dont you think someone would have picked it up on radar or something?"
 
-"Well, that's just what they're saying..."
-
-"So, it's a cover up." Lonnie had a tendency to posit cover ups for a wide variety of inexiplicable occurances around town.
+"Well, that's just what they're saying... It's some kind of cover up?"
 
 "Not exactly. I don't know. But it came from somewhere, right? What if there are more?"
 
-"More airships drifting long with seemingly no one piloting it? Seems unlikeyls. What didn you want v
+"More airships drifting long with seemingly no one piloting it? Seems unlikey, doesn't it?"
 
+"I guess, but just imagine that there are hundreds of lost planes and airships and other things just floating along up there, waiting to be sent back down to earth."
+
+"But everyone inside would be dead!"
+
+"Maybe, but how else do you explain the airship that just crashed in the middle fo our town. It had to have been floating around for years. And something made it finally come down."
+
+It's too bad your brother doens't want to go up and check it out. Sounds pretty exicting."
+
+"He'll come aroudn. It's just a matter of time."
+
+Once the news switch to some other story, national politics, legistlators disagreeing with each other, they switched the radio over to a rock and roll station. Instead of agitating them into a teenage frenzy of movement though, the comforting, familiar sounds lulled them both there in the car. They each closed their eyes and nodded off, siting in the front seat of the car.
+
+Lisa work up first, startled awake by a signal test on the radio. She nudged Lonnie who woke up to. "Fell asleep? Uh, I feel terrible. Guess we should go back inside."
+
+Soups smells filled the house--onions and celelry sauteeing, tomotaoes simmering. Nathaniel was hovering over a tall battered soup pot in the kitchen. Lisa always felt like he looked most like an old soldier when he cooked. There was something grim and quick about his movements. He cooked for them most of the time, but always dead simple things that required one or two pots most.
+
+"Time to eat?" Lonnie asked cheerfully. Nathaniel glared at him.
+
+Lisa stepped in, "Let's set the table. Then we'll take you back to the Y."
+
+"Lonnie, when are you going home?" Nathaniel asked. Lisa cringed at how rude her brother was being. It wasn't Lonnie's fault that he was caught in their squabble.
+
+"His mom and bad are coming back from Europe on WEdnesday."
+
+"They don't even know he's here?"
+
+"Well, not exactly," Lisa said.
+
+"They know I'm not home. But they don't know where exactly."
+
+"Oh great. Well, it's none of my business. Just don't get me involved in any trouble that might happen. I'm washing my hands of it."
+
+"Figures," Lisa interjected.
+
+Nathaniel tasted the soup slowly and calmly. Not looking at her, he said, "I would advise you to get the hell out of this house right now."
+
+"Come on Lonnie, we'll go into town for supper."
+
+Lonnie whipsered to her, "I don't have any money to cover it."
+
+"Don't worry, I'll pay for it. Let's just get out of here."
+
+Chapter 5
+---------
+
+They sat up on the rooftop bullshitting, smoking, spitting, under the shadow of the airship. Arthur nervously glanced at the radio tower's creeking base, but tried to downplay his anxiety. The other guys didn't seem to notice just how perilous their current situation was. So, just like he usually didn, Arthur imagined himself slipping a mask. It wasn't a monster's mask, with mishapen ears and perfectly round holes bored into the eye sockets. It was a perfectly fitting mask that he seemed to wear in a very comfortable way. But just like those cheap drug store masks, this mask made all those everday worries and concerns a little harder to see and hear.
+
+Once the sun went down completely, the temperature droped twenty degrees. The wind picked up again. The airship creaked in a rhyhmic way above them. "I'm cold," Jeff complained. None of them had heavy coats or sweaters on.
+
+"I've got something for that," Charlie said. He produced a scratched up metal flask from his jacket. 
+
+"Pass it around!" said Jeff excitedly. Charlie only brought out the flask on special occasions.
+
+They each took turns downing sips of brandy from the flask. It wasn't good quality, not like what Arthur's father used to drink. He remembered his father letting him try a sip at a holiday dinner when he was little. He had wrinkled his nose and everyone at the table laughed in a good humored way as the little boy said, "Yuckee daddy!" He shivered. Must be the taste of the brandy and the cold, he thought. But the shivering stopped once the brandy started to make him feel loose and warm.
+
+Charlie was the most animated. He was circling the base of the radio tower, pushing it at random, hoisting himself on it then propelling himself back on the roof. Only a foot or two at a time. Around and around. Suddenly he stopped and turned to the group, huddled together, warming their hands over a lighter. "I have an idea," he said.
+
+"What's that?" Nick asked, probably trying to get out in front of whatever crazy idea their "leader" was sure to have.
+
+"Well, no one knows why this thing is here, right?"
+
+What makes you say that," Nick asked.
+
+"No one's up here. No cops, no investigators. No scientists runnig around with geiger counters or anything. So no one knows what hte make of it."
+
+"Dumb ashes," Jeff said in a slur.
+
+"Let's help them out."
+
+"How'll we do that?" Arthur asked.
+
+"Glad you asked Paisly. 'Caus you're going to go up there." Charlie was pointing up at the airship. The twenty or thirty feet between them and the underside of the airship seemed much greater in light of this "idea."
+
+"Me?"
+
+"Sure, of course you."
+
+"Why, of course?"
+
+"Well, you're still the new guy. You haven't passed all of the tests. And this is the mother of all tests."
+
+Arthur looked wildly at the two other boys. They seemed calm and removed, as if to reinforce the idea that he had not been tested. Arthur wondered whther any of them really had had to climb up an unstable radio tower to climb into a ancient airship that had mysteriously appeared out of thin air. But no one would say anything now. They didn't want to accompany him up there.
+
+"And you're brother was some kind of mountain climber or something, right?"
+
+"Yeah, but it's not like he taught me anything."
+
+"Well, you know more than Nick or Jeff here, besides Jeff is sloshed and Nick is an egghead. He can barely do a pull up in gym." Nick nodded solemnly. Jeff was rolling side to side on his back, saying, "It's a long way up there, Paisly."
+
+"What if I say no?"
+
+"Terrible things will happen I'm sure."
+
+"Sure would be cold to be stuck up here all night," said Jeff.
+
+Arthur stared at Nick, whom he could count on from time to time to assert some reason into assignements like this. But Nick wouldn't budge. "Come on, Nick, this is crazy. That thing's not safe."
+
+"Nick is, I'm sure, very intellectually curious about what's inside that sirhip."
+
+"Then why don't you send him up there."
+
+Charlie in all of this two year older bulk stepped to Arthur, towered over him, and said, "Because I didn't tell him to. I told you. Now get up there." He shoved the flask in his hand. "Screw up your courage."
+
+There was one swig in the flask left, brandy diluted with their collective spit. Arthur downed it, not even noticing the taste. There were no arguments to be made, no one to back him up. He could bolt for the door. He even tried to shift in that direction, before realizing that Charlie had been slowly backing him against the radio tower without him even noticing.
+
+The only option, it seemed was to climb.
+
+Arthur huffed some hot breaths into his hands to loosen up his cold fingers. He bounced around a few times, shook his head. "Come on Paisly, climb!" Jeff said.
+
+"Get on with it, Paisly. Come back with a full report."
+
+Arthur grapsed the radio tower with both hands and gave it a shake. It actually seemed more secure that he had expected. He got himself up on the first rows of the tower's lattice work. The effects of the brandy made him feel more comfortable than he had epected. He kept going and got a few feet off the ground pretty quickly.
+
+He turned to look back and realized that he had come pretty far. The wind felt more severe even a little bit higher up. He also could feel the tower swaying more that it did higher up. He got higher up, and could hear the guys below whooping and hollering, even though they seemd to not be paying attention to him at all.
+
+Arthur had just a few more feet to cover before he reached the airhip. From up here, he got a better view of the tangle of fabric and metal girders wheren it was colided with the radio tower. He figured he could just grabbed one of the girders and hoist himself up. The structure probably would be rigid enough to support his weight. What he would do once inside remained to be seen.
+
+His hands were getting cold and numb now, though. The brandy wasn't working. The exertion of climbing probably had burned it all up. One by one he huffed again into his hands to warm them. He tried to pull at a little extra length of his shirt to use as golves, but his hand immediately slipped from the tower wrapped in fabric. Not worth the risk at this point.
+
+The tower creaked under his weight not that he was at the narrowest part of it. He could feel it shifting downwards. He would have to move fast. The opening into the airship wasn't as large as he had thought now that he was touch it.
+
+He shimmied up closer to the top. The airship kept bobbing just out of reach. Finally he grabbed a scrap of the outer fabric that hung down. He gave it a yank, but as he did, the tower lurched dangerously down. 
+
+Arthur kept his grip on the fabric, but he hadn't made the opening any larger. He remembered that he had a small pocketknife in his pocket. He gripped the airship tighter than before, clenched his legs to the point of straining around the tower's framework and retrieved this knife. He wished that he had Charlie's switch blade, instead of the single blade knife that needed two hand to open. He settled on using his teeth and his free hand to open it.A few tries and he managed to extract the blade and lock it in place. 
+
+The wind was noisy in his ears. Even still the ripping sounds of the fabric sounded louder than he expected. The fabric also was much tougher than expected. To have any effect at all, he had to saw at the tear in the fabric, tug at it forcefully then saw some more.
+
+Even though he was exhausted, Arthur felt a surge of strength and confidence when he realized that the opening was large enough now to climb up. The torn strip of fabric was also long enough for him to climb up like a ragged piece of rope. He could shimmy up and grab the girders and be inside.
+
+As he planned his final ascent, though, he also noticed the the din that the guys below were causing. Would anyone hear them, he wondered. He really didn't want to be hauled home for this.
+
+Arthur took a deep breath and grabbed the fabric with both hands. He let one foot go free then another. The fabric began to rip, leaving him dangling hundreds of feet above the street. The tearing stop though, and he worked his way up bit by bit. He could reach the metal frame now and swung a leg up to get inside.
+
+Just then, he could hear shouting below, and just make out, "What's going on up there!?" He heard a loud, "Oh shit" then feet scrambling on the roof top. The roof door slammed. Arthur realized that he was all alone now, hovering above town, in an ancient airship.
