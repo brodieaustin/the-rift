@@ -1,6 +1,44 @@
 The Rift
 ======
 
+<!---
+Parts
+His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
+
+He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
+
+The people around him seemed perfectly settled into their places. Distant relatives from his wife's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
+
+The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking atheistic teenager that his wife had always taken him for. He had programmed that out of himself a long time ago. And yet that little variable, that little declaration made at some point, recurred throughout their relationship. Nevertheless, he couldn't help but feel there was some other intention at work here that made the seats uncomfortable, and the room a little too warm. Even the glare of the hymnals seemed to distract him in ways even he didn't fully understand and wasn't fully able to control.
+
+The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old Anglican pews, worn by dog leashes, that he and his wife had seen so long ago on vacation. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed? Maybe kids dangling feet had done the work, another  accident of biology that the builders of the space had not foreseen.
+
+At this point, the program for the memorial was tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
+
+Bouncing like this, his mother reached over to settle him, restrain him, really. The firm hand on his knees stopped the kinetic bouncing, but didn't really restrain the inner compulsion to expel the waves of energy inside him. The order of the day was to seem serene, so he did. In some ways he felt he owed this to his mother as much as to his wife. His wife had been possessed with the same kind of nervous energy as him, quick to bounce from idea to idea. Her conversations could be long detours through memories and thoughts. But now his mother imparted her focus on setting things in order on the day. The people, the flowers, the church, the clothes, the food, all of it showed up on this inauspicious day because his mother had willed it to.
+
+From across the room, his wife's mother made a few glances in his direction, but seemed largely concerned with sisters and brothers from lives past. Their children and children's children were there too. Outside the church earlier, they had all exchanged pleasant condolences. One sister, a younger one who seemed to project herself as an outcast, stood off to the side smoking cigarette after cigarette. Her wiry, nervous hands waved away the clouds of smoke, but it didn't stop it from seeping into the church's entry way. When they had entered, the church's sublime order had been tainted by the acrid fragrance of nicotine.
+
+The kids outside had cut through those clouds, paying no attention, and no one else had seemed to give it any thought. One of his wife's older brothers had corned him outside and talked about his family, his job, and his mother in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over a smartphone.
+
+"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the device to his father. The older one turned to her father and said, "But what if something's corrupted?" she said.
+
+"It's not corrupted!" objected the boy.
+
+"You shouldn't be carrying around anything that important. I'm holding on to this until the funeral is over."
+
+By the time the conflict defused itself, people began moving inside. The hearse had arrived, and a few members of the congregation materialized to transport his wife into the church for the service. He took this as a chance to escape inside. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
+
+And so they moved through the ceremony. The priest read from the Book of Solomon:
+
+>But the righteous, though they die early, will be at rest. For old age is not honored for length of time, or measured by number of years;  but understanding is gray hair for anyone, and a blameless life is ripe old age. 
+ 
+>Being perfected in a short time, they fulfilled long years; for their souls 
+were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
+
+Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
+-->
+
 Chapter 1
 ---------
 
@@ -445,46 +483,47 @@ Lisa hadn't really considered that point before. As usual, her brother made a st
 
 "Are you saying it's a ghost ship?"
 
-Sure, why not. And I try not to go chasing after ghosts, if I can avoid it. I spent enough time doing that already."
+"Sure, why not. And I try not to go chasing after ghosts, if I can avoid it. I spent enough time doing that already."
 
 Of course he meant, "in the war". Whenever he invoked "enough time doing x" it meant the war and was a cue to drop the topic of conversation. Lisa was much more clued into the is than her younger brother. Unlike her, Arthur wouldn't observe the signs, even if he noticed them at all.
 
+Lisa stomped off through the house, grabbing Lonnie's hand as she didn. "Where are we going?"
 
+"To the shed," she said.
 
-<!---
-Parts
-His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
+The "shed" really was an old barn behind the house. It wasn't full of animals and hay, though. It hadn't for as long as Lisa could remember. She forced open the rusty door enough to squeeze through and climbed up into the loft. In one corner were boxes her brother had sent before his move home. The boxes had never been opened. A few years of dust already covered them, which made them less dusty than the other bins, barrels, and boxes in the shed.
 
-He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
+She opened the boxes, pulling out books and old clothes. "Lisa, what are we looking for?" Lonnie asked. "It's really dust...ahchoo...in here."
 
-The people around him seemed perfectly settled into their places. Distant relatives from his wife's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
+"Here it is." Lisa pulled out large coils of rope, pitons, and other climbing gear. "Here, help me get this stuff into the house."
 
-The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking atheistic teenager that his wife had always taken him for. He had programmed that out of himself a long time ago. And yet that little variable, that little declaration made at some point, recurred throughout their relationship. Nevertheless, he couldn't help but feel there was some other intention at work here that made the seats uncomfortable, and the room a little too warm. Even the glare of the hymnals seemed to distract him in ways even he didn't fully understand and wasn't fully able to control.
+"What is all of this?"
 
-The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old Anglican pews, worn by dog leashes, that he and his wife had seen so long ago on vacation. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed? Maybe kids dangling feet had done the work, another  accident of biology that the builders of the space had not foreseen.
+"Climbing equipment. My brother used to climb mountains."
 
-At this point, the program for the memorial was tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
+They piled up everything on the kitchen table. Nathaniel came in, shook his head, and turned around, raising his voice as he did, "I expect that to be put away, Lisa."
 
-Bouncing like this, his mother reached over to settle him, restrain him, really. The firm hand on his knees stopped the kinetic bouncing, but didn't really restrain the inner compulsion to expel the waves of energy inside him. The order of the day was to seem serene, so he did. In some ways he felt he owed this to his mother as much as to his wife. His wife had been possessed with the same kind of nervous energy as him, quick to bounce from idea to idea. Her conversations could be long detours through memories and thoughts. But now his mother imparted her focus on setting things in order on the day. The people, the flowers, the church, the clothes, the food, all of it showed up on this inauspicious day because his mother had willed it to.
+Instead of packing everything away, Lisa and Lonnie arranged all of the gear on the table. They gathered today the robes, the climbing aids. Put the worn boots with an equally worn pair of gloves. "There's a lot of stuff here," Lonnie commented. Lisa nodded her head.
 
-From across the room, his wife's mother made a few glances in his direction, but seemed largely concerned with sisters and brothers from lives past. Their children and children's children were there too. Outside the church earlier, they had all exchanged pleasant condolences. One sister, a younger one who seemed to project herself as an outcast, stood off to the side smoking cigarette after cigarette. Her wiry, nervous hands waved away the clouds of smoke, but it didn't stop it from seeping into the church's entry way. When they had entered, the church's sublime order had been tainted by the acrid fragrance of nicotine.
+She decided that leaving the equipment on te table might persuade her brother to take it up and go help out at the site of the airship. In the meantime, she wondered what was going on with back in town. The radio in the parlor wasn't working--hadn't worked for a few years now, so they went out to Lonnie's car to listen.
 
-The kids outside had cut through those clouds, paying no attention, and no one else had seemed to give it any thought. One of his wife's older brothers had corned him outside and talked about his family, his job, and his mother in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over a smartphone.
+"...Local authorities advise residents to stay away from the center of town. The airship could be unstable. Officials from the FAA were not able to comments on the situation, not having been advised of any lighter than air craft that might be in the vicinity. Locally, air traffice controllers in the region are puzzled as well. Based on the airship current position and heading, no airports in a 10 mile radius of is flight path detected any abnormal activity."
 
-"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the device to his father. The older one turned to her father and said, "But what if something's corrupted?" she said.
+"It's weird, isn't it?" Lisa said, talking over the steady cadence of the radio announcer.
 
-"It's not corrupted!" objected the boy.
+"The airship, definitely."
 
-"You shouldn't be carrying around anything that important. I'm holding on to this until the funeral is over."
+"Not just the airship, but the idea of it too. It's weird to think about where it came from. Why it's here."
 
-By the time the conflict defused itself, people began moving inside. The hearse had arrived, and a few members of the congregation materialized to transport his wife into the church for the service. He took this as a chance to escape inside. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
+"Must have blown off course or something."
 
-And so they moved through the ceremony. The priest read from the Book of Solomon:
+"Maybe but you heard what they just said. No one noticed a thing. Dont you think someone would have picked it up on radar or something?"
 
->But the righteous, though they die early, will be at rest. For old age is not honored for length of time, or measured by number of years;  but understanding is gray hair for anyone, and a blameless life is ripe old age. 
- 
->Being perfected in a short time, they fulfilled long years; for their souls 
-were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
+"Well, that's just what they're saying..."
 
-Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
--->
+"So, it's a cover up." Lonnie had a tendency to posit cover ups for a wide variety of inexiplicable occurances around town.
+
+"Not exactly. I don't know. But it came from somewhere, right? What if there are more?"
+
+"More airships drifting long with seemingly no one piloting it? Seems unlikeyls. What didn you want v
+
