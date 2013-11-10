@@ -382,8 +382,6 @@ In their minds, they posed and modeled as someone they knew or had seen in a mov
 
 "Could be major, like an earthquake or something," said Jeff. Noone bothered to point out the obvious problems with his theory. One by one, they slid down the rope to the ground.
 
-<<<<<<< HEAD:index.md
-=======
 They assembled around Charlie's black, banged up car. He sauntered up slowly, as if reminding them that they travelled by virute of grace. He was a few years older and having a car made him a very powerful, and persuasive, figure in the group. Once in the car, Charlie passed the cigarettes around again. Arthur knew that he'd have to figure out a way to get the smoke smell off his clothes at home. The vial of perfume he had lifted from this sister's room had caused more problems than it solved for him.
 
 Much as they had on the wooden platform in the woods, each boy sat mostly silent, smoking, staring out at the farmlands around Briersville. They were only a few miles away from the center of the town, but the landscape and worlds between here and there could not have been more different. They didn't have to travel long, though, before they each saw a enormous thing hovering over their town.
@@ -527,10 +525,6 @@ She decided that leaving the equipment on te table might persuade her brother to
 
 "Well, that's just what they're saying... It's some kind of cover up?"
 
-<<<<<<< HEAD:index.md
-Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
--->
-=======
 "Not exactly. I don't know. But it came from somewhere, right? What if there are more?"
 
 "More airships drifting long with seemingly no one piloting it? Seems unlikey, doesn't it?"
