@@ -77,13 +77,20 @@
     $(document).ready(function(){
         
         init();
-        var counts = [];
+        var wc_counts = [];
+        var wc_totals = [];
+        wc_counts = [0];
+        wc_totals = [0];
 
         $.getJSON('http://brodieaustin.com/nanowrimo/data.php?jsoncallback=?', {url: 'http://nanowrimo.org/wordcount_api/wchistory/brodieaustin', format: 'json'}, function(data){
             $.each(data.wordcounts.wcentry, function(index, value){
-                counts.push(value.wc)
+                wc_counts.push(parseInt(value.wc));
             });
-            $('.inline-bar').sparkline(counts, {type: 'line', height: '20px', spotColor: false, minSpotColor: false, maxSpotColor: false, lineColor: '#888', fillColor: false});
+            /*for (i = 1; i < wc_counts.length; i++){
+                wc_totals.push(wc_counts[i] + wc_totals[i-1]);
+            }*/
+            console.log(wc_totals);
+            $('.inline-bar').sparkline(wc_counts, {type: 'line', height: '20px', spotColor: false, minSpotColor: false, maxSpotColor: false, lineColor: '#888', fillColor: false});
         });
 
         $('#save-bookmark').click(function(){
