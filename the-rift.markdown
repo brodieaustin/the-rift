@@ -1,44 +1,6 @@
 The Rift
 ======
 
-<!---
-Parts
-His legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest. Calling it fervor would have done a disservice to his mother. He wouldn't corrupt this memory with inaccurate depictions. He had always prided himself on the accuracy, on the order, of his feelings.
-
-He could put his feelings into such tidy arrangements, that even the memorial for his wife after her death could be parsed out into manageable actions. He had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in his wife's will. Intentions he had nodded over at some time. Now those intentions were made manifest, his wife's spirit embodying itself in the plans that friends and family executed on that day, at that memorial. 
-
-The people around him seemed perfectly settled into their places. Distant relatives from his wife's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
-
-The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking atheistic teenager that his wife had always taken him for. He had programmed that out of himself a long time ago. And yet that little variable, that little declaration made at some point, recurred throughout their relationship. Nevertheless, he couldn't help but feel there was some other intention at work here that made the seats uncomfortable, and the room a little too warm. Even the glare of the hymnals seemed to distract him in ways even he didn't fully understand and wasn't fully able to control.
-
-The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old Anglican pews, worn by dog leashes, that he and his wife had seen so long ago on vacation. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed? Maybe kids dangling feet had done the work, another  accident of biology that the builders of the space had not foreseen.
-
-At this point, the program for the memorial was tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
-
-Bouncing like this, his mother reached over to settle him, restrain him, really. The firm hand on his knees stopped the kinetic bouncing, but didn't really restrain the inner compulsion to expel the waves of energy inside him. The order of the day was to seem serene, so he did. In some ways he felt he owed this to his mother as much as to his wife. His wife had been possessed with the same kind of nervous energy as him, quick to bounce from idea to idea. Her conversations could be long detours through memories and thoughts. But now his mother imparted her focus on setting things in order on the day. The people, the flowers, the church, the clothes, the food, all of it showed up on this inauspicious day because his mother had willed it to.
-
-From across the room, his wife's mother made a few glances in his direction, but seemed largely concerned with sisters and brothers from lives past. Their children and children's children were there too. Outside the church earlier, they had all exchanged pleasant condolences. One sister, a younger one who seemed to project herself as an outcast, stood off to the side smoking cigarette after cigarette. Her wiry, nervous hands waved away the clouds of smoke, but it didn't stop it from seeping into the church's entry way. When they had entered, the church's sublime order had been tainted by the acrid fragrance of nicotine.
-
-The kids outside had cut through those clouds, paying no attention, and no one else had seemed to give it any thought. One of his wife's older brothers had corned him outside and talked about his family, his job, and his mother in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over a smartphone.
-
-"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the device to his father. The older one turned to her father and said, "But what if something's corrupted?" she said.
-
-"It's not corrupted!" objected the boy.
-
-"You shouldn't be carrying around anything that important. I'm holding on to this until the funeral is over."
-
-By the time the conflict defused itself, people began moving inside. The hearse had arrived, and a few members of the congregation materialized to transport his wife into the church for the service. He took this as a chance to escape inside. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
-
-And so they moved through the ceremony. The priest read from the Book of Solomon:
-
->But the righteous, though they die early, will be at rest. For old age is not honored for length of time, or measured by number of years;  but understanding is gray hair for anyone, and a blameless life is ripe old age. 
- 
->Being perfected in a short time, they fulfilled long years; for their souls 
-were pleasing to the Lord, therefore he took them quickly from the midst of wickedness. 
-
-Then she went on to describe his wife, and her time at the church, which had been short lived, and made even shorter by her untimely death. "But in saying untimely, what are we really saying? Are we seeking to find consolation in the fact that death was not deserved? Or do we provoke our strong feelings of sorrow and despair that something unjust and inexplicable happened. Solomon encourages us to look beyond our own notions of time. Our time and our experience here is not like building blocks, stacking one upon the other in an inevitable progression. Our 'understanding' and our embrace of a 'blameless life' can mark a detour, a break with what we were. Even in our youth, we can live with the wisdom and poise of someone beyond our actual age. And that's what Caroline was to us, those of us who knew her and welcomed her into our church."
--->
-
 Chapter 1
 ---------
 
@@ -659,3 +621,214 @@ As he planned his final ascent, though, he also noticed the the din that the guy
 Arthur took a deep breath and grabbed the fabric with both hands. He let one foot go free then another. The fabric began to rip, leaving him dangling hundreds of feet above the street. The tearing stop though, and he worked his way up bit by bit. He could reach the metal frame now and swung a leg up to get inside.
 
 Just then, he could hear shouting below, and just make out, "What's going on up there!?" He heard a loud, "Oh shit" then feet scrambling on the roof top. The roof door slammed. Arthur realized that he was all alone now, hovering above town, in an ancient airship.
+
+Chapter 6
+---------
+
+Lisa forgot that Earl's diner was closed because it sat right near the office building with an airship pinned to it. They got as far as the police barricade before a police officer waved them off. They turned around and drove to the Moonlight, which was a little more rundown and a little more greasy than Earl's. But they were both hungry and the Moonlight had decent milkshakes.
+
+Figthing with her older brother had made her completley forget about her younger brother. She said outloud as they pulled in front of the diner. "I wonder where Arthur is right now?"
+
+"Probably up to no good," said Lonnie, forgetting, as he seemed to do, that this was a sensitive subject with her. 
+
+Her glare at him bore a striking resemblance to her brother's glare and she said, "I'm sure he's fine. Let's eat."
+
+Their waitress turned out to be the mother of one of Arthur's new "friends." Ms. Halloway was a lady with reputation, which generally meant bad things in Briersville. She was a smoking and drinking kind of woman, but in a rougher way that the other smoking and drinking ladies in town didn't approve of.
+
+She obviously had just come in from a smoke break because she was coughing as she walked up to them.
+
+"Know what you want yet?"
+
+Lisa looked over the menu. "I'd like a breakfast."
+
+"Just eggs, hashbrowns and toast now. Nothing else."
+
+"Okay, I'll have that."
+
+"What's your soup?" Lonnie asked.
+
+"Vegetable soup."
+
+"Is it good?"
+
+"It's soup."
+
+"Hmmm... I just can't decide. Should I get the soup?" He seemed genuinely concerned about the soup. "Okay, I'll get the soup. And an order of french fries."
+
+"Fryer's broken."
+
+"Hashbrowns then."
+
+"Fine." She scribbled a few things before being called to another table with a brusque, "Lorraine!"
+
+When their food arrived, Lisa decided to ask Ms. Halloway about Arthur. Maybe she saw them. "Ms. Halloway, I'm Lisa Plaice. Have you seen my brother around?"
+
+"Why would I have seen your brother?"
+
+"I don't know. He's been hanging aroudn with your son, Charlie."
+
+"And why would I have seen him. I'm here all day and night it seems. It's not my job to keep tabs on your brother for you, young lady."
+
+"I'm sorry, I just thought maybe they had come by."
+
+"Come by here? I'm glad they didn't." Another customer was waving her away again. "Just eat your food and stop asking questions about my son."
+
+"Yes, mam," was Lisa's meek reply, even though she was roiling with anger inside.
+
+Lonnie was slurping at his soup, "How's your food?"
+
+Lisa was picking at her eggs and hashbrowns staring out of the window when a police car pulled up in front of the diner. The flashing lights lit up the counters and booth with red and blue. An old woman covered eyes, complainging about the bright lights. The lights obscured who was in the car. An officer steped out, then a door slammed. The diner door jingled and Ms. Halloway's son Charlie was pushed through the open door by the police officer.
+
+"Is Lorraine around?" the officer asked the other waitress. Ms. Halloway came out of the kitchen, grabed an order that was ready, and walked past the officer and her son.
+
+"What'd he do now?"
+
+"Well, mam, might be something to discuss in private," said the officer, scanning the room and all of the eyes that were trained at him. Having an audience like this made the young man uncomfortable. Charlie stood with head down. More because he seemed tired than out of a sense of shame.
+
+Ms. Halloway passed back by, saying brusquely, "Officer, I don't have time for this. You," she pointed at her son, "take a seat there. My shift is over in an hour." Her son slunk down in the last booth of the diner, kept his head down and didn't look at anyone. 
+
+Lisa got up and started walking towards him. "Lisa, where are you going?" Lonnie asked.
+
+"I'll be back," she said. She walked up to Charlie, who didn't bother to look up at her. He was pouring salt and pepper into piles on the table.
+
+"What d'you want?" he asked.
+
+"Where's my brother?"
+
+"How should I know?"
+
+"It's not an unreasonable question."
+
+"Buzz off."
+
+Lisa returned to her booth. Lonnie had finished his soup. "How did it go?"
+
+"Not well."
+
+"Lisa?"
+
+"Yes, Lonnie?"
+
+"I've been thinking..."
+
+"Not now..." Lisa's attention shifted to the row of police cars that had pulled up and the police chief who was coming in to the dinner now. He sat at the counter top. When he caught Charlie's mom's eye he said, "Ms. Halloway, we need to have a word."
+
+"I'm busy chief."
+
+"No worries about that. I called up Sal and he said you could have a nice long break. So why don't you pour a cup of coffee for me in a to-go cup and let's step outside."
+
+Lorainne poured hte coffee and tossed her apron on the counter in defeat, stepping outside with the police chief.
+
+Lisa leaned forward and whispered, "Lonnie, I have to go to the lady's room."
+
+He leaned forward and asked, "Why are you whispering?"
+
+She got up anyway, walked to the other side of the diner, passing Charlie as she did. They locked eyes, like hunter and prey, as she crossed him. She stepped into the lady's room. The window was just large enough to slip through. She scooted the garbage can over and hoisted herselt up. She swung her leg up on to the metal window frame, then rolled to the side and out the window. Hanging on the other side of the window, she let herself drop to teh ground.
+
+Lisa felt like a sleuthign detective or a spy, creeping close the diner's outer wall. She deparately wanted to hear what the chief was saying to Charlie's mom. Her gut told her that something was a going on, but she didn't quite enough pieces for her imagination to figure out what.
+
+At the corner, she slunk down with her back aginst the wall and listened. She could hear the chief say, "I'm only going to say it again. If your boy crosses our barricades again, he's going to be put in jail. I'm dead serious about this Lorraine."
+
+"Then why don't you take him now?"
+
+"Because he's a kid and I knew your father. Boys will be boys and all that but you have to admit this crosses the line."
+
+"I still don't understand what you're so upset about," Charlie's mother said.
+
+"Lorraine, wake up! Your son is turning into a deliquent. He and those other boys were on top of that building drinking and smoking and doing whatever else. It's enough that they were trespassing on private property, but given the current situation, they were putting their lives and other people's lives at risk. What if they had caught that airship on fire. What then?"
+
+Lisa could only hear silence. Apparently Charlie's mother had so hardened herself against caring about her son's failings, that even this warning did little to move her. Lisa tried to piece together what exactly had been going on. Arthur's "friends" were caught hanging out on top of hte building with the airship. She wondered if Arthur had been up there too?
+
+When she heard the door jangle again, she quickly turned the corner and pretended to be calmly walking along to go into the diner. "Chief Carruthers! Chief Carruthers!"
+
+The police chief turned. "Lisa Plaice. What can I do for you?"
+
+"Chief, I was just wondering if you've seen my brother."
+
+"Arhtur? No, not tonight. I've got to run, some other places to be tonight." He got back in the passenger seat of the last remaining squad car and drove away. 
+
+Lisa assumed that he had other calls like this one to make. But it was strange that he hadn't seen Arthur. Would he have told her if her brother was in trouble? He had talked to her before about trying to keep him inline, to make sure that he came in contact with the "right influences." Once he put that burden on her, wouldn't he have volunteered information about Arthur to her?
+
+As she tried to go back into the diner, Charlie ran into her as he was bolting out of the diner. "Get out of my way," he said and started to jog down the street.
+
+Lisa turned to chase him. She ran track in school and quickly overtook him. She grabbed at the loose folds of his jacket and yanked him back. Surprised by her strenth, he stopped. He whipped around, fist raised and ready to hit her, but he yanked his other arm free. "What do you want?"
+
+"I want to know where my brother is."
+
+"I got nothing to say. Will you leave me alone."
+
+"I bet you were up on that roof with him. And I want to be sure he's okay."
+
+"Oh, he's okay, just a little light on his feet right now." He bolted away from her. She decided not to chase after him again.
+
+She walked back to the diner and found Lonnie waiting for her, leaning against the car. "Lisa," he said as she walked up to him. "I think I better go. And maybe...maybe we shouldn't see each other for a while."
+
+"What do you mean, Lonnie?"
+
+"I don't know. Things seem...pretty complicated around here. You're fighting with your brother. You're climbing out of bathroom windows and chasing after guys like that."
+
+"I'm just worried about my brother, Lonnie."
+
+"I get that. I really do. But it doesn't have anything to do with me. So, I think I better go."
+
+"Fine, Lonnie. Can you at least drop me off at home."
+
+"I don't think that's such a good idea."
+
+"How the hell am I supposed to get home then?"
+
+"I don't know. I bet someone will give you a ride."
+
+"You want me to hitch back home?"
+
+"I'm not saying that. There seems be a lot of police officers in and out of that diner. I bet one of them will take you home."
+
+"If that's the way you feel, then I think you'd better go." She turned away from him, not wanting to let him see her crying. She didn't really know why she was crying, but she was.
+
+"Are you crying?"
+
+"Just leave Lonnie. I'm not crying. Not crying for you anyways. And what business is it of your's anyway."
+
+"I don't want to be upset."
+
+"Lonnie, I think my brother's in trouble and you're the last person I want to tell about it right now."
+
+She went back inside to the diner and sat at the empty booth. The plates had not been cleared away yet. It seemed like Charlie's mother was causing some kind of disturbance in the back. The unpaid check still sat on the tablet too. Lonnie hadn't been kidding when he said that he couldn't cover the cost of dinner wherever they went.
+
+She pulled out the slim wallet that she kept in her jacket pocket got money to pay for dinner. She decided to leave a little extra tip for Ms. Halloway. She wasn't sure if this was a kidn gesture or a condescending one. Regardless, Charlie's mom might ot even register the difference. What mattered, Lisa decided, was how she felt about the gesture. She decided it was done out of kindness and was a way of saying, "It'll be okay. And this token is a little bit of proof that I have to show it."
+
+Chapter 7
+---------
+
+A few whiskeys later and Nathaniel was thinking about the past. The kitchen wasn't perfectly cleaned up. The pot of soup had been cooling for some time now, but Nathaniel was too immersed in his thoughts of days in teh past to get up and bother with it. 
+
+Their father's death had been sudden, particularly for him, since he tried not to stay in too close contact with him. It suited Nathaniel just fine being a recluse from his fmaily--from eeryone--in Colorado. When he worked in the mountains, no one expected him to say much of anything that suited him well.
+
+IT was hard now, though, to remember why exactly he went to Colorado. Certainly it was a relief that he wouldn't have to march in any parades or accept any resouwrds for bravery or valor or whatever.
+
+As he cycled throuhg old thing in his mind, he kept coming back to feeling that he had on the day of his father's funeral. He had just flown in on a small plane from a small regional airport. He had taken buses and trains and airplanes to get there. Yet despite having travelled for two days and hardly had anything to eat, he could help feeling that his legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest.
+
+The strange thing was that his father hadn't been a religious man. Nathaniel hadn't remembered him being that way, at least. He always seemed like a man of the world, very concerned with things in the here and now. But his father's will had stipulated that he was to have a funeral ceremony in the town's Episcopal church.
+
+So, Nathaniel had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in the will. Intentions he had nodded over at some time. At the service those intentions were made real, his father's spirit embodied itself in those plans.
+
+He remembered how everyone around him seemed perfectly settled into their places. Distant relatives from his father's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
+
+The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking teenager that his father had always taken him for. Those feelings had long since been replaced by other ones. The war had seen to that. Now he could launch into action with little thought as to why. S,o, even though he had learned a good deal many "life lessons" and could be called a man with little quibbling over the term, he couldn't help but feel there was some other intention at work here that made the seats and the temperature in teh room and the other people made him uncomfortable.
+
+The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old pews in Europe, worn by centuries of common people lumbering back and forth between work and church. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed?
+
+The memorial program, which he figured had been tossed into a box somewhere for good keeping, had been tightly rolled up in his hands. He almost seemed to be strangling the thing as his hands clasped it, and kept is suspended between his knees. Fifteen minutes in to the ceremony, and he found that the had to perch at the edge of the pew. This kept his feet firmly planted on the floor, until he started to bounce on the balls of his feet. The roll ed up program jostled up and down as he did. His new brown shoes creaked around the toes as he did. 
+
+From across the room, his younger sister made a few glances in his direction, but seemed largely concerned with friends from school and a few distant cousins who were closer to her age. 
+
+Outside the church earlier, they all exchanged pleasant condolences. A few small children ran and play outside. They didn't understand at all what had just happened. They had just witnessed how fragile life really is, but their energy couldn't be contained any longer in the stiff stiches of their best outfits. One of his father's "old friends" corned him outside and talked about his family, his job, and his father in quick succession before tersely asking, "How are you?" before being absorbed into settling an altercation between his children over some toy or another.
+
+"Then no one will have it!" the brother boomed. His voice drained the defiance from the children, and the younger one handed over the toy to his father. The older one turned to her father and said, "But what if something's broken?" she said.
+
+"It's not broken!" objected the boy.
+
+"You shouldn't be carrying around anything that important. I'm holding on to this until we get home."
+
+By the time the conflict defused itself, people began moving on to their cars, or walking home if they lived close enough. The hearse had arrived, and a few members of the congregation materialized to transport his father. Nathaniel took this as a chance to escape inside one of the cars waiting for him and his brother and sister. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
+
