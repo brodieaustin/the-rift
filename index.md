@@ -836,3 +836,45 @@ Outside the church earlier, they all exchanged pleasant condolences. A few small
 
 By the time the conflict defused itself, people began moving on to their cars, or walking home if they lived close enough. The hearse had arrived, and a few members of the congregation materialized to transport his father. Nathaniel took this as a chance to escape inside one of the cars waiting for him and his brother and sister. He wasn't asked to be a pall bearer, so it was the duty of that strange, strange to him, at least, collection of men in suits of many sizes to carry the plain, black lacquered coffin.
 
+When Lisa came through the door, he was completely drunk and not inclined to reminiscing anymore. "Where's your brother?"
+
+"He's not here. Oh, I think something's really wrong."
+
+"It's not that late. He'll be back."
+
+"But what if he doesn't come back?" His sister was pacing in front of him.
+
+"At least sit down. Have a drink..." he interupted himself with a sputtering laugh.
+
+"Nathaniel, this is serious. Why are you so drunk anyway?"
+
+"I was remembering things."
+
+"Like what?"
+
+"Dad's funeral."
+
+"Oh."
+
+"It doesn't matter now. None of it matters."
+
+"What doesn't matter?"
+
+"None of it. I mean, all of it. You know what I mean."
+
+Lisa walked over and took the half nearly empty bottle of whiskey from the table and went into the kitchen. He sat there in the dim living room listening to the running water, plates cracking together from being dried and stacked.
+
+In what seemed like mere minutes, his sister reappeared in teh door and say, "I'm going to bed. I'm going to hope that Arthur comes home tonight."
+
+"Don't worry he will. He will..."
+
+He sat perfectly still for a while longer then decided to get himself up off the chair and do something. He walked up to the windows and pressed his face against the glass. The fall night had made the glass cold. The cold comforted him, made thing seem simpler. But what was on the other side of that cold glass? Nothing but the pitch black nighttime.
+
+There was no sense of horizon or landscape. Maybe the flocking of a few trees in the distance. Nathaniel stepped back from the window and realized that he was agonizing over the decision whether or not to climb up to the airship. He didn't know why he was agonizing over it, but he was.
+
+He heard creaking footsteps upstairs. That was the reason. He look around. And this place too. This was the reason. That rug, the chair, the lamp. The walls. The old pictures. Everything was trying to compell him to do something that he didn't want to do. In a fit of anger, he rushed to the sofa and grabbed the pillows, tossing them across the room. He kick at the sofa, sending it spinning across the floor. A lamp broke which sent a picture falling from the wall.
+
+He slumped down, all the way down to the floor, and fell asleep curled up on the discombobulated rug.
+
+Chapter 8
+---------
