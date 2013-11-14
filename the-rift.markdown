@@ -972,14 +972,115 @@ Chapter 9
 
 The airship's cabin was cold, freezing cold. It didn't offer much more protection that if he'd been hanging from the side of the thing over the town. Getting into the cabin had been a challenge though. The girders were narrow. His hands and feet were freezing cold. He inched along until he reached the gangway that ran down the center of the ship to a ladder. 
 
-He poked his head up into the cabin and looked around. Empty. The cabin had been completely empty. It wasn't even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he hadn't been so cold, Arthur would have assumed that he was dreaming.
+He poked his head down into the cabin and looked around. Empty. The cabin had been completely empty. It wasn't even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he hadn't been so cold, Arthur would have assumed that he was dreaming.
 
 Once he made it into the cabin, the airship seemed much more stable than it had when we was crawling along its skeletal frame. The clank of the metal under his feet was reassuring. He studied the primitive controls, really nothing more than ropes and levers stationed in front of a angled bank of windows. 
 
 From those windows, he could look down directly to the street below. He felt like he was thousands of feet in the sky, even though he knew it was more like hundreds. What else was there to do up here? A radio would have been nice. He could call someone to rescue him. Surely someone would come to rescue him, eventually. If nothing else, someone would have to come up and figure out what was going on in the airship. What if there had been an injured pilot.
 
-So, he walked around opening the cabinets, slamming them shut. There really wasn't much to do up here. So, he sat down, huddled up and waited.
+So, he walked around opening the cabin. There really wasn't much to do up here. So, he sat down, huddled up and waited.
 
 Then the cold came. So much cold that he couldn't keep out. It seemed like an endless supply of cold would fill that cabin forever until he could see the first glimmerings of the sun off in the east. A few shafts of light colored the sky, then the sun's hot dome began to peek over the horizon. 
 
-Arthur went from side to side, caught up in the beauty of the view. From up here, he could trace out the roads leading in and out of town. The creeks that wound there way through the country side, hunting for a river to connect to. 
+Arthur went from side to side, caught up in the beauty of the view. From up here, he could trace out the roads leading in and out of town. The creeks that wound their way through the country side, hunting for a river to connect to. Square patches of fields dotted the landscape like big blocks of paint, like abstract paintings he had seen in class. 
+
+Land, land was everywhere he looked. But not just any land, this was the land that he known all of his life. But he had been down in it, or on it for so long, moving here and there without thinking much about everything else around him. Everything below seemed still and calm. The world was at peace with itself. For the first time in the few hours he had been up in the airship, he didn't regret taking the dare and climbing up. 
+
+Once the sun came up, he started to want something for breakfast. The airship didn't seem to have much in it.. It wasn't as if he had not skipped a meal or two before. That's what running with Charlie and the guys meant sometimes. Charlie and Jeff really seemed to hold up their disjointed lives as a source of pride and envy. He and Nick were definitely the more "normal" kids, though Arthur didn't feel like he belonged in that category and more. At least Charlie and Jeff had parents, even if they didn't live up to the name.
+
+"I wish I had a book," he said out loud. No one answered. He got up and poked around some more. There was a small navigation room behind the main cabin area and a mess behind that. There were a few berths built into the middle of the cabin as well. There wasn't much in the way of books, but he spent some time stuying the maps on the chart.
+
+Most of the maps were old, places that were mostly cities now only showed up as a meeting place of a few winding roads. Probably highways around them now, Arthur thought.
+
+His grumbling stomach interrupted him. He went back into the galley. It was very tidy. Every surface either had been meticulously cleaned or never used. It was hard to tell whcih was the case. He did find a few ancient looking cans. One seemed suspicously bent of our shape so he put it back. Besides, did didn't have a way to open them.
+
+So, he gave up on the cans of food and let the hope that someone would come get him suppress his hunger.
+
+As he sat there, dealing with the creeping feeling of hunger, he thought how funny it was that this was the highest in the sky he had ever been. At least that he remembered. His sister had told him before about a trip they took with their mother to see some distant cousins they had never met before then. They had travelled to a large airport and flown in the largest plane she had ever seen.
+
+He remembered how the story had filled his sister's teenage with awe and wonder and excitement. But it had left him feeling nothing. He couldn't remember anything about the trip. It didn't help that the awe and wonder and excitement gave way to another key part of the story, the sad ending that followed. 
+
+As she told it, this was the last time either of them would see their mother, who dropped them off at their relatives. Then their mother disappeared. Arthur could hardly remember her face anymore. But what did that matter? She had left and gone on somewhere. 
+
+Then there was their father. His work as an engineer took him all over the world. But the children didn't go with him, at least Arthur and his sister didn't. Nathaniel was old enough and got to see the world. Then he left again for the Army and the war. Nathaniel had seen so much and Arthur had seen so little.
+
+It was only fitting now, he thought, that he was the first and, so far, only person to experience being up in the "ghost ship," which was what he decided to call it. 
+
+His parents were nothing but ghosts to him now. Their memory took up such a small part of him. Maybe it made him a bad person, to forget them the way he did. But they stepped back into the shadows, lingering behind heavy drapes that covered over these parts of his life. And it was no good to go and fight to have them uncovered. He flet that all the time.
+
+Maybe this was why he found his borther and sister's responses to thier parents so odd and frustrating. Nathaniel just seemed to angry all of the time. Lisa was more cheerful, but always referenced some little phrase or a expression that their parents made, particularly their mother. She must have been concerned that he would forget the small things that start to make a person a real person, and not just a collection of observerable facts. No person could be put under a microscope and fully understood, no matter how many pieces you were able to unentangle from the whole and present to someone else as something complete and understandable.
+
+He didn't have any of these reference points to go off of, only their extremem responses. He had to find his footing on broken and loose rocks of their own rememberances and relationships. So, he resented the feeling that he wasn't truly a part of them.
+
+Now that the sun was up and the rush of getting aboard the airship had worn off, Arthur realized how tired he was. He lay down on the hard floor and closed his eyes. With the sun shining through the windows, the cabin grew warmer, which help ease him into sleep.
+
+Chapeter 10
+-----------
+
+When she woke up and didn't hear any sounds in the house, Lisa started to panic and worry. She wrapped herself up in her robe and went downstairs. The house was completely empty, even after wandering about and shouting, "Nathaniel! Arhtur!"
+
+She was worried about Arthur now more than ever. Normally, he would sneak back in late at night. She kept checking his room to see if he was in there, as if she had missed him the first five or six times she looked. 
+
+Wandering around the house and the yard this way had half woken her up. She took a hot shower then made herself a proper breakfast. Sitting at the table eating an egg and toast and sipping at a cup of coffee, an indulgence that Nathaniel recenly started to allow her, she planned out what her day would be. She would need to go see the airship again to just make sure it was real and still there. Then she would look for her brothers.
+
+But in the midst of this planning it dawned on her that she needed to go to school. She had a chemistry test and lab today. And there was a short paper due about Turn of the Screw that she needed to turn in today. She immediately felt angry at herself for forgetting about these mundane things, but how could she be expected to remember when there was an enormous airship hovering above town.
+
+In fact, she wondered if school was cancelled. Her high school, the town's high school, was near downtown. Maybe they had closed the school. There was only one way to find out.
+
+Since Nathaniel wasn't around to drive her to school, she would have to do it herself. The school bus didn't normally come by their house, so there was no sense in waiting around for that. She didn't technically have a driver's license yet, but these were kind of extraordinary circumstances. 
+
+Lisa grabbed her school things. She got into their truck and headed down the road. 
+
+Everything was cold and crisp that morning. The sun seemed particularly bright too. It was a beautiful morning, which she felt like she should appreciate more, but was too preoccupied with not stripping the shifter in her brother's green pick up truck.
+
+She saw a police car up ahead, heading towards her. She sat up straight and tall and tried to look like she belonged behind the wheel. She resolved not to make eye contact with the police officer in the car, but as the car passed she couldn't help but look. It was one of the younger police officers on the force, whome she recognized as being one of her brother's friends from a long time ago.
+
+The police officer made eye contact with her too. The car didn't turn on its lights though, so she assumed she was in the clear. She looked back in the rear view mirror and saw it swing around in a wide circle, kicking up dirt and dust from the side of the road as it did. Then the lights came on and Lisa realized that she was caught.
+
+She pulled off to the side and waited for the car to catch up, which only took a minute. The car stopped and the police officer, whose name was... She couldn't remember. But when he stood next to her, she thought his name was Todd.
+
+He seemed a little awkward to be a police man. He had every right to pull her over for driving without a license. Lisa nervously started talking, "I left my purse at home."
+
+"What's that?" There was chatter on his radio.
+
+"My purse. It's at home."
+
+"No matter. I'm just surprised to have passed you by like this."
+
+"Can I ask why?"
+
+"I was coming to your house."
+
+"Why's that?"
+
+"It's your brother."
+
+"Arthur, is he okay?"
+
+"No, not Arthur. It's Nathaniel. And he's fine. He was taken in to the station last night to get a little clearer." Lisa didn't say anything. "I think you should come down to the station and be there when he wakes up. Seemed pretty out of it from what I heard."
+
+"What happened?"
+
+"Can't say exactly. But I don't think he was doing too well last night. Why don't you follow me into town."
+
+"Oh, but I have to be at school and I have a test."
+
+"I'll radio in and have someone contact the school."
+
+Lisa wondered if this help was above and beyond Todd's duty as a police officer. He seemed genuinly concerned about her brother. She hoped that he wasn't really that bad off. She had seen him in some pretty dark places, particlarly in those early days when he came back home.
+
+She still didn't really understand why coming back was such a bad thing. But he made it clear to both of them that he didn't want to be there. It made her cry many times. Nathaniel rarely had comforting words for her, and was more likely to say, "I'd be crying too if I were you." Arthur wasn't much help either. He started running with those deliquent guys and not being around as much as before.
+
+It was strange how alone she had felt in those early days after her father died. He really was never around much, travelling all over the place. Their caretaker, a woman named Constance, lived with them and took care of them, only visiting her family on teh weekends. But with more people around than ever, she felt very strongly how thigns had come apart. The people in her life seemed further apart than ever before.
+
+As he followed behind the police car, her confidence behind the wheel surged. She pulled up in an empty parking spot, killed the engine, and hopped down the truck, wondering what lay in store for her inside the police stations.
+
+Chapter 11
+----------
+
+"I think you should call a press conference earlier today. Let's try to get in front of some of these reporters and cameras that are coming in to town", the mayor's assistant said. He had been her campaign manager, in a town where no one had even considered that a mayor might need such a thing, and now was her "right hand."
+
+He wasn't always such a great right hand, but having someone there, anyone really, made her look more powerful and that mean something to the mayor.
+
+
+
