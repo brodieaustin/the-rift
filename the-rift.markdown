@@ -870,7 +870,116 @@ There was no sense of horizon or landscape. Maybe the flocking of a few trees in
 
 He heard creaking footsteps upstairs. That was the reason. He look around. And this place too. This was the reason. That rug, the chair, the lamp. The walls. The old pictures. Everything was trying to compell him to do something that he didn't want to do. In a fit of anger, he rushed to the sofa and grabbed the pillows, tossing them across the room. He kick at the sofa, sending it spinning across the floor. A lamp broke which sent a picture falling from the wall.
 
-He slumped down, all the way down to the floor, and fell asleep curled up on the discombobulated rug.
+He pitched himself into a wall, bounced across to the other wall, then lunged forward to the front door. It gave way before him and he spilled out onto the front porch. He was coherent enough to get down the steps. From there, he was a drunk man staggering down a narrow country road. Heading who knows where.
 
 Chapter 8
 ---------
+
+No one left the police station that night. Every officer, on duty and off, stayed around talking about one topic: the airship. Pots after pot of coffee was brewed, thermoses filled and taken to the officers staffing the barricades that night. The police chief assigned one officer to watch the building, be up close and personal with it. "No more kids on the roof top," he said.
+
+The police chief had been on the phone all day and into the night. Talking to reporters, confering with the state police. He had even gotten a call from the FBI. He doled out pieces of information as he got them. Everyone felt the importance of being the focus of so much attention.
+
+The question on everyone's mind was, "Where did it come from?" Followed by "Will it blow up?" But after all of the conversation, no one had any answers. The consensus was that they were no under attack. No enemy forces had come pouring from the airship's cabin. Though why Briersville would be a strategic target was not broached.
+
+The chief wouldn't comment if this was some kind of military experiment. Certainly no one from the military had shown up. But a few people in the station were convinced that this was an emergency preparedness excercise of some kind. Most of the other officers laughed this off, but everyone felt a twinge of uncertainty. Were they failing the test or not?
+
+Officer Doyle rubbed his eyes at his desk. His desk chair could creak back to an angle that was almost suitable for sleep, but not quite. His head would bob then he would pitch himself forward.
+
+Another police man, a younger fellow named Jim, passed by, "Bob, why don't you go home. You look exhausted."
+
+"I'm fine. I'm fine." Being the first officer "on the scene" gave Doyle a special pride of place, made him something of an expert. He had already conferred with the chief for some time, detailing everything he had seen that morning. Unfortunately, none of it made much sense. He felt a duty, above and beyond that displayed by the other officers, to stay on the scene and see what might happen.
+
+When he jerked awake with the chief standing him over him, he realized it might be time to go home. The chief had his tie undone and his coat thrown over his shoulder. "Bob, you need a rest. It's been a long one. Even I'm packing it in. Darlene threaten to divorce me if I don't get some rest."
+
+Bob Doyle didn't have a Darlene at home to threaten him with legal action, but he took the chief's point. "No, you're right. It's been a day."
+
+"Yep. Go on home Bob and get some shut eye. I asked John to write you out of tomorrow's schedule."
+
+"Chief, I'll be fine. I'll be here tomorrow."
+
+"Now, I can't stop you from showing up here, but you better not be in a uniform and you won't get paid for it. I mean it Bob. Who knows when this thing will end. Best to pace ourselves."
+
+"Sure, sure."
+
+He went to the locker room to change back into civilian clothes and headed out to his car. He lived in a boarding house on the western side of town. Getting home would be a bit complicated, though, because of the barricades. Maybe, he though, he'd swing a little wider out and pass by The Big House and get a drink. People at the Big House didn't seem to mind a cop from the neighboring town stopping in for a refreshment.
+
+Going that way would take him by the Plaices. He wondered why Nathaniel had been so reluctant to help out with the airship. Seemed strange for a war hero to act that way when everyone in town needed him.
+
+He headed south and connected up with county road A, which was a straight shot to the Big House, a roadhouse that sat just on the border between Briersville and Carlsburg. The road was long and straight and completely dark at this time of night. Not much traffic coming this way at night.
+
+Driving made him realize just how tired he was. He slumped down a bit in the seat and leaned his head to the side on his shoulder. Then there was a man standing in the road ahead of him. Officer Doyle swerved and spun off the road and into a drainage ditch. Fortunately the ditch was dry and he was able to pull out and onto the side of the road.
+
+He got out of the car. The man was still stumbling down the road, coming towards him. Officer Doyle grabbed a flare from his trunk, lit it and set in the middle of the road. He didn't want to be run down by another driver. 
+
+He ran towards the stumbling man and realized that it was Nathaniel Plaice. "Nathaniel! Nathaniel! Get out of the road!" he shouted. But the Nathaniel didn't hear him.
+
+By the time he caught up with him, Nathaniel had veered off into the field near the road. Officer Doyle approached him slowly and said, "Son, you're a little far from home."
+
+"Am I? Couldn't tell."
+
+"Yep. Why don't you come with me."
+
+"Who are you?"
+
+"Just a friend."
+
+"Ah, I see you. You're a cop. Always the cops. One type of cop or another. You got no right coming in here."
+
+"Coming in where?"
+
+"My house..."
+
+"Nathaniel, we're 5 miles from your house. It's the middle of the night and it's cold out here."
+
+"Doesn't feel cold. It's not Riva Ridge or Mount Belvedere."
+
+"No, it's not. Not that cold. But you don't have your gear. So, why don't you come with me."
+
+"You're going to take me to jail."
+
+"Probably."
+
+"Nah." He took off running into the field. He ran straight into a fence though, got his clothes barbed on the wire, and tore the front of his shirt open getting loose. He ran back in Officer Doyle's direction. Officer Doyle squared up and attempted to tackle the drunken man, much as he might have tackled an aggressive corner back in high school.
+
+Of course, that had been some years ago, and when he landed hard on his arm and shoulder taking Nathaniel down, he started to regret his decision. He suffed Nathaniel and led him back to his car. A truck barelled by, scattering the flame from the flare on the road. It sizzled and the car's headlights lit up the column of smoke that disappated in the sky.
+
+So much for the Big House, he thought. He'd have to take Nathaniel back into town and book him. He wasn't even sure if he had the jurisdiction to do it, but it seemed unlikely that Nathaniel would argue with him. Nathaniel didn't talk during the car ride. Officer Doyle decided not to prod him for any conversation. Better to let this one pass by.
+
+When they arrived at the station, Officer Doyle led him and put him in a cell. "Found him wandering on the side of the road. We'll let him sleep it off," he explained. He glossed over the detail of nearly running him down and spinning off the road. He didn't want to crucify the young man though. The other officers agreed with him. There were times when you could bend the rules and times you couldn't. It seemed clear to all of them that this was one of those times.
+
+Now he really was tired and decided to go straight home. Home was a small room in a boarding house. The landlady, Mrs. Oliver, kept his rent low because she liked have a police officer in the house. She was an older woman, who carried herself the way Officer Doyle remembered his grandmother, a hard working woman who had spent most of her life in service. All that time in upper crust houses had imparted a "way of doing things" on his grandmother.
+
+The other men living in the house weren't that bad. A few of them were down on their luck, but most were travelling salesmen, a young doctor who had just moved to town. A few factory workers, who had been floor managers. He only had to break up a scuffle once, and that had been over a girl. But Mrs. Oliver believed that his presence made the house more respectable, and doing so meant he could save a little extra money.
+
+He planned to retire to a beach somewhere. Maybe in the Carribbean, maybe Cuba. A little money could go a long way down there. That's what he thought anyway.
+
+The trade off was that he lived in a cramped room with a bed, a wardrobe, and sink. A few of the other rooms had desks, but Mrs. Oliver put a high school teacher and a librarian in there because they were "scholars."
+
+"Promoting learning in my house isn't a bad thing, Officer Doyle."
+
+"No, mam, I guess it's not."
+
+"My late father held scholars in great reference. Do you know that he submitted frequently to the Oxford English Dictionary. He also worked on a biography of the early years of this town. I never saw the draft because he burned it. Claimed that his methodology was unsound. I always regret that all of that work went up in smoke. Can you imagine that, Officer Doyle?"
+
+"What's that Mrs. Oliver?"
+
+"Destroying your life's work like that. Not revising and correcting. But my father was a man of extremes. Take me for instance. I received the education that I have because my father didn't do things by halves. I showed an inclination in school and ended up going to a women's college."
+
+Being a police officer meant he didn't get a desk in his room, but most days he didn't care. Especially on night like this. He would be waking up in just a few hours anyway. The chief wouldnt' keep him away from the station, especially with Nathaniel Plaice there.
+
+Chapter 9
+---------
+
+The airship's cabin was cold, freezing cold. It didn't offer much more protection that if he'd been hanging from the side of the thing over the town. Getting into the cabin had been a challenge though. The girders were narrow. His hands and feet were freezing cold. He inched along until he reached the gangway that ran down the center of the ship to a ladder. 
+
+He poked his head up into the cabin and looked around. Empty. The cabin had been completely empty. It wasn't even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he hadn't been so cold, Arthur would have assumed that he was dreaming.
+
+Once he made it into the cabin, the airship seemed much more stable than it had when we was crawling along its skeletal frame. The clank of the metal under his feet was reassuring. He studied the primitive controls, really nothing more than ropes and levers stationed in front of a angled bank of windows. 
+
+From those windows, he could look down directly to the street below. He felt like he was thousands of feet in the sky, even though he knew it was more like hundreds. What else was there to do up here? A radio would have been nice. He could call someone to rescue him. Surely someone would come to rescue him, eventually. If nothing else, someone would have to come up and figure out what was going on in the airship. What if there had been an injured pilot.
+
+So, he walked around opening the cabinets, slamming them shut. There really wasn't much to do up here. So, he sat down, huddled up and waited.
+
+Then the cold came. So much cold that he couldn't keep out. It seemed like an endless supply of cold would fill that cabin forever until he could see the first glimmerings of the sun off in the east. A few shafts of light colored the sky, then the sun's hot dome began to peek over the horizon. 
+
+Arthur went from side to side, caught up in the beauty of the view. From up here, he could trace out the roads leading in and out of town. The creeks that wound there way through the country side, hunting for a river to connect to. 
