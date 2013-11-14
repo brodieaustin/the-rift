@@ -874,7 +874,217 @@ There was no sense of horizon or landscape. Maybe the flocking of a few trees in
 
 He heard creaking footsteps upstairs. That was the reason. He look around. And this place too. This was the reason. That rug, the chair, the lamp. The walls. The old pictures. Everything was trying to compell him to do something that he didn't want to do. In a fit of anger, he rushed to the sofa and grabbed the pillows, tossing them across the room. He kick at the sofa, sending it spinning across the floor. A lamp broke which sent a picture falling from the wall.
 
-He slumped down, all the way down to the floor, and fell asleep curled up on the discombobulated rug.
+He pitched himself into a wall, bounced across to the other wall, then lunged forward to the front door. It gave way before him and he spilled out onto the front porch. He was coherent enough to get down the steps. From there, he was a drunk man staggering down a narrow country road. Heading who knows where.
 
 Chapter 8
 ---------
+
+No one left the police station that night. Every officer, on duty and off, stayed around talking about one topic: the airship. Pots after pot of coffee was brewed, thermoses filled and taken to the officers staffing the barricades that night. The police chief assigned one officer to watch the building, be up close and personal with it. "No more kids on the roof top," he said.
+
+The police chief had been on the phone all day and into the night. Talking to reporters, confering with the state police. He had even gotten a call from the FBI. He doled out pieces of information as he got them. Everyone felt the importance of being the focus of so much attention.
+
+The question on everyone's mind was, "Where did it come from?" Followed by "Will it blow up?" But after all of the conversation, no one had any answers. The consensus was that they were no under attack. No enemy forces had come pouring from the airship's cabin. Though why Briersville would be a strategic target was not broached.
+
+The chief wouldn't comment if this was some kind of military experiment. Certainly no one from the military had shown up. But a few people in the station were convinced that this was an emergency preparedness excercise of some kind. Most of the other officers laughed this off, but everyone felt a twinge of uncertainty. Were they failing the test or not?
+
+Officer Doyle rubbed his eyes at his desk. His desk chair could creak back to an angle that was almost suitable for sleep, but not quite. His head would bob then he would pitch himself forward.
+
+Another police man, a younger fellow named Jim, passed by, "Bob, why don't you go home. You look exhausted."
+
+"I'm fine. I'm fine." Being the first officer "on the scene" gave Doyle a special pride of place, made him something of an expert. He had already conferred with the chief for some time, detailing everything he had seen that morning. Unfortunately, none of it made much sense. He felt a duty, above and beyond that displayed by the other officers, to stay on the scene and see what might happen.
+
+When he jerked awake with the chief standing him over him, he realized it might be time to go home. The chief had his tie undone and his coat thrown over his shoulder. "Bob, you need a rest. It's been a long one. Even I'm packing it in. Darlene threaten to divorce me if I don't get some rest."
+
+Bob Doyle didn't have a Darlene at home to threaten him with legal action, but he took the chief's point. "No, you're right. It's been a day."
+
+"Yep. Go on home Bob and get some shut eye. I asked John to write you out of tomorrow's schedule."
+
+"Chief, I'll be fine. I'll be here tomorrow."
+
+"Now, I can't stop you from showing up here, but you better not be in a uniform and you won't get paid for it. I mean it Bob. Who knows when this thing will end. Best to pace ourselves."
+
+"Sure, sure."
+
+He went to the locker room to change back into civilian clothes and headed out to his car. He lived in a boarding house on the western side of town. Getting home would be a bit complicated, though, because of the barricades. Maybe, he though, he'd swing a little wider out and pass by The Big House and get a drink. People at the Big House didn't seem to mind a cop from the neighboring town stopping in for a refreshment.
+
+Going that way would take him by the Plaices. He wondered why Nathaniel had been so reluctant to help out with the airship. Seemed strange for a war hero to act that way when everyone in town needed him.
+
+He headed south and connected up with county road A, which was a straight shot to the Big House, a roadhouse that sat just on the border between Briersville and Carlsburg. The road was long and straight and completely dark at this time of night. Not much traffic coming this way at night.
+
+Driving made him realize just how tired he was. He slumped down a bit in the seat and leaned his head to the side on his shoulder. Then there was a man standing in the road ahead of him. Officer Doyle swerved and spun off the road and into a drainage ditch. Fortunately the ditch was dry and he was able to pull out and onto the side of the road.
+
+He got out of the car. The man was still stumbling down the road, coming towards him. Officer Doyle grabbed a flare from his trunk, lit it and set in the middle of the road. He didn't want to be run down by another driver. 
+
+He ran towards the stumbling man and realized that it was Nathaniel Plaice. "Nathaniel! Nathaniel! Get out of the road!" he shouted. But the Nathaniel didn't hear him.
+
+By the time he caught up with him, Nathaniel had veered off into the field near the road. Officer Doyle approached him slowly and said, "Son, you're a little far from home."
+
+"Am I? Couldn't tell."
+
+"Yep. Why don't you come with me."
+
+"Who are you?"
+
+"Just a friend."
+
+"Ah, I see you. You're a cop. Always the cops. One type of cop or another. You got no right coming in here."
+
+"Coming in where?"
+
+"My house..."
+
+"Nathaniel, we're 5 miles from your house. It's the middle of the night and it's cold out here."
+
+"Doesn't feel cold. It's not Riva Ridge or Mount Belvedere."
+
+"No, it's not. Not that cold. But you don't have your gear. So, why don't you come with me."
+
+"You're going to take me to jail."
+
+"Probably."
+
+"Nah." He took off running into the field. He ran straight into a fence though, got his clothes barbed on the wire, and tore the front of his shirt open getting loose. He ran back in Officer Doyle's direction. Officer Doyle squared up and attempted to tackle the drunken man, much as he might have tackled an aggressive corner back in high school.
+
+Of course, that had been some years ago, and when he landed hard on his arm and shoulder taking Nathaniel down, he started to regret his decision. He suffed Nathaniel and led him back to his car. A truck barelled by, scattering the flame from the flare on the road. It sizzled and the car's headlights lit up the column of smoke that disappated in the sky.
+
+So much for the Big House, he thought. He'd have to take Nathaniel back into town and book him. He wasn't even sure if he had the jurisdiction to do it, but it seemed unlikely that Nathaniel would argue with him. Nathaniel didn't talk during the car ride. Officer Doyle decided not to prod him for any conversation. Better to let this one pass by.
+
+When they arrived at the station, Officer Doyle led him and put him in a cell. "Found him wandering on the side of the road. We'll let him sleep it off," he explained. He glossed over the detail of nearly running him down and spinning off the road. He didn't want to crucify the young man though. The other officers agreed with him. There were times when you could bend the rules and times you couldn't. It seemed clear to all of them that this was one of those times.
+
+Now he really was tired and decided to go straight home. Home was a small room in a boarding house. The landlady, Mrs. Oliver, kept his rent low because she liked have a police officer in the house. She was an older woman, who carried herself the way Officer Doyle remembered his grandmother, a hard working woman who had spent most of her life in service. All that time in upper crust houses had imparted a "way of doing things" on his grandmother.
+
+The other men living in the house weren't that bad. A few of them were down on their luck, but most were travelling salesmen, a young doctor who had just moved to town. A few factory workers, who had been floor managers. He only had to break up a scuffle once, and that had been over a girl. But Mrs. Oliver believed that his presence made the house more respectable, and doing so meant he could save a little extra money.
+
+He planned to retire to a beach somewhere. Maybe in the Carribbean, maybe Cuba. A little money could go a long way down there. That's what he thought anyway.
+
+The trade off was that he lived in a cramped room with a bed, a wardrobe, and sink. A few of the other rooms had desks, but Mrs. Oliver put a high school teacher and a librarian in there because they were "scholars."
+
+"Promoting learning in my house isn't a bad thing, Officer Doyle."
+
+"No, mam, I guess it's not."
+
+"My late father held scholars in great reference. Do you know that he submitted frequently to the Oxford English Dictionary. He also worked on a biography of the early years of this town. I never saw the draft because he burned it. Claimed that his methodology was unsound. I always regret that all of that work went up in smoke. Can you imagine that, Officer Doyle?"
+
+"What's that Mrs. Oliver?"
+
+"Destroying your life's work like that. Not revising and correcting. But my father was a man of extremes. Take me for instance. I received the education that I have because my father didn't do things by halves. I showed an inclination in school and ended up going to a women's college."
+
+Being a police officer meant he didn't get a desk in his room, but most days he didn't care. Especially on night like this. He would be waking up in just a few hours anyway. The chief wouldnt' keep him away from the station, especially with Nathaniel Plaice there.
+
+Chapter 9
+---------
+
+The airship's cabin was cold, freezing cold. It didn't offer much more protection that if he'd been hanging from the side of the thing over the town. Getting into the cabin had been a challenge though. The girders were narrow. His hands and feet were freezing cold. He inched along until he reached the gangway that ran down the center of the ship to a ladder. 
+
+He poked his head down into the cabin and looked around. Empty. The cabin had been completely empty. It wasn't even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he hadn't been so cold, Arthur would have assumed that he was dreaming.
+
+Once he made it into the cabin, the airship seemed much more stable than it had when we was crawling along its skeletal frame. The clank of the metal under his feet was reassuring. He studied the primitive controls, really nothing more than ropes and levers stationed in front of a angled bank of windows. 
+
+From those windows, he could look down directly to the street below. He felt like he was thousands of feet in the sky, even though he knew it was more like hundreds. What else was there to do up here? A radio would have been nice. He could call someone to rescue him. Surely someone would come to rescue him, eventually. If nothing else, someone would have to come up and figure out what was going on in the airship. What if there had been an injured pilot.
+
+So, he walked around opening the cabin. There really wasn't much to do up here. So, he sat down, huddled up and waited.
+
+Then the cold came. So much cold that he couldn't keep out. It seemed like an endless supply of cold would fill that cabin forever until he could see the first glimmerings of the sun off in the east. A few shafts of light colored the sky, then the sun's hot dome began to peek over the horizon. 
+
+Arthur went from side to side, caught up in the beauty of the view. From up here, he could trace out the roads leading in and out of town. The creeks that wound their way through the country side, hunting for a river to connect to. Square patches of fields dotted the landscape like big blocks of paint, like abstract paintings he had seen in class. 
+
+Land, land was everywhere he looked. But not just any land, this was the land that he known all of his life. But he had been down in it, or on it for so long, moving here and there without thinking much about everything else around him. Everything below seemed still and calm. The world was at peace with itself. For the first time in the few hours he had been up in the airship, he didn't regret taking the dare and climbing up. 
+
+Once the sun came up, he started to want something for breakfast. The airship didn't seem to have much in it.. It wasn't as if he had not skipped a meal or two before. That's what running with Charlie and the guys meant sometimes. Charlie and Jeff really seemed to hold up their disjointed lives as a source of pride and envy. He and Nick were definitely the more "normal" kids, though Arthur didn't feel like he belonged in that category and more. At least Charlie and Jeff had parents, even if they didn't live up to the name.
+
+"I wish I had a book," he said out loud. No one answered. He got up and poked around some more. There was a small navigation room behind the main cabin area and a mess behind that. There were a few berths built into the middle of the cabin as well. There wasn't much in the way of books, but he spent some time stuying the maps on the chart.
+
+Most of the maps were old, places that were mostly cities now only showed up as a meeting place of a few winding roads. Probably highways around them now, Arthur thought.
+
+His grumbling stomach interrupted him. He went back into the galley. It was very tidy. Every surface either had been meticulously cleaned or never used. It was hard to tell whcih was the case. He did find a few ancient looking cans. One seemed suspicously bent of our shape so he put it back. Besides, did didn't have a way to open them.
+
+So, he gave up on the cans of food and let the hope that someone would come get him suppress his hunger.
+
+As he sat there, dealing with the creeping feeling of hunger, he thought how funny it was that this was the highest in the sky he had ever been. At least that he remembered. His sister had told him before about a trip they took with their mother to see some distant cousins they had never met before then. They had travelled to a large airport and flown in the largest plane she had ever seen.
+
+He remembered how the story had filled his sister's teenage with awe and wonder and excitement. But it had left him feeling nothing. He couldn't remember anything about the trip. It didn't help that the awe and wonder and excitement gave way to another key part of the story, the sad ending that followed. 
+
+As she told it, this was the last time either of them would see their mother, who dropped them off at their relatives. Then their mother disappeared. Arthur could hardly remember her face anymore. But what did that matter? She had left and gone on somewhere. 
+
+Then there was their father. His work as an engineer took him all over the world. But the children didn't go with him, at least Arthur and his sister didn't. Nathaniel was old enough and got to see the world. Then he left again for the Army and the war. Nathaniel had seen so much and Arthur had seen so little.
+
+It was only fitting now, he thought, that he was the first and, so far, only person to experience being up in the "ghost ship," which was what he decided to call it. 
+
+His parents were nothing but ghosts to him now. Their memory took up such a small part of him. Maybe it made him a bad person, to forget them the way he did. But they stepped back into the shadows, lingering behind heavy drapes that covered over these parts of his life. And it was no good to go and fight to have them uncovered. He flet that all the time.
+
+Maybe this was why he found his borther and sister's responses to thier parents so odd and frustrating. Nathaniel just seemed to angry all of the time. Lisa was more cheerful, but always referenced some little phrase or a expression that their parents made, particularly their mother. She must have been concerned that he would forget the small things that start to make a person a real person, and not just a collection of observerable facts. No person could be put under a microscope and fully understood, no matter how many pieces you were able to unentangle from the whole and present to someone else as something complete and understandable.
+
+He didn't have any of these reference points to go off of, only their extremem responses. He had to find his footing on broken and loose rocks of their own rememberances and relationships. So, he resented the feeling that he wasn't truly a part of them.
+
+Now that the sun was up and the rush of getting aboard the airship had worn off, Arthur realized how tired he was. He lay down on the hard floor and closed his eyes. With the sun shining through the windows, the cabin grew warmer, which help ease him into sleep.
+
+Chapeter 10
+-----------
+
+When she woke up and didn't hear any sounds in the house, Lisa started to panic and worry. She wrapped herself up in her robe and went downstairs. The house was completely empty, even after wandering about and shouting, "Nathaniel! Arhtur!"
+
+She was worried about Arthur now more than ever. Normally, he would sneak back in late at night. She kept checking his room to see if he was in there, as if she had missed him the first five or six times she looked. 
+
+Wandering around the house and the yard this way had half woken her up. She took a hot shower then made herself a proper breakfast. Sitting at the table eating an egg and toast and sipping at a cup of coffee, an indulgence that Nathaniel recenly started to allow her, she planned out what her day would be. She would need to go see the airship again to just make sure it was real and still there. Then she would look for her brothers.
+
+But in the midst of this planning it dawned on her that she needed to go to school. She had a chemistry test and lab today. And there was a short paper due about Turn of the Screw that she needed to turn in today. She immediately felt angry at herself for forgetting about these mundane things, but how could she be expected to remember when there was an enormous airship hovering above town.
+
+In fact, she wondered if school was cancelled. Her high school, the town's high school, was near downtown. Maybe they had closed the school. There was only one way to find out.
+
+Since Nathaniel wasn't around to drive her to school, she would have to do it herself. The school bus didn't normally come by their house, so there was no sense in waiting around for that. She didn't technically have a driver's license yet, but these were kind of extraordinary circumstances. 
+
+Lisa grabbed her school things. She got into their truck and headed down the road. 
+
+Everything was cold and crisp that morning. The sun seemed particularly bright too. It was a beautiful morning, which she felt like she should appreciate more, but was too preoccupied with not stripping the shifter in her brother's green pick up truck.
+
+She saw a police car up ahead, heading towards her. She sat up straight and tall and tried to look like she belonged behind the wheel. She resolved not to make eye contact with the police officer in the car, but as the car passed she couldn't help but look. It was one of the younger police officers on the force, whome she recognized as being one of her brother's friends from a long time ago.
+
+The police officer made eye contact with her too. The car didn't turn on its lights though, so she assumed she was in the clear. She looked back in the rear view mirror and saw it swing around in a wide circle, kicking up dirt and dust from the side of the road as it did. Then the lights came on and Lisa realized that she was caught.
+
+She pulled off to the side and waited for the car to catch up, which only took a minute. The car stopped and the police officer, whose name was... She couldn't remember. But when he stood next to her, she thought his name was Todd.
+
+He seemed a little awkward to be a police man. He had every right to pull her over for driving without a license. Lisa nervously started talking, "I left my purse at home."
+
+"What's that?" There was chatter on his radio.
+
+"My purse. It's at home."
+
+"No matter. I'm just surprised to have passed you by like this."
+
+"Can I ask why?"
+
+"I was coming to your house."
+
+"Why's that?"
+
+"It's your brother."
+
+"Arthur, is he okay?"
+
+"No, not Arthur. It's Nathaniel. And he's fine. He was taken in to the station last night to get a little clearer." Lisa didn't say anything. "I think you should come down to the station and be there when he wakes up. Seemed pretty out of it from what I heard."
+
+"What happened?"
+
+"Can't say exactly. But I don't think he was doing too well last night. Why don't you follow me into town."
+
+"Oh, but I have to be at school and I have a test."
+
+"I'll radio in and have someone contact the school."
+
+Lisa wondered if this help was above and beyond Todd's duty as a police officer. He seemed genuinly concerned about her brother. She hoped that he wasn't really that bad off. She had seen him in some pretty dark places, particlarly in those early days when he came back home.
+
+She still didn't really understand why coming back was such a bad thing. But he made it clear to both of them that he didn't want to be there. It made her cry many times. Nathaniel rarely had comforting words for her, and was more likely to say, "I'd be crying too if I were you." Arthur wasn't much help either. He started running with those deliquent guys and not being around as much as before.
+
+It was strange how alone she had felt in those early days after her father died. He really was never around much, travelling all over the place. Their caretaker, a woman named Constance, lived with them and took care of them, only visiting her family on teh weekends. But with more people around than ever, she felt very strongly how thigns had come apart. The people in her life seemed further apart than ever before.
+
+As he followed behind the police car, her confidence behind the wheel surged. She pulled up in an empty parking spot, killed the engine, and hopped down the truck, wondering what lay in store for her inside the police stations.
+
+Chapter 11
+----------
+
+"I think you should call a press conference earlier today. Let's try to get in front of some of these reporters and cameras that are coming in to town", the mayor's assistant said. He had been her campaign manager, in a town where no one had even considered that a mayor might need such a thing, and now was her "right hand."
+
+He wasn't always such a great right hand, but having someone there, anyone really, made her look more powerful and that mean something to the mayor.
+
+
+
