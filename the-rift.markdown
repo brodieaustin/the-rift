@@ -723,7 +723,7 @@ Lisa leaned forward and whispered, "Lonnie, I have to go to the lady's room."
 
 He leaned forward and asked, "Why are you whispering?"
 
-She got up anyway, walked to the other side of the diner, passing Charlie as she did. They locked eyes, like hunter and prey, as she crossed him. She stepped into the lady's room. The window was just large enough to slip through. She scooted the garbage can over and hoisted herselt up. She swung her leg up on to the metal window frame, then rolled to the side and out the window. Hanging on the other side of the window, she let herself drop to teh ground.
+She got up anyway, walked to the other side of the diner, passing Charlie as she did. They locked eyes, like hunter and prey, as she crossed him. She stepped into the lady's room. The window was just large enough to slip through. She scooted the garbage can over and hoisted herselt up. She swung her leg up on to the metal window frame, then rolled to the side and out the window. Hanging on the other side of the window, she let herself drop to the ground.
 
 Lisa felt like a sleuthign detective or a spy, creeping close the diner's outer wall. She deparately wanted to hear what the chief was saying to Charlie's mom. Her gut told her that something was a going on, but she didn't quite enough pieces for her imagination to figure out what.
 
@@ -800,7 +800,7 @@ She pulled out the slim wallet that she kept in her jacket pocket got money to p
 Chapter 7
 ---------
 
-A few whiskeys later and Nathaniel was thinking about the past. The kitchen wasn't perfectly cleaned up. The pot of soup had been cooling for some time now, but Nathaniel was too immersed in his thoughts of days in teh past to get up and bother with it. 
+A few whiskeys later and Nathaniel was thinking about the past. The kitchen wasn't perfectly cleaned up. The pot of soup had been cooling for some time now, but Nathaniel was too immersed in his thoughts of days in the past to get up and bother with it. 
 
 Their father's death had been sudden, particularly for him, since he tried not to stay in too close contact with him. It suited Nathaniel just fine being a recluse from his fmaily--from eeryone--in Colorado. When he worked in the mountains, no one expected him to say much of anything that suited him well.
 
@@ -814,7 +814,7 @@ So, Nathaniel had calmly agreed to the setting, to the tone of the service. It w
 
 He remembered how everyone around him seemed perfectly settled into their places. Distant relatives from his father's side came from miles away to pay their respects. They all seemed to know their roles, or to pick up perfectly news ones, with little prompting. Everyone sat and stood at the right times. Hymnals opened, pages flipped. Voices raised together. And he could hardly sit still through any of it.
 
-The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking teenager that his father had always taken him for. Those feelings had long since been replaced by other ones. The war had seen to that. Now he could launch into action with little thought as to why. S,o, even though he had learned a good deal many "life lessons" and could be called a man with little quibbling over the term, he couldn't help but feel there was some other intention at work here that made the seats and the temperature in teh room and the other people made him uncomfortable.
+The rebellion his body put up wasn't done as a conscious rebellion. He wasn't the sulking teenager that his father had always taken him for. Those feelings had long since been replaced by other ones. The war had seen to that. Now he could launch into action with little thought as to why. S,o, even though he had learned a good deal many "life lessons" and could be called a man with little quibbling over the term, he couldn't help but feel there was some other intention at work here that made the seats and the temperature in the room and the other people made him uncomfortable.
 
 The only distraction he found was tracing out the patterns in the old worn parquet flooring. The scuffs and scraps didn't quite have the poetry of the old pews in Europe, worn by centuries of common people lumbering back and forth between work and church. But he was intent on following the orderly zigzag of the floor, then trace out the chaotic spirals and chopped up lines made countless numbers of heels over the years. He puzzled over the wear and tear, wondering if it was a sign of piety, of boredom, or revolt. Had people shuffled up and down those aisles every weekend. Did they shuffle away finding what they wanted and needed?
 
@@ -860,7 +860,7 @@ When Lisa came through the door, he was completely drunk and not inclined to rem
 
 Lisa walked over and took the half nearly empty bottle of whiskey from the table and went into the kitchen. He sat there in the dim living room listening to the running water, plates cracking together from being dried and stacked.
 
-In what seemed like mere minutes, his sister reappeared in teh door and say, "I'm going to bed. I'm going to hope that Arthur comes home tonight."
+In what seemed like mere minutes, his sister reappeared in the door and say, "I'm going to bed. I'm going to hope that Arthur comes home tonight."
 
 "Don't worry he will. He will..."
 
@@ -1071,16 +1071,137 @@ Lisa wondered if this help was above and beyond Todd's duty as a police officer.
 
 She still didn't really understand why coming back was such a bad thing. But he made it clear to both of them that he didn't want to be there. It made her cry many times. Nathaniel rarely had comforting words for her, and was more likely to say, "I'd be crying too if I were you." Arthur wasn't much help either. He started running with those deliquent guys and not being around as much as before.
 
-It was strange how alone she had felt in those early days after her father died. He really was never around much, travelling all over the place. Their caretaker, a woman named Constance, lived with them and took care of them, only visiting her family on teh weekends. But with more people around than ever, she felt very strongly how thigns had come apart. The people in her life seemed further apart than ever before.
+It was strange how alone she had felt in those early days after her father died. He really was never around much, travelling all over the place. Their caretaker, a woman named Constance, lived with them and took care of them, only visiting her family on the weekends. But with more people around than ever, she felt very strongly how thigns had come apart. The people in her life seemed further apart than ever before.
 
 As he followed behind the police car, her confidence behind the wheel surged. She pulled up in an empty parking spot, killed the engine, and hopped down the truck, wondering what lay in store for her inside the police stations.
 
 Chapter 11
 ----------
 
-"I think you should call a press conference earlier today. Let's try to get in front of some of these reporters and cameras that are coming in to town", the mayor's assistant said. He had been her campaign manager, in a town where no one had even considered that a mayor might need such a thing, and now was her "right hand."
+When she woke up the morning after the airships's arrival, Briersville's mayor found a small gathering of people waiting for her on her front yard. No one noticed here peering down at them from a part in her curtains. PEople here were much too polite to start banging on her down. That had happened numerous times when she held offices in the city. 
 
-He wasn't always such a great right hand, but having someone there, anyone really, made her look more powerful and that mean something to the mayor.
+She scanned the crowd as best as she could. There seemed to be a few shopkeepers, a few memebers of the city council, one of the powerful farmers and landlords in the area, and a few reporters. She couldn't tell just by watching them if they were waiting on her as a group, or if they had converged on her front porch by change.
 
+She left the window and went to run her bath. While she sat on the edge of the tub letting water run over her hand, the phone rang. It was her assistant. "I think you should call a press conference earlier today. Let's try to get in front of some of these reporters and cameras that are coming in to town", the mayor's assistant said. He had been her campaign manager, in a town where no one had even considered that a mayor might need such a thing, and now was her "right hand."
 
+He wasn't always such a great right hand, but having someone there, anyone really, made her look more powerful and that meant something to the mayor.
 
+"We still don't have anything to say. Getting out ahead only to look confused won't help anyone."
+
+"That's true. But not being seen, not talking about will be worse. Besides the police chief is taking over the spotlight. He's been mentinoed or interviewed in almost every story I've seen."
+
+"There's people camped out on my front lawn. Seems like the press conference has come to me."
+
+"We definitely need to schedule something. Don't go out there and talk to them."
+
+"Don't worry, you can trust me to do the right thing." She knew and her assistant knew what this meant. She was going to go out there and talk to everyone. If nothing else, she liked flouting her handler.
+
+After they got off the phone, she dipped down in the bath. Throughout her busy life she was always careful to relish the small things, to carve out time to do nothing and think of nothing. It certainly would seem that way to anyone observing her. Right now, though, her mind raced through several ideas of how best to proceed.
+
+Not settling on any one course of action, she finished getting ready. Clothed and coiffed she moved to the phone, picked it up and asked for the police station.
+
+"This is Mayor Thornsby. Can I speak to the police chief please? He's at home. I'll try there." She disconnected then asked for the chief at home. The phone range a few times before she heard a gruff, "Yeah."
+
+"Chief?"
+
+"Who is this?" He was probably surprised to hear a woman's voice on the phone. 
+
+"This is the mayor, chief."
+
+"Oh, Mayor Thornsby. Sorry, didn't get much sleep last night."
+
+"I understand. I just have a small request to make of you, chief. A favor. More of an invitation."
+
+"Yes?"
+
+"Why don't you come to my house for breakfast this morning? My husband is away on business and I have a hankering for pancakes."
+
+"Pancakes?"
+
+"And coffee, of course."
+
+The police chief paused. "I can be there in an hour or so."
+
+"Take you time."
+
+She hung up the phone and had a similar phone call with the fire chief. She would have to get to work, but fortunately Floria would be at her house soon to help out.
+
+Soon enough the kitchen warmed up from the oven and stove running. The room smelled like bacon and butter and sugar. Floria arrived and helped flip pancakes and stow them in the oven.
+
+The mayor checked in on her visitors in the yard. They seemed to be able to the smell the cooking coming from inside. She went back to brew coffee. By the time the two chiefs showed up at her house, she was ready to set her plan in motion.
+
+When she saw the fire chief approaching, shaking hands in the yard, she opened her doors, strode out onto the porch and greeted everyone. "I have some coffee and breakfast inside if anyone is hungry."
+
+Everyone from the yard filed into her house. They tipped their hats to her while Floria helped collect the coats. "It will be a little tight, but find a spot."
+
+She made the rounds through her dinign room and kitchen with a large plate of pancakes. When those were gone, she went through with coffee then more pancakes. She kept herself busy until everyone was served. Then she sat down and started in on her breakfast too.
+
+The din of talking in the room mixed with knives and forks clancking on her flatware. She sat next to the owner of the small department store downtown. He was concered about losing business while everything was shut down in the center of town.
+
+"Can't we open things up a little bit?"
+
+"Think of the risks right now," was her reply. "Give me a few more days, just enough time to collect all of the facts."
+
+One of her guests was a reproter from the local paper. She overheard the reporter asking the chief about kids who had been caught on the roof of the building. The chief wisely said, "It was just a little mix up. We have it under control now." She had no idea of that was true, having just learned of the incident herself, but it sounded plausible enough.
+
+Everyone talked about the airship in one form or another. The oldest in the room vividly remembered the age of the airship. An owner of a travel agency talked about booking a flight on the Hindenberg before it's last disasterous journey. Another man, who sat on the city council and sold insurance, remembered seeing the Graf Zeppelin when he was a boy.
+
+The consensus in the room, if there could be said to have been one, was that the airship was part of some kind of military exercise. The fire chief seemed convinced of this. The fellows gathered around him nodded in agreement. Everyone had heard of the strange, secret projects that teh military developed. "They developed the bomb and no one knew much about that," said one of the listeners.
+
+"If it's military," interjected the police chief, "then why haven't they come out and claimed it."
+
+"Can't," said the fire chief. "Probably part of the exercise."
+
+"Maybe we're being tested," said someone else. "Maybe the miliatary wants to see how we respond to the event."
+
+"Like some kind of psychological experiment?" someone else asked.
+
+The mayor realized that the conversation would quickly get out of control. It was time for her to assert herself. She tapped her fork against her coffee cup to bring the noise level down. Everyone stopped talking and faced her. Her assistant arrived just then too. He look utterly bewildered by seeing all of these people in the mayor's house, but realized what was happening and didn't lead on just how annoyed with her he was.
+
+She, of course, knew how annoyed he was. She was straying from the plan. But so far, her gut always told her when to stray from the plan and when to stick to it. It hadn't been wrong yet and was a remarkably perceptive organ.
+
+"Let's make some room for Ken. Ken, would you like some coffee?" He held up his cup as Floria came around with the warm porcellin pot.
+
+"First, let's thank Floria for helping to make this wonderful food. And thank you for coming to my house this morning. I know you're here with questions and concerns. Now, understand, I don't have answers for everything. I think we're just getting over the shock of what happened yesterday. I can tell you this. I will do everything that I can working with the police and fire departments to ensure that the area aroudn the airship is safe and secure. I also want to commit to you to doing everything I can to learn what is going on and why the airship appeared in our town. I'm also going to to commit to you that within three days we will reopen downtown. Maybe not everything, maybe not the building where the airship is, but 90% will be open in three days."
+
+Everyone nodded with approval, even the store owners who desperately wanted to reopen their shops.
+
+"I'll work to make sure that we are compenstated for the lost business, but I can't make any promises. The other thing I want confirm is the the fire department will be going up to make sure that everything around the airship is struturally sound. I have real concerns about the stability of the radio town." OF course, the fire chief had no idea that he would be committed to doing this, but felt he had to smile through.
+
+"Also we have a young man in town who has volunteered to climb up into the airship and inspect it for any potential problems. I won't give his name right now," she said, looking at the reporter. "But in a press conference later today, I'll say more about him. Now, if you don't have any more questions, there is a little more coffee left. So finish up. I have to take me leave and get some work down. See yourselves out when your done."
+
+If she had to judge, she would have given the performance an 8 or so. She wasn't really prepared to sway them any further than she did. But she felt confident that every one of them in the group of visitors was a little more compliant and understanding than before.
+
+She shook a few hands and made a few smiles then turned to go back upstairs. Everyone stood up as she did. The two chiefs followed her to the stairs. "Madam Mayor," said the police chief.
+
+"Yes, chief?"
+
+"You said some good things. I think they'll appreciate it. Just one little problem."
+
+"What's that?"
+
+"The young you mentioned hasn't been as cooperative as we had hoped."
+
+"I did ask you to be creative, didn't I chief?"
+
+"Yes you did."
+
+"Why don't you just take a squad car and pick him up. Don't they do this in movies all of the time." REferencing the movies was a sure way to furstrate the chief, but he tried to take it in stride.
+
+"The problem isn't that we don't have him."
+
+"Good, then problem solved?"
+
+"Not exactly. He was picked up late last night for drunk and disorderly. One of my men picked him and brough him in to sober up."
+
+"And this is our shining hero citizen who will save us from our ignorance?"
+
+"Yes, he is."
+
+"And you still think he's the only man for the job."
+
+"At least near by, yes, I think so."
+
+"Very well then, give him a few hours to sober up, fill him up with black coffee, give him a shower, whatever it takes. We need him going up in that airship no later than tomorrow morning. I can give him jntil this afternon and then after that it's up the tower to the airship with him. You think he'll still be able to do it, right?"
+
+The fire chief felt a little backed into a corner. "Yes, yes, well of course." "
