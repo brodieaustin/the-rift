@@ -1204,4 +1204,133 @@ She shook a few hands and made a few smiles then turned to go back upstairs. Eve
 
 "Very well then, give him a few hours to sober up, fill him up with black coffee, give him a shower, whatever it takes. We need him going up in that airship no later than tomorrow morning. I can give him jntil this afternon and then after that it's up the tower to the airship with him. You think he'll still be able to do it, right?"
 
-The fire chief felt a little backed into a corner. "Yes, yes, well of course." "
+The police chief felt a little backed into a corner. "Yes, yes, well of course."
+
+Chapter 12
+----------
+
+Whereever he was, it was bright. And a little bit cold. He hugged himself tighter to keep some warmth in, but it quickly seeped away. He rolled on this side, a position that he normally didn't like to sleep in, and faced the darker part of the room. A wall, maybe.
+
+But the light was brighter and brighter. He flipped onto his other side, and realized that someone was watching him. Nathaniel opened his eyes and saw a clerk from one of the gas stations in town, sitting up on a metal bunk. The man started coughing, hacking really, into his shirt. The cough resonated from deep in his chest and soudned like gravel shaking in a bag.
+
+"You ready to get back to it?" the man said. He started to laugh but the laught expired in a wheeze, replaced with more hacking coughing. 
+
+"Where am I?" Nathaniel asked.
+
+"Shoot man, you never spent a night in the tank?"
+
+"Jail?"
+
+"Sure, best free breakfast in town and a hot shower too. Nothing beats it." The policeman on duty on came to retrieve Nathaniel's cell mate. "Seee you around, partner," he said while being escorted off from the cell.
+
+Nathaniel tossed back over onto his back. He tried to block as much of the light as he could with his forearm draped across his eyes. It didn't do too much good and the additional pressure started to make his head feel worse. 
+
+A few minutes later the officer came back for him. Instead of going wherever they took his cell mate, the took him in the opposite direction. The offer led him through a locked door then up stairs. At the top of the stair, half was down the hall, was  a door. The officer led him to the door and encouraged him to pass through it.
+
+They went into an office, the police chief's office, he assumed. Only there wasn't anyone there. He look at the officer who had escorted him up, "Take a seat," the officer said.
+
+"Anywhere?"
+
+"Yeah, I guess so. Chief will some along very soon." So, Nathaniel sat down in the empty office while the officer waited outside. 
+
+After a few minutes of waiting, he could hear a rucuks of some kind heading up the stairs towards the office. It sounded like an incredible, furiuos argument was taking place. The argument turned out to be the police chief talking hurriedly to his staff. He also had someone with him, a young woman who was doing what exactly?
+
+Reporter. It was clear she was a reporter. She sat down next to him, hardly acknowledging him and scribbling into to a long notebook. "Nathaniel Place?" she said, bending her head in his direction.
+
+"Yes."
+
+"That's p-l-a-c-e?"
+
+"No, it's p-l-a-i-c-e."
+
+"Unusual name," she said.
+
+"I guess."
+
+"What does it mean?"
+
+"If my sister was here, she would tell you."
+
+The phone on the chief's desk rank, he picked it up and answered. "SEnd her up," he said, hanging up the phone. "Looks like she's here." The pretty reporter tucked that information away on some corner of her page.
+
+When Lisa came into the office, she hardly acknowledged him either. The issue of their name came up. "No one knows for sure, but it probably relates to the Latin word *plectere*"
+
+"Plectere, to plait or braid?" the reporter asked.
+
+"Yes, exactly." Nathaniel watched a spark of recognition pass between the two young women. 
+
+"Well, let's get to it, okay?" the police chief said. "Mr. Plaice, you know why you're here?"
+
+"At the police station or in your office." This made the reporter smirk, but she quickly masked it.
+
+"Nathaniel, you don't have much room to stand on right now, so don't press your luck. Let's take both. You're here in the police station for drunk and disorderly conduct. Your..." he flipped through a cipboard on his desk, "...third offense in as many months. And you're here in my office because you treated one of my men pretty poorly yesterday."
+
+"Can she be writing all of this down?" Lisa asked.
+
+"It's all public record. His arrest file. I've got the dates here already," she said very matter of factly.
+
+"Chief, is this about going up to that thing, that airship?"
+
+"Yes, it is. Now look, I'm getting..." The police cheif and the reporter made eye contact. She waited for him to finish his sentence as he seemed to be weighing his next works pretty carefully. He continued on, "I'm getting asked about you and whther or not you're going to go up."
+
+"Look chief, I'm not meaning to be difficult." His sister rolled his eyes at him. "But I'm not sure you appreciate how difficult what you're asking is."
+
+"Nathaniel, have you seen the airship yet?"
+
+"Not really."
+
+"Then why don't you come here to the window and take a good look."
+
+He approached the window, peering out over the tops fo the wooden shutters that gave the room an dark earhty feel. Sure enough there was the bulk of the airship, bobbing over the town like some kind fo strange outsized flag. If they only painted an advertisement on it, someone would make a lot of money, he thought. Maybe he should offer to do that.
+
+Even from a distance, he could appreciate how strange it was though, to see the airship hovering above town. To his eyes, it looked absolutely primitive and old. It was impossible to know how it would react to someone climbing board it.
+
+When he sat back down, the chief looked him in the eyes and said, "You see what we have a problem, right."
+
+Nathaniel nodded, "Yes, it's a big problem. But surely you could get a helicopter or a tall crane or something."
+
+"Maybe, there's risks with those too. If we delay much more that might be our only chance, but it would take a few days to get a crane tall enough out here. And who knows how the airship would respond to a heliocopter."
+
+"That's true."
+
+"Nathaniel, let me make this clear, and young lady, this is off the record, so i'd like to see you put that notebook down." She folded up the notebok and laid her hands over it on her lap. "You're starting to build up a nice little record of trouble making. So far the judge has been very lenient with you. I happen to know that a few of my men have given you a free pass too, because of who your father was and who you are. I understand and accept that, but even still you persist in causing trouble. Now, I can make some of that just go away, like that," he said, wiping away the imaginary taint of Nathaniel's mistakes from his hands. "All of these little infractions and mistakes gone like that. I can't make any promises about the future. But we can rewrite the past, right here and right now."
+
+"As long as I?"
+
+"As long as you agree to go up in that airship with the tools and skills that you have."
+
+"I already told OFficer Doyle that I don't have the equipment. And you don't have time to get it for me, from teh sound of it."
+
+"I happen to know that's not true. Lisa mentioned finding a large box of climbing equipment."
+
+"Yes, there's some stuff in there, but some of that stuff is 10 years old."
+
+"It will have to do. I don't know how else to say it."
+
+"Are we back on record yet?" the reporter asked. The police chief nodded. "So, for the record," she asked, "Will you or won't you go up in the airship."
+
+Nathaniel looked at Lisa. He was used to bearing her mild disappointment in him, but she had a look of absolute disgust, maybe even hatred, that was new to him. He didn't like it. As much as he struggled by what he owed his brother and sister and what they owed him, he didn't want to create these kinds of feeling bewteen them. He genuinely liked his younger sister. He hadn't grown up with her or his younger brother, but they were both not that bad, most of the time.
+
+Besides, the chief really had him in a corner. He didn't want a record of stupid and petty infractions following him around. He already understood tha the had developed a reputation in town as a little bit irresponsible and a a little bit of a drinker. Some of this was prone to happen. After all, he wasn't a teetotaler like many people in town. He didn't exactly hide his consumption of alchocal the way many others did.
+
+But being out in the open about something that many people were find keeping less visible did discomfort some people. Again, he had grown accustomed to and tolerated a certain amount of visible discomfort from people. But he did not want to disliked or reviled in town.
+
+He stood up and said, "Chief, I will do it. But you have to let me walk out of this office and go home with my sister. I don't want to sign anything or do anythign. I leave as a free man, like this night before never happened."
+
+"Never happened," the chief said.
+
+"Fine. When do we do it?"
+
+"2pm this afternoon."
+
+"2pm? Okay. Do I need to go to the building?"
+
+"I'll send someone for you. Don't you worry about that."
+
+"Chief, I have a few more questions that I'd like to ask Mr. Plaice," said the reporter.
+
+"Sure, go ahead. You can use my office. I have to go talk to my guys then I'll be back." The chief sauntered out of the room. He seemed a litlte less harried now that Nathaniel had agreed to climb up in the airship.
+
+"Do you want me to leave?" Lisa asked.
+
+Nathaniel motioned her to sit. The reproter said, "No, you can stay. It will make for a better story to talk to both of you."
