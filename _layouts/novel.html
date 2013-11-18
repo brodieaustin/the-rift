@@ -40,6 +40,13 @@
             .content{width: 96%;}
             pre, code{word-wrap: break-word;}
         }
+        @media print{
+            body{font-size: 13px;}
+            .site-header{display: none;}
+            .content{width: 100%; }
+            .novel h2{page-break-before: always; }
+            .novel h2#chapter_1{page-break-before: none;}
+        }
     </style>
 
 </head>
