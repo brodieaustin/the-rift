@@ -1,5 +1,5 @@
 The Rift
-======
+========
 
 Chapter 1
 ---------
@@ -1315,7 +1315,7 @@ Besides, the chief really had him in a corner. He didn't want a record of stupid
 
 But being out in the open about something that many people were find keeping less visible did discomfort some people. Again, he had grown accustomed to and tolerated a certain amount of visible discomfort from people. But he did not want to disliked or reviled in town.
 
-He stood up and said, "Chief, I will do it. But you have to let me walk out of this office and go home with my sister. I don't want to sign anything or do anythign. I leave as a free man, like this night before never happened."
+He stood up and said, "Chief, I will do it. But you have to let me walk out of this office and go home with my sister. I don't want to sign anything or do anything. I leave as a free man, like this night before never happened."
 
 "Never happened," the chief said.
 
@@ -1329,8 +1329,181 @@ He stood up and said, "Chief, I will do it. But you have to let me walk out of t
 
 "Chief, I have a few more questions that I'd like to ask Mr. Plaice," said the reporter.
 
-"Sure, go ahead. You can use my office. I have to go talk to my guys then I'll be back." The chief sauntered out of the room. He seemed a litlte less harried now that Nathaniel had agreed to climb up in the airship.
+"Sure, go ahead. You can use my office. I have to go talk to my guys then I'll be back." The chief sauntered out of the room. He seemed a little less harried now that Nathaniel had agreed to climb up in the airship.
 
 "Do you want me to leave?" Lisa asked.
 
-Nathaniel motioned her to sit. The reproter said, "No, you can stay. It will make for a better story to talk to both of you."
+Nathaniel motioned her to sit. The reporter said, "No, you can stay. It will make for a better story to talk to both of you."
+
+Chapter 13
+----------
+
+Lisa and Nathaniel didn't say much to each other as they drove home. Lisa thought that her brother had been rude to the reporter, who seemed pretty nice, and willing to make her brother look good. She couldn't grasp, no matter how many times he inarticulatley explained it, why he was unwilling to sit in a spotlight, even for a bit. But it wasn't up to her; he had made that much very clear. 
+
+"I'll need your help gathering all of that gear up," he said.
+
+"Okay."
+
+"There's a duffle bag out in the shed. Should have been near those boxes you ransacked."
+
+"I didn't ransack them."
+
+"Sure. Anyway there's a duffle bag out there."
+
+"I wonder what you'll find up there."
+
+"Who care..."
+
+"Everyone does. Isn't it obvious. This is the most excited thing that's happened to this town."
+
+"In a while. But doesn't say much about this town, does it?"
+
+"What do you mean? A mysterious ship descends from the sky, like...like some kind of god."
+
+"So, we're supposed to get on our knees and pray to it?"
+
+"That's not what I mean. But it so...mysterious."
+
+"It's just a hollow frame of metal with giant bags of gas inside. It's like a enormous person. Better not to make a person into a god. That leads to bad things."
+
+"But it's all of things with absolutely no reason for being here. Doesn't that seem strange to you?"
+
+"I don't worry about strange things anymore. Everything is strange. The fact that...that I'm here and some other guys aren't is strange. The fact that I'm looking after my brother and sister who are almost young enough to be my kids is strange. Everything is strange, Lisa."
+
+"But that's all just life, Nathaniel. If you start worrying about that stuff, how can you live? But the airship? That is genuinely strange."
+
+"I guess," was his only reply. "It doesn't change the fact that everyone in this town will pressure me to go up inside it and investigate. I guess they want to see if I'll fall through it or something."
+
+Her brother did not like being pressured to do anything. This much Lisa knew. Relatives and friends of the family had tried to shelter her and her brother from Nathaniel's reluctance to take over the house and be their guardians. Try as these people did, Lisa and Arthur both knew that Nathaniel had taken them on out of a sense of obligation. To this day, he made it clear that they were a burden on him.
+
+What she could never figure out, thought, was what they were keeping him from doing? From what she could make out, he had lived a very isolated life in Colorado. He rarely spoke of any friends, of any thing he did there. His life before the war seemed to have been wiped away as well. He barely aknowledged anyone in town who used to know him, not that there were many left now. Everyone had gotten used to the fact that Nathaniel Plaice wanted to act like an transplant and outsider.
+
+She looked away from him and started out at the stubble of corn and other crops in the fields, pastures where cows idled in the cool fall day. The funny thing was that being around Nathaniel made her feel like an outsider too. The land around them, the buildings in town, the people who lived there no longer seemed like the things she knew and rememebred from just a few years ago. 
+
+Memories of being little seemed more like memories from story book than anything she had ever experienced. It probably didn't help that one one in their house ever talked about the days before their father died, and certainly never before their mother left. None of that existed anymore. All they had was the bare life they led day to day, bare like a piece of wood stripped to the grain.
+
+When they reached the house and got inside, Lisa went off the find the duffle bag. It was sitting near the boxes in the shed. She covered her mouth and nose with the end of her sleeve and beat the bag against a post. The air filled with fine dust. The dust ginted and gleamed with sunlight.
+
+She brought the bag back inside and handed it off to Nathaniel. He sat at the kitchen tabled, tugging and pulling at pieces of equipment. He started to load it up and then went upstairs, only saying as he didn, "I'm going to change."
+
+"If only you would," Lisa muttered as he disappeared upstairs. But when he came back down in thick brown pants with pockets and rivets and a dark green wool shirt, he still looked like her brother. He walked like him, huffed like him, and didn't say anything to her like him.
+
+Then he gruffly said, "Come on."
+
+"Me?"
+
+"You want to see me be a big hero, right? Isn't that what you've always wanted? Isn't that the think that will make everything better?"
+
+She didn't say anything.
+
+"Well, this is your chance to see if it was worth all that hoping and wishing."
+
+"Fine, Nathaniel," she said, giving in to his mood and his fixation on destroying her naivety or whatever idea of hers it was he was crusading against. Besides, she was curious to see what was going to happen. She didn't think that he'd fall through the airship like it was some kind of spirit or illusion. But it was going to be interesting to watch.
+
+Their trip back to town was much like their trip from town, though mostly more staring out the window than talking. As the bare county road gave way to a residential street with a few houses, he turned to her and said. "There's a safe in my room. In Dad's old room. The combination is the day of our birthdays. There is a will in there. And money. Some cash, some stock certificates. Bank information."
+
+"Why are you telling me this?"
+
+"In case I die, Lisa."
+
+"Why would you die?"
+
+"Because I'm going to be climbing up a ricketly 30 foot tall radio tower and climbing into a cumbustible ancient piece of technology that shouldn't even be flying."
+
+"Okay, okay. Geesh, you're in a foul mood."
+
+"Whatever, it doesn't matter. The point is that I could die doing this. And if I do, you need to know what to do. Open the safe, get the documents. Then call Mr. Harvey, dad's attorney. It should be pretty clear what will happen."
+
+Lisa didn't want to ask, but couldn't help herself, "What will happen to us?"
+
+"You're old enough and the legal process will take long enough that you shouldn't have to worry about too much. Just hold on to the cash. Don't let Arthur do anything stupid with it."
+
+"I'm supposed to look after him?"
+
+"There's no one else to do it?"
+
+"What about Aunt Esther and Uncle Gerry?"
+
+"Maybe, but they're old now. They were old when I was young. They're not going to be able to handle things for much longer."
+
+"I don't want to think about this right now."
+
+"Neither do I, really, but that doesn't count for much these days."
+
+"Nathaniel, look..."
+
+They were nearing the center of town now. Crowds of people were walking along on both sides of the road, heading to town, to the building and to the airship. Some of them waved at their truck as they passed by. Nathaniel honked at a car that was driving slowly in front of them. The people walking misunderstood the honk and started to wave and cheer. The car pulled aside to let them through. 
+
+By sheer force of will, the people of Briersville had pushed back the barricade. Crowds were forming in the blocks around the building. When people saw their truck though, they parted. Some people banged on the hood enthusiastically, happily. Lisa stared down at their faces. She felt like a queen or a prophet must feel having so much hope and joy directed at her.
+
+They reached the point where the police reestablished the barricades. A police officer waved them through while another moved aside a barricade. The two or three blocks around the airship were still quarantined and still eerily quiet. Eerie not just because no one was walking about, but the windows were empty, no car rattled by. There weren't any kids darting into the street, or a man with a suitcase heading to the train station. All of the little incidental actions that made up everday life in town, even the slowest, quietest days, were gone.
+
+Nathaniel drove around to the front of the building with the airship pinned to it. Outside the whole fire company seemed to be on hand every spare police car was parked too. Lights circle and beamed and bounced in every direction. So much light and movement almost made her feel a little sick to her stomach.
+
+Her brother parked the car. "Should I get out too?" she asked.
+
+"Yeah, I guess. But I want you to stay close to someone, find a police officer or a firefighter or something."
+
+"Okay."
+
+Lisa hopped out of the truck. Her brother grabbed his gear from the back and walked around. They passed in front of the truck. Lisa paused for a moment, expecting him to hug her or acknowledge her. But he walked by with an even harder and more determined look that she had seen before. She lurched forward and then walked briskly towards Office Doyle, whom she saw standing behind his open car door.
+
+Many of the officers were either loitering in small groups or hanging behind their doors. It looked like something halfway between a tailgate party and a seige. Either way Lisa could feel the tension and anticipation radiating from everyone there.
+
+"Officer Doyle!" she said.
+
+"Hello," he said. "What are you doing here?"
+
+"I came with my brother." Officer Doyle finally recognized her. 
+
+"I see. Is it safe for you here?"
+
+"I didn't have anywhere else to go."
+
+"Of course. We'll you can stand here or wait in the car. I've got hot coffee in the thermos and a few sandwiches."
+
+"A few?"
+
+"Well, we could be here a while. Supposed to rain later."
+
+Lisa looked up. Something did seem to be dampening the brightness of the day. Little by little, she guessed, the wind would start to pick up, then the clouds would stretch themselves over the sky and it would rain. That might complicate things.
+
+"Look, your brother is shaking hands with the mayor." Indeed he was. She watch the mayor flip her hair, smile. She's flirting with my brother, she thought. It wasn't uncommon. She had witnessed a few awkward interactions between her brother and a few women--some younger, some older than himself. She had even seen a few women in tears in and around their house. That had been a while ago, though. Now only interested looks might pass between himself and a woman, then maybe a flash of recognition on the woman's part, "Oh, that's not who I thought it was," she might be thinking. Awkward and slighy embarrassing all around.
+
+The fire chief stepped foward and shook his hand too. He waved two firefighters forward. Her brother shook their hands. It was clear that he knew one of the men, who looked to be about her brother's age. They all turned to stare up at the airship's ribbed, dirty, and torn up belly. Lisa looked up with them. This must be what ants feel like staring up at a sick cow, she thought. She felt about as helpless as an ant would if called on the fix up that cow too.
+
+A little pointing and waving of hands before they set off. Her brother hitched up his bag, donned his climbing helmet and they set off towards the building. A police officer opened the front door of the building and let them through. Nods all around. Then her brother disappeared into the empty gloom of the building. 
+
+Now all she could do was sit and wait and hope that something truly awful didn't happen.
+
+Chapter 14
+----------
+
+The firefighters were there to help assist him with the climb. A crew had been there earlier trying to stabilize the radio tower. By all accounts, it was bent, but not dangerous now. They hadn't put a man's wight on it, of course, so Nathaniel didn't feel too optimistic about they repairs.
+
+He had tried to tell the firechief that he didn't need an escort or help of any kind. He wanted to tell him about the solo recon mission he had been sent on during the war. He was used to getting a job done with no one to rely on but himself. But the two chiefs and the mayor were too hard to argue against, so he took the escort.
+
+Luckily for him, they weren't very talkative right now. One of the firefighers, a guy he had known in high school from the football team named Greg, ran the elevator with his key. The other, guy who was younger and wasn't familiar, kept his head and eyes pointed upwards. He's smart to keep looking up, though Nathaniel. 
+
+Once the elevator went up 10 stories, they had to get off the elevator and climb up stairs to the roof. When they opened the roof top door and stepped out on to the gravelly surface, Nathaniel was surprised by how bare it seemed. From so high up, there was nothing to see by clouds and sky. He walked closer to the edge and could see the roof top of the town's olders, shorter buildings. A little farther out the town became dense clumbs of trees and peaks of roof and chimneys then farm land.
+
+The firefighters were radioing down that they were in place. The one he knew, Kevin was his name, motioned to Nathaniel. He stepped closer and he said to him, "They want you to wave from the edge of the building."
+
+"Wave?"
+
+"To the crowd."
+
+Nathaniel revolted inwardly at the idea. But he decided to play along anyway. He figured that people were a little on edge about having the airship floating over their town. So, maybe some levity wouldn't hurt. He walked to the edge and could see the crowd of people that he and Lisa had driven through a little while ago. He waved, a small wave. Nothing triumphant or heroic. People were cheering and clapping anyway. He really hoped tha the airship didn't blow up and kill everyone.
+
+He went back and started pulling rope from his bag. He had various locks and fasteners too. He rigged up the younger firefighter with a harness and fed the rope through. He would be the belayer. "Just keep a firm grip here and here, Nathaniel said. "When I call out for slack, you ease more rope through here. Just feed it with your right hand. That's it."
+
+"While you keep the rope locked down, I'll start climbing and pinning the rope to the tower."
+
+"Hopefully it's as strong as they said," Kevin asserted.
+
+"Yep. Hopefully. Otherwise it's going to be a quick ride down. Much quicker than that fancy new elevator." He finished with his own gear, chalked his hands to make them dry and said, "Tell them I'm ready."
+
+Kevin radioed down that Nathaniel was about to start his ascent. Nathaniel looked up. The airship seemed really close now. IT seemed close enough to touch, even though he knew there were 40 or 50 feet between himself and it. Still he had never been so close to an airship before. A little bit of boyhood curiousity surged within. He had heard stories of the great airship raids during the first world war. He knew about the Graf Zeppeling circumnavigating the globe. He knew about some of the more famous incidents and crashes.
+
+And here he was, about to climb up into the belly of one of these regal machines. It was much more elegant and refined than many of the tanks and planes he had seen during the war. And now, here it was, just silently bobbing in the wind, stuck to a radio tower that he had to climb now.
+
