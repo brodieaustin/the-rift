@@ -1208,9 +1208,6 @@ She shook a few hands and made a few smiles then turned to go back upstairs. Eve
 
 "Very well then, give him a few hours to sober up, fill him up with black coffee, give him a shower, whatever it takes. We need him going up in that airship no later than tomorrow morning. I can give him jntil this afternon and then after that it's up the tower to the airship with him. You think he'll still be able to do it, right?"
 
-<<<<<<< HEAD:index.md
-The fire chief felt a little backed into a corner. "Yes, yes, well of course." "
-=======
 The police chief felt a little backed into a corner. "Yes, yes, well of course."
 
 Chapter 12
