@@ -1501,9 +1501,183 @@ He went back and started pulling rope from his bag. He had various locks and fas
 
 "Hopefully it's as strong as they said," Kevin asserted.
 
-"Yep. Hopefully. Otherwise it's going to be a quick ride down. Much quicker than that fancy new elevator." He finished with his own gear, chalked his hands to make them dry and said, "Tell them I'm ready."
+"Yeah. Hopefully. Otherwise it's going to be a quick ride down. Much quicker than that fancy new elevator." He finished with his own gear, chalked his hands to make them dry and said, "Tell them I'm ready."
 
-Kevin radioed down that Nathaniel was about to start his ascent. Nathaniel looked up. The airship seemed really close now. IT seemed close enough to touch, even though he knew there were 40 or 50 feet between himself and it. Still he had never been so close to an airship before. A little bit of boyhood curiousity surged within. He had heard stories of the great airship raids during the first world war. He knew about the Graf Zeppeling circumnavigating the globe. He knew about some of the more famous incidents and crashes.
+Kevin radioed down that Nathaniel was about to start his ascent. Nathaniel looked up. The airship seemed really close now. It seemed close enough to touch, even though he knew there were 40 or 50 feet between himself and it. Still he had never been so close to an airship before. A little bit of boyhood curiousity surged within. He had heard stories of the great airship raids during the first world war. He knew about the Graf Zeppeling circumnavigating the globe. He knew about some of the more famous incidents and crashes.
 
 And here he was, about to climb up into the belly of one of these regal machines. It was much more elegant and refined than many of the tanks and planes he had seen during the war. And now, here it was, just silently bobbing in the wind, stuck to a radio tower that he had to climb now.
 
+Nathaniel started up the tower foot following hand across the girders. The rhythm and feel of climbing came back to him instantly. So did a certain stiffness and creakiness in his bones and muscles. He wasn't nearly as agile as he had been just a few years ago. Time took its toll on him quickly. Should have stretched a bit before climbing, he thought to himself. 
+
+But no time to worry about it now. Fortunately there was nothing too complicated about making it up the tower. As it started to taper though, he was surprised by how it swayed under his weight. He looked down and saw the younger fire fighter bracing himself against he base of the tower. Since he had anchored the rope as he climbed, he decided to test just how stable the tower was. He shouted down, "Kevin!"
+
+"Yeah, problem?"
+
+"No, I'm going to try something. So get ready."
+
+"For what?"
+
+Nathaniel rocked back and forth on the tower to test just how secure it really was. The quickening wind carried away the shouts of "Are you crazy" and "Be careful." Nathaniel could also hear gasps echoing up from below. But he knew that the tower was pretty secure for now at least.
+
+"Okay, it'll hold," he shouted back down.
+
+At this point, he decided to asses the the situation above. He immediately noticed something odd. The gash in the airship's belly looked strange. There was a tangle of metal, sure, but the tear in the fabric was much more...uniform...than he would have expected. His hand automatically went to his hip, feeling for a pistol. No pistol was there. Luckily he brough his hunting knife. Might come in handy, he thought.
+
+From this vantage point, he tought it looked easy enough to get inside the ship. Now he had more doubts about what he would find inside.
+
+A few more minutes and he could reach out and touch the airship, which he did. His hand didn't pass through it, which solved one mystery at least. It was no ghost ship or apparition or collective hallucination. He inched up on the point of the radio tower and reach up for the split girder. He gave it a tug and it seemed secure enough. He pulled up on the second rope he had brought up and passed it through the girder, tying it off in a complicated knot. 
+
+Next he took his climbing rope and affixed an anchor to the girder alongside the rope. With a quick hop, he reached up to grab the girder to climb up. He gripped wasn't good enough though. Nathaniel coudl feel his stomach drop as he started to fall. A ghostly gasp rose up from the crowd. Then came the slight jerk as the slack in the saftey rope gave out and caught him. 
+
+He spun in a circle for a second, laid out on his back and spinning over the roof top. Down below the firefighters on the roof seemed to be paniced. He tried to give them a big thumbs up. Then he shouted down, "Give me some length. Let out the rope."
+
+It took them a second to understand the direction. He wheeled his hand around a few times and pointed down, gave the a tug. After a few minutes, Nathaniel finally felt the rope give and he eased down.
+
+He signaled them to stop and the slack gave out in the rope. He started to swing back and forth until he gained enough momentum to grab onto the radio tower again. Falling was a set back, but he made his way back up to the airship. He needed to be more careful this time. He grabbed his climbing ax and tried to anchor onto the airship. The grip wasn't good enough and after trying to latch it on and have it fall out a few times, he gave up trying. 
+
+He'd just have to jump again and hope that he could hold on tighter. At least the rope would hold. That made him feel pretty confident. He edged up closer to the airship, getting as close as he could. He grabbed on, held tightly, and walked his feet further up the tower. A quick hop and he was inside the airship.
+
+The insides of the airship was much more gloomy and cavernous that he had expected. Overhead the enormous gas bags filled any empty space. Still the maze of metal and fabric was something to behold.
+
+Before venturing further, he untied himself from his rope, tied it to an anchor and affixed it to the airship. Hopefully getting down would not pose too many problems. He steadied himself on the metal and inched along. He didn't go too far before he hopped over to the gangway that ran down the center of the ship.
+
+As he walked, he surveyed the insides with his flashlight. Everything glimmering with a fine coating of dust. It was clear that people had not been working on and maintaining the aircraft. But how could it have stayed aloft all of this time, he wondered. Was someone taking it for a ride? The airship seemed more, not less, strange now that he could see it up close.
+
+Up ahead he could see the entrance to the pilot's cabin. Hopefully he would find answers there. 
+
+He climbed down into the cabin. He was surprised by how old fashioned the cabin was. From the metal fixtures and wooden cabinets, there were unexpected examples of ornamentation and design. Little knobs and bends here and there. What looked to be inlay patterns in the floor. Everthing was worn and dusty for sure, but this had once been quite the machine.
+
+He stepped to the pilot's controls and looked out the windows. He found himself imagining what it must have been like to fly this ship, to go cruising above the land and sea, high enough to survey the land, but far enough above everything to make everything seem a little more remote and removed.
+
+He opened cabinets, peered into the greasy dirty corners. In the navigation room, he flipped through aeronautical charts, topographical maps. There were scraps of notes that referred to the complex business of flying the machine, but nothing that gave any clues as to why it had appeared in town.
+
+He sat down at the table where the navigator had once sat, and took a breath. He was more tired than he had expected that he would be. His muscles were throbbing and vibrating now that some of the stress was leaving his body. Sitting there, he couldn't decide is his mission had been a success or a failure. He got inside the airship, everything just as it would on an ancient flying craft from the past. But there was no one inside, at least as far as he could tell. And, most importantly, he couldn't find any clues to help solve the mystery of the airships appearance in town.
+
+Chapter 15
+----------
+
+Anna's beat wasn't the paranormal or the supernatural. She didn't even like Halloween that much. Her last boyfriend had been a connoseuir of pulp fantasy and science fiction novels. She broke up with him in his shabby living room as he tried to argue that his stories had political implications. She wouldn't hear and didn't miss seeing the bright yellow and red spined books around her apartment.
+
+Her editor sent her to Briersville after overriding nearly an hour of argument from her. She was a political reporter, she said. She knew the political beat and would much rather follow up on that city board hearing meeting than go to a podunk town dealing with an elaborate hoax.
+
+"If it's a hoax, then that will make good copy. If it's a hoax, find out who's doing it and why. Sell a few papers, okay?" her editor said. So, she was dispatched to Briersville, given a few dollars per diem, and full tank of gas to get there. 
+
+The town was larger than she had expected, but still seemed more provincial than she was comfortable with. Sure, there was a woman's college in town, someone in a bar on the county line had tried to tell her, but it wasn't one she had ever heard of before. Besides, what kind of place still had temperance laws on the book and in effect? Briersville, the seat of Brier county, that's where.
+
+The day after she got there, she managed to secure an interview with the police chief. She was thrilled to learn that a volunteer had stepped forward to go up into the airship. At least there would be some spectacle to witness. The young man had been a bit more abrasive than she had expected and was pleasantly surprised by the fact. He wasn't a doe eyed country hero with freckles painted on his cheeks and a gap in his tooth. He didn't come in with overalls and a few "gohses" and "shucks" for her to try to gin up into good copy for her editor.
+
+The man, Nathaniel, was his name, was positively annoyed about having to go up there, but didn't want to be labelled a drunk for not doing it. Now that was a story.
+
+She followed a large crowd of people who were heading towards the city center to witness the young man's ascent. She walked with a three families who had brought their kids and picnics. The whole thing reminded her of the Battle of Bull Run or some other event where people's pleasure seeking and the potential for tragedy seemed oddly set in stride together. 
+
+The people she walked with weren't particularly forthcoming about their feelings, at least their inner feelings, about the airship. They all said, very politely, how strange or odd it was. She hadn't found anyone who was foaming at the mouth about the anti-Christ or the opposite of that. There was a visible concern, though, about the fate of the man climbing up to explore the airship, and about their town. No one wanted to blow up in a burning cloud of hydrogen.
+
+She tried to remain calm during the young man's ascent up to the tower and into the airship. She tried to seem somewhat removed and detached from the events unfolding before them. She thought it best not to seem to caught up in the drama of it. She wasn't a yellow journalist. She didn't want to manipulate the masses with emotional thrills. Emotional thrills were just cheap writing masquerading as insights.
+
+But she had cheered when the crowd cheered and gasped when the crowd when the crowd gasped. She made her way through the crowd to get closer to the mayor and the police chiefs. A few of the police officers on the scene recognized her and let her edge through. Standing on the edge of the officials who had gatehred around to watch, Anna could watch the decision makers trying to make sense of what was unfolding in their town.
+
+When Nathaniel fell from the airship, the mayor wanted to send men up when Nathaniel Plaice fell from the airship. She didn't want anyone's blood on her hands. But what woudl they be able to do, the fire chief said. Better to keep all hands on the ground in case something really went wrong. "We can deal with one man dying. What if the whole town goes up in flames?" he said.
+
+When he disappeared inside the airship, the mayor turned to the two chiefs and said, "Now we wait."
+
+And so they waited. Anna wondered what the report would be. What would Nathaniel find inside the airship? She tried to conjure the strangest vision in her mind of what the answer to this mystery could be, but her imagination failed her. She was too much of a realist to try to dream up an alien race who stole ancient human technology to dominate them. Surely there was someone else in the town doing that already, maybe even writing it up as a cheap pulp. Good for them, but she wanted nothing to do with it.
+
+After twenty or thirty mintues passed, she saw the mayor and two chiefs huddle together. The police chief looked over in her direction. He looked at her, but acted like he didn't know her. Then he waved another police officer over and whispered in his ear. That police officer set off straight in her direction. 
+
+He motioned towards her and she stepped foward. He leaned over and told her, "Nathaniel's coming down from the airship now. The mayor wants to do a press conference. The chief wants the reports to be on hand to throw questions to her."
+
+"Did he find anything?"
+
+"I don't know. No one's saying."
+
+She followed the police officer out of the crowd, past the cordone. The local paper's editor and a few other regional reporters who Anna vaguely recognized assembled together.
+
+"I'm telling you now," the police chief said. "Beacause it is important to get this right. Our man is saying that nothing is up there. And from what he can tell, there is nothing dangerous up there."
+
+"Nothing too dangerous," the fire chief added. "We'll be on watch to make sure."
+
+Then the mayor stepped in and shook their hands, particualrly the out of town reporter. "Thank you for visiting our town. I wish this was under other circumstances," she said. "I think it's important to say a few words to the people here. But I want to be sure that one panics or gets the wrong idea." Anna saw this for what it was, message control. They don't really know what's going on, but want to seem more confident than they really are. 
+
+She decided to play along. She wasn't the storyteller they were worried about. What about the local paper editor though? Maybe he had some political enemies to flay? Was this like the old days of newspapers where an editor could destory his foes with a sharply worded editorial?
+
+In the gloom of the empty office building, Anna could see two firerighters walking to the doors. They obscured the real figure of interest. She turned back and could see the crowd craning their necks to see their man. To see if he surivived and how he would come out. Would he look like some kind of horror shocked loon? Like a golden hero? Or somethign else?  She secretly hoped that he would say nothing and be nothing. She expected nothing less from him.
+
+What he was, to her surprise, was incredibly tired looking. His shoulders slumped and he seemed to shuffle along after the more bouyant firefighers. One of the firefighers had to be at least his age, but they seemed to be years apart.
+
+The two small groups converged. Anna could see the police chief give Nathaniel a gentle nudge forward. The crowd cheered. He didn't wave, but he did crack of meager smile. Not too much to disappoint though.
+
+It was hard to make out, but Nathaniel spoke briefly with the mayor and chiefs. They shook hands. The local paper's photographer stepped forward to snap a few pictures of them. Then a megaphone apepared in the poice chief's hand and was passed to the mayor.
+
+The mayor looked out on the crowd and said, "I don't often expect to be surprised by things, but this airsihp leaves me completely surprised. I know that we all want to know what it is and how it got there. I can't answer these questions quite yet. But I can say that our volunteer, Nathaniel Plaice, explored the airship thoroughly. Based on his initial report, it seems that the airship is quite sturdy and safe. He didn't detect any structural problems with. We feel confident in saying that the airship poses no significant threat at this time. We are going to work swiftly to formulate an action plan and do something with it, but we have some time. I am calling a special session of the city council later today to formulate this plan. Tomorrow, my office will release a statement about that plan. Until then, direct your questions to your alderman. Thank you for your patience and understanding. And let's give this brave volunteer a round of applause."
+
+Once the crowd understood that she had stopped talking and that she wanted them to cheer, they began doing so. The police began pushing back on the crowd. People were leaving the scene, emptying the streets around the building again. 
+
+Anna tried to slip into the crowd and get reactions from people there, but most of them were too busy packing up their things to pay her much attention. As she walked back to the police station, where she parked her car, she mulled over why the mayor had not said anything about who might be in the airship. They made it clear that nothing was up there, but they didn't say no one. She wondered if this had been a deliberate evasion or a genuine lack of knowledge. Either way, she was had enough to file a story now, maybe two if she could get back to her room and write fast. Then she would sit in on the council meeting, assuming it wasn't a close door session. But Anna usually found ways into meetings like those.
+
+Chapter 16
+----------
+
+All of the people below cheering and clapping sounded like nature sounds to Arthur. He thought it was the ocean at first and worried he had drifted out to sea somehow. He crept over the windows and look down. People were scattered everywhere around the building, several blocks deep. Why had they crowded around the airship. Had they come to worship some god. If there had been a speaker and microphone, he could have had some real fun with them. 
+
+He let the fantasy spin out a little further. As a voice from on high, he could summon Charlie and Nick and Jeff. Call them forth as offerings to the great...the great Aereos, god of light and the sky. An angry and wrathful god. Aereos who had been entrapped in a tomb long ago only to find himself freed from that tomb and able to roam the land exacting vengence on the tributes who had turned against him.
+
+He would call forth the guys and subject them to humilation and ridicule. Then he would call forth his brother and sister and tell them...what? That Aereos could not be imprisoned in a tomb. That Aereos wanted to roam freely above the earth like clouds.
+
+But the airship didn't have a radio, so his impersonation of a god would have to wait for some other time when an mysterious and ominous craft descended on Briersville. Until then, he could only watch the people below and wonder what was happening.
+
+He was awfully hungry for a god. His grumbling stomach kind of ruined the fantasy. But he was enjoying being up in the airship too much to worry about it now. He'd find a way down when it got darker. With so many people down below, there was no way he could get out now without being noticed. He still had the feeling that being up here was against the law, though he couldn't say which one. Were there laws about climbing aboard mysterious airships?
+
+He looked around trying to figure out why the crowds were there. Then he saw something. There was a man climbing up the radio tower. His view from the cabin was limited, but he could definitely make out someone coming up. He had pretty elaborate climbing gear. Although he could only see the man's back, he figured at once that it was his brother.
+
+Arthur crouched down at the windows. He was surprised that someone was just now coming up to the airship. But he did wonder why it was his brother? Did someone know he was up here? Was his brother coming to retrieve him?
+
+He kept watching as hsi brother made his way further up the tower. It amused Arthur to see his brother carefully making his way up with his anchors and rope when Arthur had gone up on his own. But Arthur did gasp when his brother's grip slipped. 
+
+Before his brother could regroup and get inside the airship, Arthur decided that he needed to hide. He wasn't quite sure why he didn't want to be found, but he didn't want to be. But where could he hide. There must be somewhere he could sneak off to. Surely there would be a good hiding place aboard the airship.
+
+He might have to go further into the airship. But he would have to hurry before his brother got inside. Before he decided on exactly what to do, he slipped off his shoes so that he didn't make too much noise. The tied up the laces together and hung his shoes around his neck.
+
+Arthur climbed up the ladder and looked into the dark expanse of the airships stomach. He could see light streaming in through the big rip in the airship's fabric. He crept out of the cabin and into the airship. He decided to hear away from the tear in the ship. Maybe towards the engines was the best place to hide.
+
+He could see the place to access the engine car in the distance. When he reached one, though, he didn't realize that he would be so exposed climbing down to it. He could only hope that someone didn't see him. Down the distance of the airship, he could see the stream of light from the tear go dark, blocked by his brother who stepped into the rift. He could hear his brother clanging around with something. Arthur could only guess that he was tying off his rope.
+
+Before his brother could look too far into the ship, Arthur slipped down the ladder to the engine gondola. The wind coursed aroudn him as he did. Arthur looked around him quickly. He could see the crowds again, but no one seemed to notice that a teenage kid was emerging from the airship. 
+
+Maybe it had been the dark the night before, but Arthur realized just how high up he was and felt a bit of vertigo. You've got to stop looking around, he told himself. But his hands were already getting clammy and acting up on him. He couldn't shake the feeling that they would just let go at any moment. Fortunately, the ladder was only a few feet long and he slipped into the small opening into the gondola.
+
+Inside the cramped gondola, the smell of dirt and grease overpowerd him. The metal and wood around him oozed with age and use. But the age and use seemed to belong to another time. As he looked around, he rammed his toe into a open tool box on the floor. Wrenches and screwdrivers spilled out around him. Arthur cried out "Shit, that hurts." He sat down and leaned against the side of the engine car, nursing his foot.
+
+He sat staring at the engine that was seated in the compartment. It was a maze of coolant lines and manifolds. Gaskets and valves and belts jutted out here and there. It look both powerful and extrememly fussy. Arthur imagined the mechanics who spent much of their time down here fussing with these things. They probably tweaked and adjusted its workings to get ever last bit of power out of it.
+
+The thought of that appealed to him. He liked being so in tuned with something that you could hear something awry in the odd harmonics of a piston, or a slighly off key pitch of a wheel. There weren't many things that he felt that special kind of relationship with. It was something he longed for badly.
+
+He had tried taking apart a car before, but ended up making Nathaniel angry when he couldn't get the parts back together again. Nathaniel had to call out a mechanic to reasemble the car. "That's coming out of your account," his brother had threatened. Arthur had never checked to see if Nathaniel had been true to his word.
+
+Arthur had gone searching after hobby after hobby. Nothing stuck. The longest he had ever kept at anything was writing stories, but he just ended up writing westerns that read like the TV shows he was watching. So, he burned his manuscripts, really just an old folder of messy papers, in a fit of pique. He certainly had never worked up the energy to sustain his interest in writing anything much longer than a short story.
+
+Things reached a point where he gave up on the idea of being a savant at something. Nothing that he tried was inviting him in, making him feel at ease with himself. The closest thing he found was the group of guys who challenged him to climb up into the airship. This left their judgement in question, but Arthur applied himself to most to fitting in with them. Even though the guys iritated him and rubbed him the wrong way, he generally found their devil-may-care attitude to most thing pretty comforting.
+
+It was colder here than in the airship's cabin. Arthur hugged himself a little tighter. He wondered how long it would be before he could go back inside. His brother would be searching around the cabin, no idea at all that Arthur had been there moments before. The though pleased him. Finally, he was one step ahead of his brother, in a position to know something that he didn't know.
+
+There had not been many times in the last year or so when he had felt that way. No matter what he did, his older brother was there intercepting him, overriding him. Even Lisa had pulled away from him. They had been so close when they were younger. He had relied on her so much. And she was just drifting away from him.
+
+Maybe it was bound to happen. It probably was and that's why he had resolved a long time ago to not feel much about it. He remembered making Lisa cry over his lack of feeling and concern when their father died. He was stubborn about it too. And made her even more angry when he refused to go to the funeral. But at that point, he was old enough to be tired of the concept of parents, particularly his parents who had bandied them about in the pursuit of other things.
+
+But what would he do then? He knew that it was silly to try to stay here for much longer. Eventually someone would come looking for him. Or something worse would happen. Probably best to avoid that. Tonight, he decided. He would venture back down to the group tonight.
+
+Chapter 17
+----------
+
+During the car back to her house, the mayor and her assistant dissected her perform that day. Their conclusion was that she had executed perfectly. "You seemed poised and calm," her assistant said. "In control, but not domineering."
+
+"You don't think I seemed too stern?" she asked, sounding more like a theater or dance critic commenting on some odd inflexion in a performance, rather than an insecure person asking for validation. If anything, questions like there were more like little tests thrown up to her assistant. He knoew that she probaby had an answered formulated for herself already .
+
+"No, not at all. Not too emotional, just involved. That's the key, I think."
+
+"Yes, no need for the mayor to be breaking into hysterics on the sidewalk," she said. Her voice change, which made it seem like she might be changing the conversation, "There were a lot of people there."
+
+"Yes, a few thousand, I think"
+
+"Did you do any counting or polling?"
+
+"I was too busy standing on call to be neededs"
