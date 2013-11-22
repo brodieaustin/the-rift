@@ -1680,4 +1680,83 @@ During the car back to her house, the mayor and her assistant dissected her perf
 
 "Did you do any counting or polling?"
 
-"I was too busy standing on call to be neededs"
+"I was too busy standing on call in case anything happened. But I think everything went very well, considering."
+
+"Considering what?"
+
+"That we didn't learn anything new."
+
+"That could have been a good or bad thing."
+
+"Yes..." her assistant said, trailing off. 
+
+"No one seemed to mind that we didn't have answers to give."
+
+"I just think that you should be careful later today at the meeting. People could get testy and excited if answers aren't forthcoming. Right now the airship is novel. Everyone was happy to watch our local hero climb up there and investigate. It satiated them. Tomorrow though? The next day? Who can say..."
+
+"Mmmm, yes you can say? Who is that?" the mayor asked, pointing to someone sitting on her front porch steps. It was a young woman who looked vaguley familiar. 
+
+"I think that was one of the reporters who was at the building today." When they got closer, her assistnat added, "Yes, that's the one that the police chief called out of crowd."
+
+"So, she has had access to him already?"
+
+"It would appear so. Do you want me to run interference?"
+
+"Yes, I do," the mayor said as they pulled past the house to the old garage in the back yard. The garage was bare and empty, but the mayor kept the car parked in front of it to give the impression that it was too full to park the car inside. Her assistant lived in a small room above the garage.
+
+They both went inside. Her assistant walked through the house, opened the front door and said, "Can I help you?"
+
+"Yes, I'm April Jankowski. I'm a reporter from the Big Name Paper. I'd like to speak to the mayor?"
+
+"Did you set up an appointment?"
+
+The reporter stood up and shouldered her bag. "No, I didn't."
+
+"Well, you're going to have to let me get my book and find a time to interview her."
+
+"Well, I assumed that..."
+
+"The mayor is very busy."
+
+"The police chief didn't seem too busy to take an interview this morning."
+
+"The mayor isn't the police chief and we have to prepare for today's emergency meeting."
+
+"So, the mayor is too busy to tell her side of this story."
+
+"And what side would that be?" the mayor asked, stepping out onto the porch. She tried to sound as if sunlight and rainbows were emanating from her voice. She smiled as big as she could.
+
+"Not to be too forward, madam mayor, but I see this as being a make or break situation for you. Would you agree?"
+
+"Well, why don't you just step inside and we'll find out if I agree or not. Tommy, clear my schedule for the next..."
+
+"30 minutes should do," the reporter replied.
+
+"30 minutes then. And would you like anything to drink miss?"
+
+"Jankoswki, April Jankowski. No, I'm fine."
+
+"Well, I don't give interviews unless I have something to sip on, so why don't you take a seat in the front parlor and I'll be back. You'll tolerate water just fine, won't you?"
+
+"I guess I will," the repoter replied, stepping inside the mayor's house.
+
+Her assistant was waiting for her in the kitchen. He whispered to her sharply, "You know who that is, don't you?"
+
+"Yes, I know who that is."
+
+"Her father..."
+
+"Is the reason why I'm here and not in the city anymore. Yes, I know."
+
+"And you're going to give an interview?"
+
+"She looks like a smart forward looking youg reporter. I'm sure she's just on the hunt for a good story."
+
+"Well, don't make yourself the center of that story."
+
+"And why would I do that? I'm here to serve the people of Briersville, nothing more."
+
+"Of course."
+
+"Well, why don't you stay nearby and keep a close watch on me. Just try to look busy and not too obvious, okay?"
+
