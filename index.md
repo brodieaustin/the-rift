@@ -1684,9 +1684,6 @@ During the car back to her house, the mayor and her assistant dissected her perf
 
 "Did you do any counting or polling?"
 
-<<<<<<< HEAD:index.md
-"I was too busy standing on call to be neededs"
-=======
 "I was too busy standing on call in case anything happened. But I think everything went very well, considering."
 
 "Considering what?"
