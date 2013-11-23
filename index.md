@@ -1612,7 +1612,7 @@ The two small groups converged. Anna could see the police chief give Nathaniel a
 
 It was hard to make out, but Nathaniel spoke briefly with the mayor and chiefs. They shook hands. The local paper's photographer stepped forward to snap a few pictures of them. Then a megaphone apepared in the poice chief's hand and was passed to the mayor.
 
-The mayor looked out on the crowd and said, "I don't often expect to be surprised by things, but this airsihp leaves me completely surprised. I know that we all want to know what it is and how it got there. I can't answer these questions quite yet. But I can say that our volunteer, Nathaniel Plaice, explored the airship thoroughly. Based on his initial report, it seems that the airship is quite sturdy and safe. He didn't detect any structural problems with. We feel confident in saying that the airship poses no significant threat at this time. We are going to work swiftly to formulate an action plan and do something with it, but we have some time. I am calling a special session of the city council later today to formulate this plan. Tomorrow, my office will release a statement about that plan. Until then, direct your questions to your alderman. Thank you for your patience and understanding. And let's give this brave volunteer a round of applause."
+The mayor looked out on the crowd and said, "I don't often expect to be surprised by things, but this airsihp leaves me completely surprised. I know that we all want to know what it is and how it got there. I can't answer these questions quite yet. But I can say that our volunteer, Nathaniel Plaice, explored the airship thoroughly. Based on his initial report, it seems that the airship is quite sturdy and safe. He didn't detect any structural problems with. We feel confident in saying that the airship poses no significant threat at this time. We are going to work swiftly to formulate an action plan and do something with it, but we have some time. I am calling a special session of the city council later today to formulate this plan. Tomorrow, my office will release a statement about that plan. Until then, direct your questions to your councilmembers. Thank you for your patience and understanding. And let's give this brave volunteer a round of applause."
 
 Once the crowd understood that she had stopped talking and that she wanted them to cheer, they began doing so. The police began pushing back on the crowd. People were leaving the scene, emptying the streets around the building again. 
 
@@ -1684,4 +1684,206 @@ During the car back to her house, the mayor and her assistant dissected her perf
 
 "Did you do any counting or polling?"
 
+<<<<<<< HEAD:index.md
 "I was too busy standing on call to be neededs"
+=======
+"I was too busy standing on call in case anything happened. But I think everything went very well, considering."
+
+"Considering what?"
+
+"That we didn't learn anything new."
+
+"That could have been a good or bad thing."
+
+"Yes..." her assistant said, trailing off. 
+
+"No one seemed to mind that we didn't have answers to give."
+
+"I just think that you should be careful later today at the meeting. People could get testy and excited if answers aren't forthcoming. Right now the airship is novel. Everyone was happy to watch our local hero climb up there and investigate. It satiated them. Tomorrow though? The next day? Who can say..."
+
+"Mmmm, yes you can say? Who is that?" the mayor asked, pointing to someone sitting on her front porch steps. It was a young woman who looked vaguley familiar. 
+
+"I think that was one of the reporters who was at the building today." When they got closer, her assistnat added, "Yes, that's the one that the police chief called out of crowd."
+
+"So, she has had access to him already?"
+
+"It would appear so. Do you want me to run interference?"
+
+"Yes, I do," the mayor said as they pulled past the house to the old garage in the back yard. The garage was bare and empty, but the mayor kept the car parked in front of it to give the impression that it was too full to park the car inside. Her assistant lived in a small room above the garage.
+
+They both went inside. Her assistant walked through the house, opened the front door and said, "Can I help you?"
+
+"Yes, I'm April Jankowski. I'm a reporter from the Big Name Paper. I'd like to speak to the mayor?"
+
+"Did you set up an appointment?"
+
+The reporter stood up and shouldered her bag. "No, I didn't."
+
+"Well, you're going to have to let me get my book and find a time to interview her."
+
+"Well, I assumed that..."
+
+"The mayor is very busy."
+
+"The police chief didn't seem too busy to take an interview this morning."
+
+"The mayor isn't the police chief and we have to prepare for today's emergency meeting."
+
+"So, the mayor is too busy to tell her side of this story."
+
+"And what side would that be?" the mayor asked, stepping out onto the porch. She tried to sound as if sunlight and rainbows were emanating from her voice. She smiled as big as she could.
+
+"Not to be too forward, madam mayor, but I see this as being a make or break situation for you. Would you agree?"
+
+"Well, why don't you just step inside and we'll find out if I agree or not. Tommy, clear my schedule for the next..."
+
+"30 minutes should do," the reporter replied.
+
+"30 minutes then. And would you like anything to drink miss?"
+
+"Jankoswki, April Jankowski. No, I'm fine."
+
+"Well, I don't give interviews unless I have something to sip on, so why don't you take a seat in the front parlor and I'll be back. You'll tolerate water just fine, won't you?"
+
+"I guess I will," the repoter replied, stepping inside the mayor's house.
+
+Her assistant was waiting for her in the kitchen. He whispered to her sharply, "You know who that is, don't you?"
+
+"Yes, I know who that is."
+
+"Her father..."
+
+"Is the reason why I'm here and not in the city anymore. Yes, I know."
+
+"And you're going to give an interview?"
+
+"She looks like a smart forward looking youg reporter. I'm sure she's just on the hunt for a good story."
+
+"Well, don't make yourself the center of that story."
+
+"And why would I do that? I'm here to serve the people of Briersville, nothing more."
+
+"Of course."
+
+"Well, why don't you stay nearby and keep a close watch on me. Just try to look busy and not too obvious, okay?"
+
+The mayor returned with a glass of water and a glass of orange juice for herself. She sat the glasses down across from each other and sat down herself facing the reporter. "So, what can I help you with?"
+
+"I was asking about..."
+
+"Of course, about this situation we have going on here in town with the airship. It's a mess, isn't it? Completely out of teh blue."
+
+"Do you think that it could negatively affect your standing here in town?"
+
+"Why would it do that?" the mayor asked.
+
+The reporter looked up at her from writing in her notebook, "Because things could go very wrong."
+
+"That's true. But I tend to want to look on the positive side of things. Besides I like to deal with what's in front of me. I don't like to get distracted by things that aren't relevant or pertinent to the situation at hand. I find people get muddled up when they do that, wouldn't you agree, Ms. Jankowski?"
+
+"So you don't think there's anything mysterious about the airship?"
+
+"Mysterious? Of course. That's why everyone is scared of it and fascinated by it. They don't know what to make of it. But if you're asking if I think it's supernatural? No I don't. After all we just had a man go up there and he returned completely unscathed."
+
+"Was his report accurate?"
+
+"Meaning what exactly?"
+
+"Meaning, do you believe him?"
+
+"Meaning, was I lying, is that what you mean?"
+
+"Maybe that too..."
+
+"Well, I can assure you that there was no manipulation going on. Our volunteer really went up inside and ship and really found nothing to report. This isn't a game or a show, Ms. Jankowski. No one is trying to grab any attention here. frankly, I'm surprised that a paper like the Big City Paper even sent someone here to cover the story."
+
+It was clear from her body language that the reporter understood the jab. Good, so be it, the mayor thought. She wasn't going to let the upstart reporter, however nice she might be, leave this interview unscathed. Especially not after she questioned the mayor's leadership and integrity. "But let's get back to the airship, why don't we?"
+
+"Of course," was the reporter's reply. "So, Madam Mayor, what *is* your opnion of the airship?"
+
+Well, as I said, I don't think it's supernatural. It's clearly not a hallucination or an illusion being played on us. Beyond that, I'm can only repeat myself and say, 'I don't know.'"
+
+"What do you plan to do with it?"
+
+"Well this is a matter for the city council to discuss. I would like to see us dismantle it and sell it off for scrap metal. There's probably a lot of other uses we can put it to. I'm looking forward to hearing what the councilmembers think."
+
+"What if the airship belongs to someone?"
+
+"Have you seen it? It's enormous. I doubt we'll be taking any actions right away. No one has come forward to claim it yet. But maybe once the word gets out."
+
+The phone rang in the kitchen. The mayor's assistant got up to answer it. He returned a few moments later saying, "Madam Mayor, that's your husband on the phone. He need to speak with you."
+
+"I'm afraid that means that our time is up, Ms. Jankowski. Thank you for chatting with me."
+
+"Yes, thank you."
+
+"When are you filing your story?"
+
+"I'm filing shorter pieces. But I have another long piece in the works."
+
+"And when will that go out?"
+
+"Oh," the young report replied in a flip, casual wayt hat only young people can pull off, "soon enough after it's done."
+
+"I'll have my assitant make sure to find a copy for me to read."
+
+"Of course."
+
+"Good day, Ms. Jankoswki. Enjoy the rest of yoru stay in Briersville." The reporter left and got into a small car parked a just past the mayor's house. She started the car and pulled out into the street. The mayor watched her as she left, and wanted to sit down and rest before hte council meeting later in the day.
+
+Chapter 18
+----------
+
+The airship had been in Briersville for just over a day by the time Nathaniel Plaice went up into it, investigated it, and returned down the ground. The massive ship had been hovering there for just over 24 hours. People in town were already starting to joke about saying that if it stayed for much longer, they'd have to declare it to be a monument.
+
+The general mood in town was that the airship was a benign, though strange presence in the town. Some of the panicked, feverish fear that griped people in the first few hours had subsided. People already weren't doing double takes when they looked out a window and saw it hanging there. Now that it was tied down to the tower on top of the building, people seemed more at ease with it like they would with a leashed dog.
+
+The airship had not attracted too much outside attention. A few radio stations and newspaper reporters from the area, and that was about it. There had not been an influx of people in town to see it. Of course if it had been easier to get to and see up close, then more people would come to see it and bring their money. 
+
+Besides the handful of reporters, the only group who had come by to see the airship had been a group from a fundamentalist church out on County Road C. They came to protest the airship. Rather they had come to protest and the airship was their occasion to do so. The small group came to town in a white school bus with a thin band of rust around the wheel wells. The tires were basically bald. The bus belched dark smoke and had a tendency to overheat on the slighest of inclines.
+
+They parked the bus in the parking lot of a grocery story, bullied the manager into letting them stay there, and managed to get a few days worth of food donated to them as well. The man responsible for this, the group's leader, then led a prayer session outside the grocery store's entrance declaring that "refrigeration is a modern abomination" and the manager the "king of sinners, wearing his sinner's vest with vainglory and pride." The manager had refused to let him take the last carton milk from the cooler.
+
+The protestors harrassed everyone who entered the parking lot and intimiated the police officer who came to break up the disruption by aggressively trying to expel demons from him and shouting about the plague of religious intolerance in the land.
+
+By that afternoon, the group declard much of Briersville's population to be communists, aethiests, and perverts. The airship, of course, was the visual manifestation, like a "boil on Belial's nose" that proved it.
+
+One of the group, an elderly woman who was an expert spitter and had spit in the faces of anyone of note in a four or five county area, came back to camp with a good piece of gossip. She had been at a local diner drinking a cup of coffee when she overheard talk about a special city council meeting.
+
+"They're going to discuss that abomination in the sky there," she said.
+
+The group's leader, full of passion and feeling said, "Don't taint your eyes with that work of the devil."
+
+"What happened next?" one of the other group members asked.
+
+"Well, I stopped my waitress, a fallen woman if ever I've seen one. I put my hand on her arm and I felt the currents of sin tingling and coursing through me. I can still feel the sinfulness in my blodd." The other members huddled around her. "Well I asked this Bathsheba what was going on with this meeting and she said, to me, 'Lady, I don't know and I don't care.' The immorality of her sloth made me jump out of my chair. I kneeled as quick as these old knees would let me. I kneeled before her and tears ran from my eyes, much like they are now, and I said, 'Out devil. Leave this woman alone!'"
+
+"Then what happened, Mrs. Katherine?"
+
+"The manager asked me to leave, so I did. I did because I didn't want the taint of sin on me anymore." She didn't mention that she didn't have money to cover her pie and coffee either.
+
+"So, there's going to be a meeting today about the airship," their leader said. "I want everyone to pray and seek out the strength and courage that we will need at this meeting. My followers, we are going to the temple and we will show these priests of decadence and debauchery the errors of their ways."
+
+When the time came, the group had to drive around for a while before they realized that the meeting was being held at the high school on account of the barricades. One of group members nearly leaped out of her bus window wanting to protest the barricades, but the rest of the cohort got her back in the bus.
+
+Traffic was forming around the high school and the parking lot was getting full. People were walking in stray lines this way and that to get to the meeting. Most of Briersville, it would seem, had shown up.
+
+The crush of people didn't deter the group's leader though. He found a low spot on a curb, a break in the traffic, and bounded across a race track and a soccerr field, and parked in the middle of a playground. The group unloaded from the bus and milled about, waiting for the instructions or inspiration. A few of the younger ones stretched and got limber. One young man continually rotated his throwing arm in a circle. It wasn't clear what his ammunition might be.
+
+The leader, who was praying with his is immediate inner circle, two women in their mid-thirties, emerged from the bus. The group cleared a path around him. "My people, my flock. We have been called here today by a higher power. Not the power of that airship, that beast of the modern world. That is the idol that all of these sinners flock to. We are here at their temple to denounce their ways and to spread the news of the coming world."
+
+"Lord, give us strength against these sinners," one of the group said and a chorus of amens followed.
+
+As they convened, a police officer approached them. "Excuse me. I'm not sure that you're supposed to be parked there."
+
+"Brother," the group's leader stepped out and towards the officer, "the lord works in mysterious ways. We have been called here today and we were meant to park here."
+
+"But it's a playground. I'm going to have to radio the commander."
+
+"Then God save you son, you will be heralded in heaven as an agent of fascism and repression. St. Peter himself will cast you out and send you to hellfire and damnation. Don't be a part of the problem with this decadent country. We have a right and a calling to here and we won't budge, not even if you put television cameras on us."
+
+The police officer backed away and returned to controlling traffic in the parking lot. He spoke with another police officer then kept his back turned to the group.
+
+The group opened the back of the bus where they kept a variety of signs and posters ready for any event. They selected signs with more of an "the end is nigh" feel to them. A few of the old ladies in the group held signs that read "Turn back from sin" in large letters. Another old man held a sign that read "Idolators beware"
+
+Armed with their signs, the group pushed through the crowd and occuped a large space around the entrance to the high school gymnasium.
