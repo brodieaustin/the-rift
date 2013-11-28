@@ -2672,4 +2672,89 @@ But before he could, a strong gust of wind propelled the airship up and forward.
 
 Free of the tower and the rope, the airship started to drift away from the building with their brother hanging thrity feet below it from a rope. "Nathaniel! Nathaniel!" They shouted.
 
-"We have to try to pull up the rope," Arthur said. They braced themselves against the airships framework and pulled with all their strength on the rope. Down below, Briersville's geography quickly gave way to the open fields and farms that surrounded the town. Nathaniel was inching his way up the rope bit by bit. Arthur and Lisa kept pulling and pulling until they were helpin their brother up into the airship too.
+"We have to try to pull up the rope," Arthur said. They braced themselves against the airships framework and pulled with all their strength on the rope. Down below, Briersville's geography quickly gave way to the open fields and farms that surrounded the town. Nathaniel was inching his way up the rope bit by bit. Arthur and Lisa kept pulling and pulling until they were helping their brother up into the airship too.
+
+"Let's get back to the cabin," Nathaniel said. Once they were back surrounded by the relative safety of wood and glass they realized the danger of their situation. The airship was drifting steadily along, not at a incredible speed, but fast enough to be some cause for concern. 
+
+"Can we fly this thing?" Lisa asked. Arthur and Nathaniel both stared back at her dumstruck. 
+
+"I think we'd be lucky to even get the engine going, much less steer this thing."
+
+"How high are we off the ground?" Lisa asked.
+
+"Maybe a few hundred feet. I can't really tell," said Nathaniel. "But I think the best we can ask for is to somehow land the thing."
+
+"It could explode," said Arthur.
+
+"It will explode if we crash into something too," said Nathaniel.
+
+"It's hyrodgen that makes the airship bouyant, right?" Lisa asked.
+
+"Sure," said Nathaniel.
+
+"Well, what if there was less hydrogen?"
+
+"Maybe there's valves or something. We could open them up and let the hydrogen out," Arthur said.
+
+Nathaniel stood thinking for a moment. "It might be our only choice. If we can get the airship low enough we can go down the rope and try to hop off."
+
+"Okay," said Lisa. But it was clear to all of them that this was their best chance to get off of the airship.
+
+"There must a control around here somewhere to control the hydrogen," Nathaniel said. He walked over to the panel of knobs and dials. Most of the instruments there were covered in grime and dust. He started to twist and turn a few but nothing happened. Arthur and Lisa looked them over as well.
+
+"Look at these," Lisa said. There were ten knobs lined up in a row. "I bet these coorespond to the hydrogen cells."
+
+"Makes sense to me," said Arthur. "Let's try it out." They turned a few of the knobs and waited. "I don't hear anyting," Arthur added.
+
+"Wait, I can hear something," Lisa said. Sure enough there was the faint hiss coming from the airship. 
+
+"Let's open them up then," said Nathaniel. One by one they turned the knobs as far as they could. The hiss grew louder and louder. At first though, they didn't really feel anything. But after a few minutes, it felt like the airship was losing altitude.
+
+"I think it's working," Lisa said.
+
+"We better get to the rope if this is going to work."
+
+"Hopefully we don't end up over water," Arthur said, not trying to be pessimisstic, but the thought did occur to him.
+
+"We'll just have to take our chances. Come on."
+
+They made it back to the rope. Looking down, land was getting closer and closer to the airship. "We don't have much time," Arthur said.
+
+"You go first Lisa," Nathaniel said. "But be careful. Don't jump until you're sure you can land safely. And try to roll when you fall to absorb some of the impact."
+
+"Will our weight affect the airship at all?" Arthur asked.
+
+"Don't know. Only one way to find out." Nathaniel tied off the the end of the rope with a handle from one of the levers in the airship's cabin. He pitched the rope back down and it swung wildly below the airship. "Alright, get going, Lisa."
+
+Arthur watched her sister slide slowly down the rope until she was dangling from the end of it. She couldn't have been more than 20 or 30 feet from the ground, but it still seem very dangrous from where they were. It was his turn to go down the rope now. Before he did, he turned to his older brother and said, "I'm sorry, Nathaniel."
+
+"It's okay."
+
+"No, I mean it. I didn't mean for any of this to happen."
+
+"I know, Arthur. None of us did. We just have to do the best we can. And right now, that means getting down that rope."
+
+He lowered himself down until he was just a few feet above Lisa. Looking back up at his brother, Arthur was seized with the idea that Nathaniel might do something crazy like stay on teh ship and try to pilot it or something. His brother had a determined look on his face that put these kind of crazy ideas in Arthur's head. 
+
+He was relieved when Nathaniel started down after them.
+
+Chapter 26
+----------
+
+Three siblings dangling from a rope tied to an old drifting airship wasn't exactly how Nathaniel had imagined family reconciliation. But for the time being, this might be as close as it could get. Certainly, they were all focused on one thing: getting off of the airship alive.
+
+The airship has sunk low enough now that they could hop off without too much risk of injury. Besides, Nathaniel could see a stand of trees in the distance. At this rate, the airship would crash into the trees before they could jump. What might happen then was anyone's guess.
+
+"Lisa! Lisa!" he shouted down. "It's time. Are you ready?" His sister look ahead and saw the trees. She looked back up at him and nodded. She lowered herself even further to the poitn that she was just barely holding on to the end of the rope. Her toes seemed to be mere inches from the ground. She let go and went into a wild roll on the ground.
+
+"Arthur, you're next," Nathaniel said. His brother followed suit, ending up ten or twelve feet away from Lisa.
+
+Now it was his turn to make the jump. The airship was getting close and close tot he ground. Nathaniel hoped that enough hydrogen was vented to prevent a major explostion. The trees seemed far enough away that it wouldn't cause a serious problem if it did, though he couldn't imagine that the trees would be surive the impact very well.
+
+By the time he got to the end of the rope, his feet were touching the ground. He ran along for several feet holding the rope with the airship attached to it above. He felt like a kid running through a park with an enormous balloon. Unlike a kid that clings desperately to the balloon only to experience the crush of disappointment when it clips away, Nathaniel gladly let go of the airship. Behind him, Arthur and Lisa were racing to catch up with him. They were all wet and soaking and freezing. The rain had not let up. 
+
+The airship continued to fall. It was low enough now that it seemed inevitable that it would crash into the trees. Before it did though, a gust of wind caught the tail and swung the airship around then pushed it sideways into the trees. The airship hit the trees, started to roll, then flipped up. It rolled over long ways once then crashed back down into the ground. 
+
+When it finally crashed, the airship caught on fire. There wasn't much hydrogen, but enough to combust when the gas bags broke and the air came rushing in. The trees smoldered and smoked but were wet enough that they didn't erupt into a full blaze.
+
+In the distance they could hear sirens. Actually the sirens came from two directions.
