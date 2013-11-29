@@ -2757,4 +2757,276 @@ The airship continued to fall. It was low enough now that it seemed inevitable t
 
 When it finally crashed, the airship caught on fire. There wasn't much hydrogen, but enough to combust when the gas bags broke and the air came rushing in. The trees smoldered and smoked but were wet enough that they didn't erupt into a full blaze.
 
-In the distance they could hear sirens. Actually the sirens came from two directions.
+In the distance they could hear sirens. Actually the sirens came from two directions. They came from Briersville and from the next closet town.
+
+The field where Nathaniel, Lisa, and Arthur were standing lit up in red and blue lights. Fire fighters were working to clear brush and stifle the fire. Men in uniforms ran back and forth. An ambulance showed up and a police officer led the three siblings over to the ambulance. 
+
+A paramedic was talking to them when another police car  pulled up. Officer Doyle and Anna, the reporter, got out of the car. Officer Doyle consulted with one of the fire fighters on the scene and was directed to where they were sitting and being tended to. Anna followed behind them.
+
+When she saw them, she rushed to them and said, "Thank goodness you're okay."
+
+"What happened back there?" asked Nathaniel.
+
+"I was down with the police officers. We started to hear shouting, but it was hard to tell where it was coming from. Before we knew it, the airship was taking off and flying away. The biggest fear was that it would crash into something."
+
+"How did you realize we were on it?" Lisa asked.
+
+"More police came and when they got to the roof, they arrested and started to lead down that religious group. I managed to get an interview with their leader and he said that people were on the airship." At this point Anna looked at Arthur and asked, "Were you really up there this whole time?"
+
+Arthur sheepishly nodded his head. "Yeah," he answered.
+
+"Huh, how strange."
+
+"What's strange about it?" Nathaniel asked.
+
+"I don't know. Just to think that when we were all crowded around the airship watching you go up there, there was someone up there looking down on us."
+
+"It wasn't exactly like playing the part of a god. I mostly just sat up there and thought." said Arthur.
+
+"But still. We just didn't know."
+
+Arthur then turned to them. "How did you realize I was up there?"
+
+Lisa pointed to Anna, "From her."
+
+"REally?" he asked.
+
+"I overheard someone talking in a bar about seeing someone up in the airship."
+
+"Somone saw me?"
+
+"Evidently. He saw you when you were leaving the engine car and going back into the airship."
+
+"Now it's time turn to find it weird. I can't believe that someone actually saw me. I thought that I had disappeared completely."
+
+"Not completely," said Nathaniel.
+
+Officer Doyle walked up to them next. "Well, this has been quite an adventure for everyone, hasn't it?"
+
+"Indeed," said Nathaniel.
+
+"I think the chief will want to have a long conversation about this?"
+
+"Am I in trouble?" asked Arthur.
+
+"I don't know son. Everything about that thing appearing in town was out of the ordinary. I just don't know. There's sure to be some upset people in town, but people being upset isn't exactly against the law."
+
+"Upset? Why?" asked Lisa.
+
+"A fair number of people were scheming how to make money off of that airship. Tours, exhibits, scrap metal. You name it. I bet there's someone right now who doesn't listne to pplice scanner radio feverishly planning their next move. Yep, you've probably upset a few number of people." Arthur seemed a little defeated by this speech. The officer went on the say, "On the other hand, you're sure to find a few people to thank you for destroying that thing."
+
+"We didn't do that on purpose." Lisa added. Nathaniel wasn't sure if she was tyrgin to keep her brother ouf of trouble, but he wished that she would exercise a bit more discretion. 
+
+"But either way it happened," added Nathaniel.
+
+"Sure, either way. But it means that stores will be able to open again downtown. Maybe life can get back to normal again." Nathaniel thought that Officer Doyle seemed relieved by the thought of that.
+
+"What about us?" Nathaniel asked.
+
+"Well, I can take you back to town. Then we just need you to show up at the police station tomorrow morning."
+
+"Officer Doyle?" Lisa interjected.
+
+"Yes?"
+
+"What's going to happen to those religious people from teh rooftop?"
+
+"I don't know yet, Lisa," replied Officer Doyle. "I haven't heard much chatter about them on the radio."
+
+"I think this isn't the groups first brush with the law," said Anna.
+
+"No, probably not. But..."
+
+"What is it?" asked Nathaniel.
+
+"There's some conflict reports about what happened on that rooftop."
+
+Arthur chimed in, "Those people were trying to kill us. What's confusing about that?"
+
+"I understand, son. But that's not the way the law works. We've got to hear those people out."
+
+"It seems like they're really good at being heard," Lisa commented.
+
+"Well, that's not for us to decide," replied Officer Doyle. "Why don't you folks get in the car and I'll take you back to town." They piled into the back of Officer Doyle's police car. It was warm inside and the chatter from the radio made everyone feel sleepy. 
+
+When Nathaniel snapped back awake, they were pulling up in front of the house. "Here we are," said Officer Doyle.
+
+"Home," Nathaniel muttered. They got out and he tapped on Anna's window. She rolled down the window. "Thanks," he said. "You were a big help back there."
+
+"Anything to get the story," she smiled.
+
+"You want to come inside. I think we've got some stale bread for sandwiches. Maybe some old soup."
+
+"Sure, that would be fine."
+
+They waved good night to Officer Doyle as he turned and drove back out to the road. "I'm starving," Arthur said. What's for dinner."
+
+"Let's get inside and find out," Nathaniel said.
+
+Chapter 27
+----------
+
+Lisa fell asleep as soon as she lay down in bed. As she got ready for bed, she assumed that tonight would be another restless night. She even stared up at the ceiling for a moment before closing her eyes. The last thing she remembered was the sound of laughter from downstairs as Nathaniel, Arthur, and Anna talked and joked.
+
+It must have been hours later but she woke up to a tapping sound on her window. She woke up confused. She felt light and weightless. Was she back in the airship floating above the ground? No, it was her bedroom. The familiarity of things around her started to come into focus. And there was the tapping again at the window.
+
+She rolled on her side and looked at the window. Given everything that had happened and how strange everything had seemed recently, she expected to see some kind of nympth or fairy or troll hunched on the window sill staring in at her. Maybe there would be a crowd of spirits there calling out for her with some mysterious request that she couldn't decipher.
+
+There was nothing there at the window sill, just a dark empty window. But more tapping.
+
+Lisa threw back her covers and slid out of bed. She opened the window. Lonnie was standing below her window. She poked her head out jsut as he lobbed another rock. The rock clinked against he glass just shy of the top of her head. "Lonnie! What are you doing? It's freezing out here."
+
+The rain and sleet had made it much colder outside. Lonnie's breath materialized in rolling clouds of smoke, almost obscuring him. Lisa could see her own breath too.
+
+"Can we talk?" he said. He was obviously cold and hopped side to side.
+
+"Okay, I'll be right down." She crept downstairs quietly. Anna was asleep on the couch under three blankets. She tossed around and looked up as Lisa sneaked past her. Lisa held up her finger to her lips and pointed to the door. Anna disappeared behind the sofa.
+
+Lisa opened the front door. The cold bit her face and made thick robe feel thin as rags. Lonnie was standing by his car. She darted across the yard and jumped in his car. Inside it was still warm and the windows were frosting up. "What are you doing here, Lonnie?"
+
+"I just felt so bad about leaving. There's so much going on with the airship and your brother. I just felt like I should come back and help out." Lisa started laughing. "Why are you laughing?" he asked.
+
+"I'm laughing because...I don't know why. It's just that...so much has happened since you left. The airship isn't there anymore."
+
+"Where did it go?"
+
+"It blew up!"
+
+"Over the town? Is everyone okay?"
+
+"Everyone is fine. It blew up in a field to the west of here. We were on it, Lonnie, right before it blew up."
+
+"You were? Are you serious?"
+
+"Yes! Arthur had climbed up inside the airship yesterday. That's why he was missing. Then Nathaniel went up there with all of that climbing gear."
+
+"So he finally came around?"
+
+"Sort of, yes. He went up. Only Arthur hid form him."
+
+"Why?"
+
+"I think...I think Arthur liked being up there oddly enough." Lonnie nodded as if he understood. "Then there was this reporter who came to town and he found out that ARthur was up there. She's sleeping inside right now. And so we had to sneak into the building. But there were these relgious protestors up on the roof."
+
+"What were they doing up there?"
+
+"Praying for the end fo the world, it seemed. I went up in the airship. Then Nathaniel started up. But the protestors knocked over the radio tower. So the airship slipped off the building started the fly away. Only Nathaniel was hanging from the rope."
+
+"Right over everything, just hanging there? Oh man."
+
+"Yeah, so Arthur and I had to pull him up and then we had to vent all of the gas in the airship to get close enough to teh ground to get out."
+
+"And then it crashed?"
+
+"Yep."
+
+"Wow, so I missed everything."
+
+"Pretty much."
+
+"I feel kind of dumb for coming back."
+
+Lisa leaned over and kissed him on the cheek. "It's okay. It's kind of sweet. Why don't you come inside get some rest."
+
+"Your brother won't mind."
+
+"After what we just went through, I think it's the least of his worries." Lisa set him up with a few blankets and pillows on the floor inside. "Good night, Lonnie," she said.
+
+"Good night, Lisa. I'm glad everything turned out okay," he replied.
+
+As she went back upstairs, Lisa weighed in her mind whether or not everything had turned out okay. She guessed it was the best that things could have turned out. She did wonder about what Officer Doyle said about poeple being upset with how things had turned out with the airship. Would anyone hold it against them that they had blown up the airship?
+
+It seemed like a strange thing to worry about given how close they came to dying. But for the space of a few days, the airship had hung over all of their heads. The airship, just floating up there the way that it did, had held out the possibility to affect any single person or every person in town. It dangled there on that tower like a die in slow motion mid roll. 
+
+Somehow they had gotten entangled in it in a way no one else had, and so a certain part of it belonged to them and their experience. She would always think back on teh airship and might even think of it as being "their airship," however right or wrong that might be.
+
+Chapter 28
+----------
+
+When she heard the sirens whirl and whine and saw the flashing lights outside her house, the mayor jumped out of bed. Fear rushed over her. Are they coming for me, she wondered. Her more conscious and rational mind took over. She threw on her house coat and her slippers and went downstairs.
+
+She opened her front door and found the police chief and the fire chief standing there. They both looked exhausted but not anxious or panicked. They certainly didn't seem like they were going to take her to jail. This set the mayor much more at ease. Her public face took over and she said, "Gentleman, what has you out at this time of night."
+
+"CAn we step inside?" the fire chief asked.
+
+"Of course," she said. She stepped back and opened the door wider. The two chiefs removed their hats and stepped inside. "Let me turn the heat up a bit. Got chilly tonight."
+
+"Yes, mayor it did," said the police chief.
+
+It occured to the mayor that they might have been speaking in metaphor and she didn't realize it. If it was a code or a metaphor what did it mean. Coldness, winter, the end of things, dying. Maybe they were coming to relieve her from power. Spring and thaw and warm weather would mean something better, of course.
+
+But it was cold outside. So, it could just be that they were talking about the weather. Being pleasant. So, the mayor turned up the heat. The radiators in the house started to hiss as the hot water streamed through them. 
+
+The two chiefs were sitting in the front room. They weren't saying much. The fire chief was closing his eyes. He was just starting to snore when the mayor came back in and said, "Coffee? Something else hot?"
+
+"I'm fine," said the police chief.
+
+"Uh, me too," the fire chief said. He rubbed at his eyes.
+
+"So what business do we need to tend to at this late hour in my house?"
+
+"It's about the airship," the police chief said.
+
+"Nothing bad, I hope," said the mayor.
+
+"Not great, but not terrible," said the police chief.
+
+"It crashed about an hour ago."
+
+"In town? I didn't hear anything."
+
+"Not in town," said the fire chief. "About ten miles outside of town, closer to Valesburg. Just past Nickle Creek. There's some woods there. The airship crashed there."
+
+"Any damage?"
+
+"Some burned trees. Nothing too bad. We sent men out to help with fire containment."
+
+"A few of my men were on the scene too. They weren't too far behind the airship."
+
+"What happened exactly?"
+
+"We're still trying to sort out the details," the police chief said.
+
+"Was anyone injured? Anything we need to worry about?"
+
+"It's strange, but the Plaices were on board the airship when it broke away from the tower. That religious group..."
+
+"The one from the meeting?"
+
+"Yes, they were all involved in some kind of confrontation on the building's roof. The Plaices ended up in the airship as it drifted along. They're the ones that crashed the airship."
+
+"Were they arrested?"
+
+"No, nothing to arrest them for, far as I can tell at this time."
+
+"They may have made the crash much less worse," explained the fire chief. "They vented a lot of the airship's hydrogen."
+
+"Well, this is interesting news indeed," the mayor said. As she sat there, she tried to figure out what these events meant for the town and for her. It certainly didn't help her situation with Fontaine. That was one little silver lining that had appeared since the airship showed up in town. She was holding on the hope that she could settle her debts with Fontaine.
+
+"Is there anything left of the airship?"
+
+"We can't tell right now. The fire didn't get too hot. It's pretty wet and icy out there. That also helped dampened the fire down," the fire chief said.
+
+"Let's try to be there on the scene when things have settled down. I'd like to know what exactly is left there."
+
+"The airship kind of left our jurisdiction," said the police chief. We're just lending a hand at this point. It's really Claremont County's problem since that's county land, not incorporated."
+
+"But it's the subject of our investigation, correct? Potentially a criminal investigation?"
+
+"Potentially..."
+
+"Let's try to sort the facts about this story as quickly as we can. I'd like to know if your men need to invesitage the crash sight for any additional evidence for their case. I think Bernie is finally back in town, so we can talk to him about what the prosecution might need too..."
+
+"Pardon me, madam mayor, but prosecute what exactly?" asked the police chief.
+
+"The case, the criminals, the perpetrators."
+
+"But we're not sure if there is any case."
+
+The mayor set back in her chair. She didn't need to overplay her hand. Everyone in that room was tired and moods could swing wildly. She could tell that the two chiefs took themselves to be staring at the end of the case and were relieved for it. She couldn't push them too hard just yet. Just plant the suggestions and move on, she said to herself.
+
+"Of course. Maybe I'm thinking too far ahead. Let's just try to get this situation with the airship settled as quickly as we can. We don't want it to get to be the end of the month and we'er still scrambling to put together the pieces of a case, if there is one before to put together."
+
+The two chiefs nodded. The fire chief's yawn signalled that it was time to leave. They both got up and went out to cars and the tired officers waiting for them outside. 
+
+The mayor watched them drive away, almost more worried now that the airship was gone than she had been when it was there hovering above Briersville.
