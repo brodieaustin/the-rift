@@ -22,7 +22,7 @@ Officer Doyle was stunned as well. Usually one to spring into action, he rubbed 
 
 "What is that?"
 
-"Your hat, sit. It fell to the ground."
+"Your hat, sir. It fell to the ground."
 
 When the young man passed the rigid, structured hat back to Officer Doyle, the gesture or the hat reignited conscious thought in the officer. He looked around like someone waking up from a dream and realizing, to his horror, that he had sleep walked to the edge of a cliff. With the airship bobbing gleefully with each passing brush of wind, it was only a matter of time before it crash to the ground and exploded. Or exploded outright, he reminded himself.
 
@@ -3245,4 +3245,146 @@ Nathaniel dropped her off by her car. As she got out, he stopped her and asked, 
 
 "It has," she replied.
 
-She waved goodby to him as he drove off. She settled her bill inside and got her things together to head back to the city. As she left Briersville, she wondered if she would in fact ever see Nathaniel Plaice and his brother and sister again. She could imagine there being serveral more twists and turns in their story in the months ahead. But she also knew that once she sat down the story, other duties would call. There would be new things to distract her from the happenings in Briersville.
+She waved goodbye to him as he drove off. She settled her bill inside and got her things together to head back to the city. As she left Briersville, she wondered if she would in fact ever see Nathaniel Plaice and his brother and sister again. She could imagine there being serveral more twists and turns in their story in the months ahead. But she also knew that once she sat down the story, other duties would call. There would be new things to distract her from the happenings in Briersville.
+
+Chapter 31
+----------
+
+In the days after the airship crash, Arthur tried to resume a normal life. Try as he might, though, normal life wasn't quite ready to resume. He had to spend a fair amount of time with the police talking about his time in the airship. It remained to be seen if he would be in any real trouble. It clearly had been trespassing to sneak up on top of the building, but the airship itself. No one knew who that belonged to.
+
+A hearing was scheduled before the judge. Arthur and Nathaniel and Lisa showed up at the appointed time. The judge heard the case, which really amounted to filling in details that he didn't know from word of mouth and the local paper already. The judge ordered one hundred hours of community service for him. He also lectured Arthur about the mounting number of little transgressions he had committed. Arthur swore to the judge that he would not cause any more trouble.
+
+The judge didn't end there. He also reprimanded Nathaniel.
+
+"Your father's will made you the guardian and care taker of your siblings. You have some part to blame in all of this, as far as I can tell."
+
+"Yes, your honor," Nathaniel said. 
+
+Arthur knew that the judge was right, even though the lesson came with a heap of humilitation for his brother. He felt bad for Nathaniel for the first time since their father died. The airship had made them all seem a little smaller, made their arguments and fights seem a little ridiculous. 
+
+They left the courthouse that afternoon, ate lunch, and went home. School had started back up but Arthur had not been able to attend regularly. He had a pile of homework to finish, tests to prepare for. He and Lisa set up their work at the kitchen table. Nathaniel sat in the living room reading a book. 
+
+"Everyone has been talking about you," Lisa said.
+
+"Oh yeah?" Arthur said, looking up from his poetry assignment. 
+
+"I can't stop answering questions about you. It's kind of annoying. And kind of okay too," she said.
+
+"Well, that's something, I guess."
+
+"Are you nervous?"
+
+"About what?"
+
+"About going back to school. About seeing Charlie and Jeff and Nick. Speaking of which, I talked to Nick yesterday."
+
+"He has a crush on you," Arthur said.
+
+"He's a freshman!"
+
+"And you're a junior. I don't think much of it."
+
+"Anyway, he asked if you were okay."
+
+"And what did you say?"
+
+"I said that you were fine. I thanked him for helping us. He does seem like a nice guy."
+
+"Yeah, Nick was never the problem."
+
+"Maybe you can start a new group. You and Nick the leaders."
+
+"The leaders of what? Brainy outcasts, one half of which spent two days in a phantom airship and nearly died a few times?"
+
+"Sure, something like that."
+
+"I'll write up the plan as soon as I finish this poem."
+
+They went back to studying. They were quiet for a few more minutes then Lisa looked up again. "Arthur, do you ever wonder why the airship landed here?"
+
+"Not really."
+
+"Not even when you were up there?"
+
+"It just happened. It just got stuck here."
+
+"Like maybe it wasn't supposed to?"
+
+"Maybe not. I don't know. It's not like it came here to teach us a lesson or something."
+
+"I wonder if it ever went anywhere else."
+
+"What like the Ancient Mariner?" Nathaniel shouted form the living room. "Telling his story to anyone who would listen?"
+
+"Maybe," said Lisa. "But it does seem kind of silly to think that doesn't it."
+
+"I don't know, Lisa," Arthur said. "It almost felt like it was sent there for me, for a little while when I was up there and could see over everything. It seemed like that was how it was supposed to be for me. Looking at everythign from the ground had not been the right spot for me to see the world. But when it floated away with us inside of it, I guess I realized that it was just a huge machine, just pieces of metal and fabric."
+
+"It's not so magical when it could burn you up in a cloud of gas and fame," Lisa said.
+
+"Exactly."
+
+Nathaniel walked in to the kitchen witha folded up paper. He tossed it on the table. "Another interested development in our story," he said.
+
+"What's that?" asked Lisa.
+
+"According to this, the leader of that religiuos group had a number of warrants out for his arrest. It appears that he had led a few different lives. Fraud doctor, embezzeler, sham religious leader, ambulance chasing attorney have been a few of his occupations."
+
+"I wonder if his followers are upset," said Lisa.
+
+"Why's that?" asked Arthur.
+
+"Their whole world just got crumbled up in their faces."
+
+"Maybe, but poeple like that have a way of riding out these challenges. For all we know, he has spun the whole ordeal into yet another sign and portent of the sinfulness of modern times. The establishment's after him. I'm sure that he has everything tied up in a tidy package, every insinutation about him, every aberation in his story. He's got it all spun out in a tale to tell."
+
+"And he has an audience," said Arthur.
+
+"Yes, who has no motivation to believe otherwise," said Nathaniel.
+
+"It's too bad they don't know the truth."
+
+"Maybe," replied Nathaniel. "None of it really matters though because it sounds like he's going to jail one way or another."
+
+"I wonder if he regrets coming to protest the airship," Lisa said.
+
+"I guess it will depend on how many followers he picks up in prison," Arthur said.
+
+"I wonder too. I guess the idea of an ancient airship floating over a town was just too much for his imagination to resist. How could he not come here and try to make something of it?"
+
+Author's Note
+-------------
+
+Several years ago, I was very interested in airships. I developed two stories that featured airships prominently. One of them was a mashup with T.S. Eliot's *Waste Land*. I wrote that story using a text to speech program (mind you this was well before the days of Siri and Google Now).
+
+The other story idea involved a family, just two brothers and a sister, who found their life altered when an airship mysteriously appeared in the town where they lived. In the earliest version of this, I wrote the story like a Hardy Boy's adventures. The siblings were prodigies who travelled the world, invented things, and had precociuos insights about science, art and the world at large. I think that early version featured something called the Arrow Brigade, who would be the arch villans of the series. The kids and the Arrow Brigade would first confront one another over the airship.
+
+Once I scrapped that story, I redeveloped the concept around the image of a airship snagged on a building. It's lost to time now, but there was an email list devoted to airships that I subscribed to at the time. I remember posting a quesiton to the list about this concept and how feasible it would be. The idea wasn't shot down completly.
+
+The siblings stayed in teh story, but they were a little more ordinary. The older brother would be the caretaker, an arrangment preciptated by their father's death. The older son was going to run a stationary story or a hardware store depending on which version I was working on at the time.
+
+At this point, the airship had a mysterious pilot, a spectral Ancient Mariner like figure. The younger brother and sister would discover the pilot and find that he was dying. He was British and the pilot would be too. The airship would be a WWI vintage British airship. The pilot had been scouring the world looking for the woman he loved, the woman who presumed him to be dead.
+
+The woman, it would turn out, was the kids' high school english teacher. Their favorite teacher and, it would turn, out a lover of Romantic era poetry. The kids would reconnect the pilot with the woman, who was well into her seventies at this point, even though he seemed like a haggard younger version of himself. 
+
+Then I started to dismiss this concept as being a bit too contrived. I reworkd the story one more time but with the youngest brother going through rebellious phase. He would get into trouble vis-a-vis the airship. Lessons would ensue.
+
+The story sat there, in an imaginative stasis for several years. 
+
+Then I picked it back up for NaNoWriMo. The tentative title, "The Rift", pointed to a more fantastical mood for the story. There would still be a pilot aboard the airship, trying to return the airship to a rift that existed in a small town. The siblings would remain, not realizing that their father had been hiding the existence of the rift from them. Their house would be filled with interesting antiques and treasures, all brought back from their father's trips through the rift.
+
+For some reason, this story gave way to what I ended up writing, which is a more straight forward "literary fictional" rendering of this image of the airship snagged on a building.
+
+The problem that I wrestled with the most writing this story was what to do with teh airship. Put another way, "What does the airship mean?" As I worked through this question, I struggled with literary criticism like Leo Bersani's *Culture of Redemption* that calls into question the "redemptive power of art."
+
+Ultimately, I settled on some redemption in this novel, but held fast to the idea that the airship is a netural enigma, a signifier from the *Real* to use the language of psychoanalysis and literary criticm (these terms and modes of thoughts are like my own mental airship floating in from another time). 
+
+I don't know if you can have "a little bit of redemption" in a story, but meting it out in a small dose like this is a concession to the need for dramatic arc and tension, and the ultimate concession that moralizing, even anti-moralizing moralizing can cause you to run adrift.
+
+I bothered to write any of this down for a few reasons. First and foremost I'm trying to meet my final word count for NaNoWriMo. The other reason is to document some of the twists and turns that this story took from the central image of an airship showing up in these characters lives to actually getting it down in a readable form.
+
+I make a point of never planning for NaNoWriMo. No notes, no outlines. I don't even cheat by leaving comments. I start at the beginning and end at the end. Looking back at some point, I'm sure that the beginning won't seem like the beginning and the end won't seem like the end. The ending as it exists now is kind of pathetic, but I couldn't resist trying to wrap up the fate of the religious leader.
+
+The winding and happenstance nature of getting all of this down does make it a bit more interesting to note how the story evolved. If you didn't catch it in the story, I am interested in whteher ot not the airship will forever float out of my imagination now that I have "done something with it." Maybe it deserves the be revisted in one of these other versions, maybe the characters will leap out of this story and appear in another. 
+
+The open ended nature of these question and the fact that I don't even really know the answers or understand them in advance makes writing stories down interesting and worthwhile at all.
