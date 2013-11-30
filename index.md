@@ -28,7 +28,7 @@ When the young man passed the rigid, structured hat back to Officer Doyle, the g
 
 "Okay, I need everyone to step back."
 
-Much like the policeman, everyone else seemed too stunned or simply too curious to move. They did not have the benefit of even the cursory training that Office Doyle received in Chicago. They hadn't imagined themselves gunning down thieves or engaging in high speed chases. Their imaginative reflexes simply weren't nearly as fine tuned as the policeman's. And the airship had overtaken his capacities with awe rather quickly.
+Much like the policeman, everyone else seemed too stunned or simply too curious to move. They did not have the benefit of even the cursory training that Office Doyle received in Chicago. They had not imagined themselves gunning down thieves or engaging in high speed chases. Their imaginative reflexes simply weren't nearly as fine tuned as the policeman's. And the airship had overtaken his capacities with awe rather quickly.
 
 "People, people. Move away. Cross the street. You..." He waved the young man who had picked up his hat, "Young man, come here. What is your name?"
 
@@ -70,7 +70,7 @@ The police chief arrived with the mayor in tow, a woman as it turned out, and he
 
 "My man, Doyle, was first on the scene," the police chief said, apropos of nothing. The fire chief seemed irritated by the passing remark.
 
-"We're ready to go up there, Mayor. It's your call," the police chief again.
+"we are ready to go up there, Mayor. It's your call," the police chief again.
 
 The fire chief shifted his weight from side to side, looked back at his guys. He was not about to let the police chief upstage him here. He had lived in Briersville long before the police chief arrived on the scene. He knew people. And knowing people meant something.
 
@@ -90,7 +90,7 @@ The fire chief rifled through the list of things he knew, of people that he knew
 
 "That's not what I asked," said the mayor.
 
-"Sounds risky to me. Besides, we'd better clear it with the lawyer, " the police chief said.
+"Sounds risky to me. Besides, we would better clear it with the lawyer, " the police chief said.
 
 "Bernie's on vacation."
 
@@ -98,7 +98,7 @@ The fire chief rifled through the list of things he knew, of people that he knew
 
 "Fly fishing..." That ended the discussion about that.
 
-"So, what qualifies him for...whatever it is we're thinking about"
+"So, what qualifies him for...whatever it is we are thinking about"
 
 "He's a war veteran."
 
@@ -249,7 +249,7 @@ Nathaniel nodded his head, not really to indicate that he understood anything, b
 
     He holds him with his glittering eye—
 
-Apparently these lines had been in his memory for years, though he hadn't recalled them before today. 
+Apparently these lines had been in his memory for years, though he had not recalled them before today. 
 
 "And how can you help with your information problem, Office Doyle?"
 
@@ -265,7 +265,7 @@ The office straightened himself out a bit, either uncomfortable or annoyed, Nath
 
 "Oh, so slogging through muddy fields, huddling in frozen mountain caves?"
 
-"That last one. No, I mean your mountaineering skills. That's what we're talking about."
+"That last one. No, I mean your mountaineering skills. That's what we are talking about."
 
 Nathaniel leaned back in his chair. "I see. And how exactly will those skills be useful to you?"
 
@@ -443,7 +443,7 @@ After the policeman left, she stormed into the front parlor, where her brother s
 
 "He did not mention anyone calling for help. I mean, if you were stuck in an old airship that just collided with a building, wouldn't you call for help?"
 
-Lisa hadn't really considered that point before. As usual, her brother made a strong case. It woudl be difficult to manuever around that one. But they could be hurt and needing help."
+Lisa had not really considered that point before. As usual, her brother made a strong case. It woudl be difficult to manuever around that one. But they could be hurt and needing help."
 
 "Or, dead already. Had you considered that?"
 
@@ -457,7 +457,7 @@ Lisa stomped off through the house, grabbing Lonnie's hand as she didn. "Where a
 
 "To the shed," she said.
 
-The "shed" really was an old barn behind the house. It was not full of animals and hay, though. It hadn't for as long as Lisa could remember. She forced open the rusty door enough to squeeze through and climbed up into the loft. In one corner were boxes her brother had sent before his move home. The boxes had never been opened. A few years of dust already covered them, which made them less dusty than the other bins, barrels, and boxes in the shed.
+The "shed" really was an old barn behind the house. It was not full of animals and hay, though. It had not for as long as Lisa could remember. She forced open the rusty door enough to squeeze through and climbed up into the loft. In one corner were boxes her brother had sent before his move home. The boxes had never been opened. A few years of dust already covered them, which made them less dusty than the other bins, barrels, and boxes in the shed.
 
 She opened the boxes, pulling out books and old clothes. "Lisa, what are we looking for?" Lonnie asked. "It's really dust...ahchoo...in here."
 
@@ -471,7 +471,7 @@ They piled up everything on the kitchen table. Nathaniel came in, shook his head
 
 Instead of packing everything away, Lisa and Lonnie arranged all of the gear on the table. They gathered today the robes, the climbing aids. Put the worn boots with an equally worn pair of gloves. "There's a lot of stuff here," Lonnie commented. Lisa nodded her head.
 
-She decided that leaving the equipment on te table might persuade her brother to take it up and go help out at the site of the airship. In the meantime, she wondered what was going on with back in town. The radio in the parlor was not working--hadn't worked for a few years now, so they went out to Lonnie's car to listen.
+She decided that leaving the equipment on te table might persuade her brother to take it up and go help out at the site of the airship. In the meantime, she wondered what was going on with back in town. The radio in the parlor was not working--had not worked for a few years now, so they went out to Lonnie's car to listen.
 
 "...Local authorities advise residents to stay away from the center of town. The airship could be unstable. Officials from the FAA were not able to comments on the situation, not having been advised of any lighter than air craft that might be in the vicinity. Locally, air traffice controllers in the region are puzzled as well. Based on the airship current position and heading, no airports in a 10 mile radius of is flight path detected any abnormal activity."
 
@@ -614,7 +614,7 @@ The tower creaked under his weight not that he was at the narrowest part of it. 
 
 He shimmied up closer to the top. The airship kept bobbing just out of reach. Finally he grabbed a scrap of the outer fabric that hung down. He gave it a yank, but as he did, the tower lurched dangerously down. 
 
-Arthur kept his grip on the fabric, but he hadn't made the opening any larger. He remembered that he had a small pocketknife in his pocket. He gripped the airship tighter than before, clenched his legs to the point of straining around the tower's framework and retrieved this knife. He wished that he had Charlie's switch blade, instead of the single blade knife that needed two hand to open. He settled on using his teeth and his free hand to open it.A few tries and he managed to extract the blade and lock it in place. 
+Arthur kept his grip on the fabric, but he had not made the opening any larger. He remembered that he had a small pocketknife in his pocket. He gripped the airship tighter than before, clenched his legs to the point of straining around the tower's framework and retrieved this knife. He wished that he had Charlie's switch blade, instead of the single blade knife that needed two hand to open. He settled on using his teeth and his free hand to open it.A few tries and he managed to extract the blade and lock it in place. 
 
 The wind was noisy in his ears. Even still the ripping sounds of the fabric sounded louder than he expected. The fabric also was much tougher than expected. To have any effect at all, he had to saw at the tear in the fabric, tug at it forcefully then saw some more.
 
@@ -643,7 +643,7 @@ She obviously had just come in from a smoke break because she was coughing as sh
 
 "Know what you want yet?"
 
-Lisa looked over the menu. "I'd like a breakfast."
+Lisa looked over the menu. "I would like a breakfast."
 
 "Just eggs, hashbrowns and toast now. Nothing else."
 
@@ -751,7 +751,7 @@ The police chief turned. "Lisa Plaice. What can I do for you?"
 
 "Arhtur? No, not tonight. I've got to run, some other places to be tonight." He got back in the passenger seat of the last remaining squad car and drove away. 
 
-Lisa assumed that he had other calls like this one to make. But it was strange that he hadn't seen Arthur. Would he have told her if her brother was in trouble? He had talked to her before about trying to keep him inline, to make sure that he came in contact with the "right influences." Once he put that burden on her, wouldn't he have volunteered information about Arthur to her?
+Lisa assumed that he had other calls like this one to make. But it was strange that he had not seen Arthur. Would he have told her if her brother was in trouble? He had talked to her before about trying to keep him inline, to make sure that he came in contact with the "right influences." Once he put that burden on her, wouldn't he have volunteered information about Arthur to her?
 
 As she tried to go back into the diner, Charlie ran into her as he was bolting out of the diner. "Get out of my way," he said and started to jog down the street.
 
@@ -797,7 +797,7 @@ She walked back to the diner and found Lonnie waiting for her, leaning against t
 
 "Lonnie, I think my brother's in trouble and you are the last person I want to tell about it right now."
 
-She went back inside to the diner and sat at the empty booth. The plates had not been cleared away yet. It seemed like Charlie's mother was causing some kind of disturbance in the back. The unpaid check still sat on the tablet too. Lonnie hadn't been kidding when he said that he couldn't cover the cost of dinner wherever they went.
+She went back inside to the diner and sat at the empty booth. The plates had not been cleared away yet. It seemed like Charlie's mother was causing some kind of disturbance in the back. The unpaid check still sat on the tablet too. Lonnie had not been kidding when he said that he couldn't cover the cost of dinner wherever they went.
 
 She pulled out the slim wallet that she kept in her jacket pocket got money to pay for dinner. She decided to leave a little extra tip for Ms. Halloway. She was not sure if this was a kidn gesture or a condescending one. Regardless, Charlie's mom might ot even register the difference. What mattered, Lisa decided, was how she felt about the gesture. She decided it was done out of kindness and was a way of saying, "It will be okay. And this token is a little bit of proof that I have to show it."
 
@@ -810,9 +810,9 @@ Their father's death had been sudden, particularly for him, since he tried not t
 
 IT was hard now, though, to remember why exactly he went to Colorado. Certainly it was a relief that he wouldn't have to march in any parades or accept any resouwrds for bravery or valor or whatever.
 
-As he cycled throuhg old thing in his mind, he kept coming back to feeling that he had on the day of his father's funeral. He had just flown in on a small plane from a small regional airport. He had taken buses and trains and airplanes to get there. Yet despite having travelled for two days and hardly had anything to eat, he could help feeling that his legs hadn't been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest.
+As he cycled throuhg old thing in his mind, he kept coming back to feeling that he had on the day of his father's funeral. He had just flown in on a small plane from a small regional airport. He had taken buses and trains and airplanes to get there. Yet despite having travelled for two days and hardly had anything to eat, he could help feeling that his legs had not been built for pews. The rise and fall of the seats always seemed too dramatic. The angle of the back too severe. And his legs\-\-too short by far, not optimized for the kneeling, not suited for the sitting. He had carried this physical discomfort in religious seating for a long time, since at least a time when he was younger and his mother had passed through a phase of religious interest.
 
-The strange thing was that his father hadn't been a religious man. Nathaniel hadn't remembered him being that way, at least. He always seemed like a man of the world, very concerned with things in the here and now. But his father's will had stipulated that he was to have a funeral ceremony in the town's Episcopal church.
+The strange thing was that his father had not been a religious man. Nathaniel had not remembered him being that way, at least. He always seemed like a man of the world, very concerned with things in the here and now. But his father's will had stipulated that he was to have a funeral ceremony in the town's Episcopal church.
 
 So, Nathaniel had calmly agreed to the setting, to the tone of the service. It was simply a matter of following the letter of the law, the intentions set forth in the will. Intentions he had nodded over at some time. At the service those intentions were made real, his father's spirit embodied itself in those plans.
 
@@ -933,7 +933,7 @@ By the time he caught up with him, Nathaniel had veered off into the field near 
 
 "My house..."
 
-"Nathaniel, we're 5 miles from your house. It's the middle of the night and it is cold out here."
+"Nathaniel, we are 5 miles from your house. It's the middle of the night and it is cold out here."
 
 "Doesn't feel cold. It's not Riva Ridge or Mount Belvedere."
 
@@ -976,7 +976,7 @@ Chapter 9
 
 The airship's cabin was cold, freezing cold. It did not offer much more protection that if he'd been hanging from the side of the thing over the town. Getting into the cabin had been a challenge though. The girders were narrow. His hands and feet were freezing cold. He inched along until he reached the gangway that ran down the center of the ship to a ladder. 
 
-He poked his head down into the cabin and looked around. Empty. The cabin had been completely empty. It was not even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he hadn't been so cold, Arthur would have assumed that he was dreaming.
+He poked his head down into the cabin and looked around. Empty. The cabin had been completely empty. It was not even clear if anyone had been there. But how could anyone have been there. None of it made any sense. If he had not been so cold, Arthur would have assumed that he was dreaming.
 
 Once he made it into the cabin, the airship seemed much more stable than it had when we was crawling along its skeletal frame. The clank of the metal under his feet was reassuring. He studied the primitive controls, really nothing more than ropes and levers stationed in front of a angled bank of windows. 
 
@@ -1073,7 +1073,7 @@ He seemed a little awkward to be a police man. He had every right to pull her ov
 
 Lisa wondered if this help was above and beyond Todd's duty as a police officer. He seemed genuinly concerned about her brother. She hoped that he was not really that bad off. She had seen him in some pretty dark places, particlarly in those early days when he came back home.
 
-She still did not really understand why coming back was such a bad thing. But he made it clear to both of them that he did not want to be there. It made her cry many times. Nathaniel rarely had comforting words for her, and was more likely to say, "I'd be crying too if I were you." Arthur was not much help either. He started running with those deliquent guys and not being around as much as before.
+She still did not really understand why coming back was such a bad thing. But he made it clear to both of them that he did not want to be there. It made her cry many times. Nathaniel rarely had comforting words for her, and was more likely to say, "I would be crying too if I were you." Arthur was not much help either. He started running with those deliquent guys and not being around as much as before.
 
 It was strange how alone she had felt in those early days after her father died. He really was never around much, travelling all over the place. Their caretaker, a woman named Constance, lived with them and took care of them, only visiting her family on the weekends. But with more people around than ever, she felt very strongly how thigns had come apart. The people in her life seemed further apart than ever before.
 
@@ -1156,17 +1156,17 @@ The consensus in the room, if there could be said to have been one, was that the
 
 "Can't," said the fire chief. "Probably part of the exercise."
 
-"Maybe we're being tested," said someone else. "Maybe the miliatary wants to see how we respond to the event."
+"Maybe we are being tested," said someone else. "Maybe the miliatary wants to see how we respond to the event."
 
 "Like some kind of psychological experiment?" someone else asked.
 
 The mayor realized that the conversation would quickly get out of control. It was time for her to assert herself. She tapped her fork against her coffee cup to bring the noise level down. Everyone stopped talking and faced her. Her assistant arrived just then too. He look utterly bewildered by seeing all of these people in the mayor's house, but realized what was happening and did not lead on just how annoyed with her he was.
 
-She, of course, knew how annoyed he was. She was straying from the plan. But so far, her gut always told her when to stray from the plan and when to stick to it. It hadn't been wrong yet and was a remarkably perceptive organ.
+She, of course, knew how annoyed he was. She was straying from the plan. But so far, her gut always told her when to stray from the plan and when to stick to it. It had not been wrong yet and was a remarkably perceptive organ.
 
 "Let's make some room for Ken. Ken, would you like some coffee?" He held up his cup as Floria came around with the warm porcellin pot.
 
-"First, let's thank Floria for helping to make this wonderful food. And thank you for coming to my house this morning. I know you are here with questions and concerns. Now, understand, I do not have answers for everything. I think we're just getting over the shock of what happened yesterday. I can tell you this. I will do everything that I can working with the police and fire departments to ensure that the area aroudn the airship is safe and secure. I also want to commit to you to doing everything I can to learn what is going on and why the airship appeared in our town. I am also going to to commit to you that within three days we will reopen downtown. Maybe not everything, maybe not the building where the airship is, but 90% will be open in three days."
+"First, let's thank Floria for helping to make this wonderful food. And thank you for coming to my house this morning. I know you are here with questions and concerns. Now, understand, I do not have answers for everything. I think we are just getting over the shock of what happened yesterday. I can tell you this. I will do everything that I can working with the police and fire departments to ensure that the area aroudn the airship is safe and secure. I also want to commit to you to doing everything I can to learn what is going on and why the airship appeared in our town. I am also going to to commit to you that within three days we will reopen downtown. Maybe not everything, maybe not the building where the airship is, but 90% will be open in three days."
 
 Everyone nodded with approval, even the store owners who desperately wanted to reopen their shops.
 
@@ -1313,7 +1313,7 @@ Nathaniel nodded, "Yes, it is a big problem. But surely you could get a helicopt
 
 "Are we back on record yet?" the reporter asked. The police chief nodded. "So, for the record," she asked, "Will you or won't you go up in the airship."
 
-Nathaniel looked at Lisa. He was used to bearing her mild disappointment in him, but she had a look of absolute disgust, maybe even hatred, that was new to him. He did not like it. As much as he struggled by what he owed his brother and sister and what they owed him, he did not want to create these kinds of feeling bewteen them. He genuinely liked his younger sister. He hadn't grown up with her or his younger brother, but they were both not that bad, most of the time.
+Nathaniel looked at Lisa. He was used to bearing her mild disappointment in him, but she had a look of absolute disgust, maybe even hatred, that was new to him. He did not like it. As much as he struggled by what he owed his brother and sister and what they owed him, he did not want to create these kinds of feeling bewteen them. He genuinely liked his younger sister. He had not grown up with her or his younger brother, but they were both not that bad, most of the time.
 
 Besides, the chief really had him in a corner. He did not want a record of stupid and petty infractions following him around. He already understood tha the had developed a reputation in town as a little bit irresponsible and a a little bit of a drinker. Some of this was prone to happen. After all, he was not a teetotaler like many people in town. He did not exactly hide his consumption of alchocal the way many others did.
 
@@ -1331,7 +1331,7 @@ He stood up and said, "Chief, I will do it. But you have to let me walk out of t
 
 "I will send someone for you. Don't you worry about that."
 
-"Chief, I have a few more questions that I'd like to ask Mr. Plaice," said the reporter.
+"Chief, I have a few more questions that I would like to ask Mr. Plaice," said the reporter.
 
 "Sure, go ahead. You can use my office. I have to go talk to my guys then I will be back." The chief sauntered out of the room. He seemed a little less harried now that Nathaniel had agreed to climb up in the airship.
 
@@ -1364,7 +1364,7 @@ Lisa and Nathaniel did not say much to each other as they drove home. Lisa thoug
 
 "What do you mean? A mysterious ship descends from the sky, like...like some kind of god."
 
-"So, we're supposed to get on our knees and pray to it?"
+"So, we are supposed to get on our knees and pray to it?"
 
 "That's not what I mean. But it so...mysterious."
 
@@ -1483,7 +1483,7 @@ Now all she could do was sit and wait and hope that something truly awful did no
 Chapter 14
 ----------
 
-The firefighters were there to help assist him with the climb. A crew had been there earlier trying to stabilize the radio tower. By all accounts, it was bent, but not dangerous now. They hadn't put a man's wight on it, of course, so Nathaniel did not feel too optimistic about they repairs.
+The firefighters were there to help assist him with the climb. A crew had been there earlier trying to stabilize the radio tower. By all accounts, it was bent, but not dangerous now. They had not put a man's wight on it, of course, so Nathaniel did not feel too optimistic about they repairs.
 
 He had tried to tell the firechief that he did not need an escort or help of any kind. He wanted to tell him about the solo recon mission he had been sent on during the war. He was used to getting a job done with no one to rely on but himself. But the two chiefs and the mayor were too hard to argue against, so he took the escort.
 
@@ -1574,7 +1574,7 @@ The man, Nathaniel, was his name, was positively annoyed about having to go up t
 
 She followed a large crowd of people who were heading towards the city center to witness the young man's ascent. She walked with a three families who had brought their kids and picnics. The whole thing reminded her of the Battle of Bull Run or some other event where people's pleasure seeking and the potential for tragedy seemed oddly set in stride together. 
 
-The people she walked with weren't particularly forthcoming about their feelings, at least their inner feelings, about the airship. They all said, very politely, how strange or odd it was. She hadn't found anyone who was foaming at the mouth about the anti-Christ or the opposite of that. There was a visible concern, though, about the fate of the man climbing up to explore the airship, and about their town. No one wanted to blow up in a burning cloud of hydrogen.
+The people she walked with weren't particularly forthcoming about their feelings, at least their inner feelings, about the airship. They all said, very politely, how strange or odd it was. She had not found anyone who was foaming at the mouth about the anti-Christ or the opposite of that. There was a visible concern, though, about the fate of the man climbing up to explore the airship, and about their town. No one wanted to blow up in a burning cloud of hydrogen.
 
 She tried to remain calm during the young man's ascent up to the tower and into the airship. She tried to seem somewhat removed and detached from the events unfolding before them. She thought it best not to seem to caught up in the drama of it. She was not a yellow journalist. She did not want to manipulate the masses with emotional thrills. Emotional thrills were just cheap writing masquerading as insights.
 
@@ -1710,7 +1710,7 @@ During the car back to her house, the mayor and her assistant dissected her perf
 
 They both went inside. Her assistant walked through the house, opened the front door and said, "Can I help you?"
 
-"Yes, I am April Jankowski. I am a reporter from the Big Name Paper. I'd like to speak to the mayor?"
+"Yes, I am April Jankowski. I am a reporter from the Big Name Paper. I would like to speak to the mayor?"
 
 "Did you set up an appointment?"
 
@@ -1922,7 +1922,7 @@ The mayor interjected again, "Please settle down everyone, we will revisit this 
 
 "No, we have not madame mayor. I've been on the phone since yesterday with every major agency you can imagine. We have a handful of theories, but most of them are more implausible now that we've actually been inside the airship."
 
-"Thank you, Chief Gray," the mayor said. "I'd like to open the floor for comments from our council members. Do you any of you have anything you'd like to say?"
+"Thank you, Chief Gray," the mayor said. "I would like to open the floor for comments from our council members. Do you any of you have anything you'd like to say?"
 
 The council member who represented the downtown business district stood up, "Hello everyone. I am very happy to see so many of you here today. I think I speak for everyone when I say how taken aback I was by the news that the airship landed in our town. I've been on the phone with the building's owner and I think there's some real concerns about things like damages and liability. Now, I know this is a brass tacks kind of issue, and doesn't get at any of the more...profound questions that have been going around, but we've got to consider it."
 
@@ -1936,11 +1936,11 @@ One of the council members represented the far western edge of Briersville where
 
 "If we have salvage..." the last councilman said.
 
-"Yes, if you do. But I want there to be a plan if we do salvage it and I do not want it dumped in my ward. We're still trying to clean up from that fly-by-night chemical factory that closed two years ago."
+"Yes, if you do. But I want there to be a plan if we do salvage it and I do not want it dumped in my ward. we are still trying to clean up from that fly-by-night chemical factory that closed two years ago."
 
 "Thank you councilman, Ruiz. That's worth considering."
 
-"Now I'd like..."
+"Now I would like..."
 
 One of the protestors interrupted "You're condemned! The airship is a sign of your damnation!"
 
@@ -2020,7 +2020,7 @@ The council members chatted amongst themselves. One of the council members said,
 
 "I will take my chances." 
 
-The mayor stood up and said, "We will only consider your offer if it is in writing. We will have to consult with our attorney too. We're still trying to reach him. I am sorry to put impediments in your way, Mr. Fontaine, but I have to put at least a few parameters on any potential transaction."
+The mayor stood up and said, "We will only consider your offer if it is in writing. We will have to consult with our attorney too. we are still trying to reach him. I am sorry to put impediments in your way, Mr. Fontaine, but I have to put at least a few parameters on any potential transaction."
 
 "Of course. I understand. I will get somethign to you in writign. Since I will have time to reflect on it, I cannot promise that my offer will be as good, but I will get you something in writing."
 
@@ -2105,7 +2105,7 @@ She could go through many examples like this. Times when their lives all just cl
 
 Through it all, she somehow never lost faith in their older brother. She did not look to him as a father exactly, but always felt that there was something more behind his fuming fits. That other thing came through sometimes. He could be funny and caring from time to time. Just unpredictable. But they never considered going anywhere else, living with another relative. This was their home and their brother the closet thing to a keeper of that home that they knew.
 
-It did not help that their father, while living, hadn't been the most attentive father. He was always so wrapped up in his ventures. He was always meeting and selling and striving. He always seemed hungry for more and more. It's part of the reason that they ended up in the old farmhouse where they lived surrounded by land. So much land that was not really cultivated anymore. They had sold off all of the cows and chickens. Until a few years ago, Lisa still had a horse, but he had to put down due to old age.
+It did not help that their father, while living, had not been the most attentive father. He was always so wrapped up in his ventures. He was always meeting and selling and striving. He always seemed hungry for more and more. It's part of the reason that they ended up in the old farmhouse where they lived surrounded by land. So much land that was not really cultivated anymore. They had sold off all of the cows and chickens. Until a few years ago, Lisa still had a horse, but he had to put down due to old age.
 
 So maybe the unsettled and uncomfortable state that her brother in seemed completely normal to Lisa. It seemed that Arthur was becoming the same way. She probably wouldn't be able to save him from himself, but she did not want to give up on her younger brother just yet. She stood up, looking in the mirorr, and put a determined look on her face. She was not exactly sure where she was going and what she would do, but she desperately wanted to find her brother.
 
@@ -2126,7 +2126,7 @@ She had the notes from her interview with the mayor. That presented its own prob
 
 Maybe it was the rye, that made her generally more lax towards all forms of iniquity and injustice, but Anna decided that she could spare the mayor this time around. She actually felt some sympathy for the woman and did not think she was doing a terrible job as mayor. She could imagine any number of the people she met in the last few days doing a much worse job.
 
-She positioned herself at the end of the bar far away from the door. She set up her portable typewriter and started flipping through her notebook. She hadn't caught the name of the religious protestor that she spoke with at the meeting. She did not know the name of their leader either, so she might have to leave out those quotes. She did find a few useful statements from folks who had strong opinions about whether the airship should stay or go.
+She positioned herself at the end of the bar far away from the door. She set up her portable typewriter and started flipping through her notebook. She had not caught the name of the religious protestor that she spoke with at the meeting. She did not know the name of their leader either, so she might have to leave out those quotes. She did find a few useful statements from folks who had strong opinions about whether the airship should stay or go.
 
 She she sat chewing on the end of her pen (she had given up smoking only a month earlier), she couldn't help but overhear two men further down the bar talking. At least, one was talking excitedly while the other listened and nodded and sipped his drink. She leaned a bit more and tried to listen carefully.
 
@@ -2386,7 +2386,7 @@ They reluctantly slid down the rope to the group. Charlie was still brandishing 
 
 "Alright, so let's start from the beginning. Someone care to tell me how my brother ended up in that airship?"
 
-None of them talked. "We're not saying squat you jackass," said Charlie. "You're just chicken shit. You're not going to do anything to me. Anyone can see that."
+None of them talked. "we are not saying squat you jackass," said Charlie. "You're just chicken shit. You're not going to do anything to me. Anyone can see that."
 
 "That may be. That may be. But this chicken shit can get you in a world of trouble if you are not careful. After all, I am a town hero now, remember."
 
@@ -2444,19 +2444,19 @@ Nick decided that he needed to step in, if nothing else to minimize his involvem
 
 "Why did not you do something then?"
 
-"I don't know. I don't know."
+"I do not know. I do not know."
 
 "The cops showed up," croaked a defeated Charlie. "The cops showed up and hauled us off."
 
-"And you didn't tell them?" asked Arhtur's sister.
+"And you did not tell them?" asked Arhtur's sister.
 
 "It just happened so fast. We tired to scramble down the stairs, but we were caught. And then rushed out to police cars. I just...I just forgot about it."
 
 "So you think he's really still up there in the airship?"
 
-Charlie didn't say a word. Nick nodded his head. "I think so. He hasn't gotten in touch with us. And I haven't seen him since that night."
+Charlie did not say a word. Nick nodded his head. "I think so. He hasn't gotten in touch with us. And I haven't seen him since that night."
 
-"Then we'd better go find him,"" said the other woman with them. "Before someone else does."
+"Then we would better go find him,"" said the other woman with them. "Before someone else does."
 
 By now the icy rain was coming at a continual and relentless pace. They were all soaking wet. The icy rain shimmered on the shards of broken glass on the back of the car. 
 
@@ -2481,15 +2481,15 @@ She remembered the first time that Arthur told her that he was going to hang wit
 
 "Sure. This is has a rough spell. But wait it out. Be patient. Let things run their course."
 
-"Run where, Lisa? Where are things running to? I just can't see right now."
+"Run where, Lisa? Where are things running to? I just can not see right now."
 
-"But we're young. We're practically kids. It's kind of unrealistic for us to know isn't it. That kind of the whole point."
+"But we are young. we are practically kids. It's kind of unrealistic for us to know isn't it. That kind of the whole point."
 
 "That's the problem. The point of what?"
 
 "Of living, Arthur. Of existing. Living means watching things unfold around you. If you already knew, would you really be living?"
 
-"I don't think that would be so bad, to know what was in store of you in the future."
+"I do not think that would be so bad, to know what was in store of you in the future."
 
 Lisa had responded with a simple, "Maybe."
 
@@ -2503,11 +2503,11 @@ Maybe Nathaniel's dissatisfaction had worn off on him somehow. Some days she fel
 
 The rain caused more immediate problems. It was falling heavier now. Icy chunks accumulated on the car windows. The headlights lit up the rain as it fell. If things got much worse, getting up to Arthur could be a problem. 
 
-Nathaniel parked the car. We'll have to walk the rest of the way from here," he said. They each tried to stay as warm as possible. But just getting the few blocks from the car to the building where the airship sat froze them all fairly well. 
+Nathaniel parked the car. We will have to walk the rest of the way from here," he said. They each tried to stay as warm as possible. But just getting the few blocks from the car to the building where the airship sat froze them all fairly well. 
 
 The police presence had lightened up since the day before. It ended up not being hard at all to through to the building. A block away from it, the reporter, Anna, stopped them and said, "Is there a back way inside?"
 
-"Hadn't really thought about that. I guess so."
+"Had not really thought about that. I guess so."
 
 "I bet that's how Arthur and the guys got inside," Lisa said.
 
@@ -2541,11 +2541,11 @@ The officer scanned the wet darkness around them. "Okay, but we got to make it q
 
 "Come on, now's our chance," Nathaniel said. They dashed out into the alley to get to the door. Lisa slipped on the wet pavement, but Nathaniel grabbed her hand and pulled her to her feet. "No time for that now. Let's go."
 
-They got to the door. The lock was pretty shattered and hadn't been repaird. They were able to walk right inside.
+They got to the door. The lock was pretty shattered and had not been repaird. They were able to walk right inside.
 
-They stood in a dark storage room. The door opposite them had been left open. Lisa could just make out elevators and the front lobby of the building. "Be careful. And be quiet," her brother whispered. "We'll have to find the stairs. The elevators were shut off earlier today. I think the door is around the corner from the elevators."
+They stood in a dark storage room. The door opposite them had been left open. Lisa could just make out elevators and the front lobby of the building. "Be careful. And be quiet," her brother whispered. "We will have to find the stairs. The elevators were shut off earlier today. I think the door is around the corner from the elevators."
 
-"We'll be standing right in front of the building there. They'll see us."
+"We will be standing right in front of the building there. They'll see us."
 
 "Hopefully it will be dark enough that no one will notice. Are you ready?" He looked very intently at her. "Lisa, are you ready for this. It's going to be a slog getting up there and getting to Arthur."
 
@@ -2563,13 +2563,13 @@ The stairway was even darker than the buidling. A few emergency signs gave the s
 
 "We've got some stairs to climb, so let's get started."
 
-As they climbed each flight of stairs, Lisa remembered her feeling of disappointment after this building was opened. She remembered hearing how people were upset tha ta tall building was "invading" Briersville. "It'll look like it fell out the sky," people said. But when the final panes of glass were put in place, the building didn't seem so tall to her. She had expected to be overwhelmed by its scale and immensity. She had seen tall buildings in other cities before. She didn't understand what the fuss was all about.
+As they climbed each flight of stairs, Lisa remembered her feeling of disappointment after this building was opened. She remembered hearing how people were upset tha ta tall building was "invading" Briersville. "It'll look like it fell out the sky," people said. But when the final panes of glass were put in place, the building did not seem so tall to her. She had expected to be overwhelmed by its scale and immensity. She had seen tall buildings in other cities before. She did not understand what the fuss was all about.
 
 Now that she had to climb each and every stair that made up its height, she had a better appreciation for how tall the building really was. She also surprised by how quickly she felt tired and worn out. Nathaniel, on the other hand, just kept going up and up without breaking a sweat. Or so it seemed. He seemed to be driven to surmount those stairs.
 
 Sometimes they were walking in complete darkness. Lisa had to trust the mechanical rhythm of her footsteps, one after the other. And she held on tightly to the hand rail. 
 
-Twenty minutes or so must have passed before Nathaniel said ahead of her, "Okay, I think we're almost there." And soon enough they were huddled under the glow of another emergency exit light above the door to the roof. "This is it. Let's hope it's not too miserable out there," he said.
+Twenty minutes or so must have passed before Nathaniel said ahead of her, "Okay, I think we are almost there." And soon enough they were huddled under the glow of another emergency exit light above the door to the roof. "This is it. Let's hope it's not too miserable out there," he said.
 
 He opened the door and a howl of wind overtook them. Lisa could feel ice cutting at her face. There was a thick sludge of ice on the roof. Everything was cold and slick. She looked up and stared at the airship. It was breathtaking being so close to it. It was much larger than she had realized. She also realized how much it was swaying and rocking in the wind. She could tell too that ice was accumulating on it. Suddenly the task of retrieving her brother seemed a bit more impossible than it had before.
 
@@ -2590,7 +2590,7 @@ Arthur made his way back into the airship to the rip in it's belly where the tip
 
 He edged himself to the point where he could need to climb down. He peered down the length of the antenna. It look much taller and more daunting than it had the other night. This wasn't what made him start to feel panicked though. It was the sound of voices coming from the rooftop that worried him the most.
 
-Who is up here, he wondered. His first thought was that it must be more firefighters and police officers. Maybe another work crew to inspect the airship. But what he heard didn't really fit that explanation. The voices seemed very rhythmic, almost like chanting or singing. It was faint though. Maybe the wind was playing tricks on him.
+Who is up here, he wondered. His first thought was that it must be more firefighters and police officers. Maybe another work crew to inspect the airship. But what he heard did not really fit that explanation. The voices seemed very rhythmic, almost like chanting or singing. It was faint though. Maybe the wind was playing tricks on him.
 
 He peered down through the tears in the airship's covering. He couldn't make it out clearly but there appeared to be a group of people huddled on the rooftop. Were they on their knees? Praying? Suddenly his fancy of pretending to be a god seemed very real, but not in a helpful way.
 
@@ -2622,7 +2622,7 @@ He could just make out his sister shouting back, "Arthur! Are you okay?"
 
 "These nut jobs are trying to stop us from getting up to you."
 
-He watched his sister struggled with the two little old ladies. She managed to know one of them down and dragged the other one a few feet before she fell too. Now that she was free of them, Lisa dashed to the tower. Without hesitating, she started to climb up the tower. "Lisa, don't it's too dangerous!" Arthur yelled. But she kept coming up.
+He watched his sister struggled with the two little old ladies. She managed to know one of them down and dragged the other one a few feet before she fell too. Now that she was free of them, Lisa dashed to the tower. Without hesitating, she started to climb up the tower. "Lisa, do not it's too dangerous!" Arthur yelled. But she kept coming up.
 
 "Lisa! What are you doing?" Nathaniel shouted too. Arthur watched in amazement as his sister scaled the tower with no effort whatsoever. Before he realized it, he was reaching down for her hand and helping her up. 
 
@@ -2638,7 +2638,7 @@ He watched his sister struggled with the two little old ladies. She managed to k
 
 "Just...nothing really."
 
-"I just don't..."
+"I just do not..."
 
 "It doesn't matter why. The guys put me up to it, so I did it. Then I was up here. Then I kind of liked it. It felt like something completely...different. I just needed to get away from all of that," he said, waving his hand over all of Briersville.
 
@@ -2650,7 +2650,7 @@ He watched his sister struggled with the two little old ladies. She managed to k
 
 "So what' now?" he said.
 
-"I don't know. I guess we didn't really think this through. We're just making it up as we go along."
+"I do not know. I guess we did not really think this through. we are just making it up as we go along."
 
 "I can tell."
 
@@ -2666,7 +2666,7 @@ They both looked down and saw that the religious group was standing around the b
 
 "Can we stop them?"
 
-"I don't see how." The airship lurched forward again. "Lisa, hold on tight. I'm going to go down."
+"I do not see how." The airship lurched forward again. "Lisa, hold on tight. I'm going to go down."
 
 But before he could, a strong gust of wind propelled the airship up and forward. It separated from the tower. Only the rope was keeping the airship tied down to the building. The religious group gave another heave and the tower crumpled over from it's base. They watched as Nathaniel held on for his life as the tower bent and started to roll. He had a tight grip on the rope that he had tied off on the airship. With a quck guesture, he cut the rope.
 
@@ -2678,11 +2678,11 @@ Free of the tower and the rope, the airship started to drift away from the build
 
 "Can we fly this thing?" Lisa asked. Arthur and Nathaniel both stared back at her dumstruck. 
 
-"I think we'd be lucky to even get the engine going, much less steer this thing."
+"I think we would be lucky to even get the engine going, much less steer this thing."
 
 "How high are we off the ground?" Lisa asked.
 
-"Maybe a few hundred feet. I can't really tell," said Nathaniel. "But I think the best we can ask for is to somehow land the thing."
+"Maybe a few hundred feet. I can not really tell," said Nathaniel. "But I think the best we can ask for is to somehow land the thing."
 
 "It could explode," said Arthur.
 
@@ -2704,21 +2704,21 @@ Nathaniel stood thinking for a moment. "It might be our only choice. If we can g
 
 "Look at these," Lisa said. There were ten knobs lined up in a row. "I bet these coorespond to the hydrogen cells."
 
-"Makes sense to me," said Arthur. "Let's try it out." They turned a few of the knobs and waited. "I don't hear anyting," Arthur added.
+"Makes sense to me," said Arthur. "Let's try it out." They turned a few of the knobs and waited. "I do not hear anyting," Arthur added.
 
 "Wait, I can hear something," Lisa said. Sure enough there was the faint hiss coming from the airship. 
 
-"Let's open them up then," said Nathaniel. One by one they turned the knobs as far as they could. The hiss grew louder and louder. At first though, they didn't really feel anything. But after a few minutes, it felt like the airship was losing altitude.
+"Let's open them up then," said Nathaniel. One by one they turned the knobs as far as they could. The hiss grew louder and louder. At first though, they did not really feel anything. But after a few minutes, it felt like the airship was losing altitude.
 
 "I think it's working," Lisa said.
 
 "We better get to the rope if this is going to work."
 
-"Hopefully we don't end up over water," Arthur said, not trying to be pessimisstic, but the thought did occur to him.
+"Hopefully we do not end up over water," Arthur said, not trying to be pessimisstic, but the thought did occur to him.
 
-"We'll just have to take our chances. Come on."
+"We will just have to take our chances. Come on."
 
-They made it back to the rope. Looking down, land was getting closer and closer to the airship. "We don't have much time," Arthur said.
+They made it back to the rope. Looking down, land was getting closer and closer to the airship. "We do not have much time," Arthur said.
 
 "You go first Lisa," Nathaniel said. "But be careful. Don't jump until you're sure you can land safely. And try to roll when you fall to absorb some of the impact."
 
@@ -2730,7 +2730,7 @@ Arthur watched her sister slide slowly down the rope until she was dangling from
 
 "It's okay."
 
-"No, I mean it. I didn't mean for any of this to happen."
+"No, I mean it. I did not mean for any of this to happen."
 
 "I know, Arthur. None of us did. We just have to do the best we can. And right now, that means getting down that rope."
 
@@ -2755,7 +2755,7 @@ By the time he got to the end of the rope, his feet were touching the ground. He
 
 The airship continued to fall. It was low enough now that it seemed inevitable that it would crash into the trees. Before it did though, a gust of wind caught the tail and swung the airship around then pushed it sideways into the trees. The airship hit the trees, started to roll, then flipped up. It rolled over long ways once then crashed back down into the ground. 
 
-When it finally crashed, the airship caught on fire. There wasn't much hydrogen, but enough to combust when the gas bags broke and the air came rushing in. The trees smoldered and smoked but were wet enough that they didn't erupt into a full blaze.
+When it finally crashed, the airship caught on fire. There wasn't much hydrogen, but enough to combust when the gas bags broke and the air came rushing in. The trees smoldered and smoked but were wet enough that they did not erupt into a full blaze.
 
 In the distance they could hear sirens. Actually the sirens came from two directions. They came from Briersville and from the next closet town.
 
@@ -2779,11 +2779,11 @@ Arthur sheepishly nodded his head. "Yeah," he answered.
 
 "What's strange about it?" Nathaniel asked.
 
-"I don't know. Just to think that when we were all crowded around the airship watching you go up there, there was someone up there looking down on us."
+"I do not know. Just to think that when we were all crowded around the airship watching you go up there, there was someone up there looking down on us."
 
 "It wasn't exactly like playing the part of a god. I mostly just sat up there and thought." said Arthur.
 
-"But still. We just didn't know."
+"But still. We just did not know."
 
 Arthur then turned to them. "How did you realize I was up there?"
 
@@ -2797,7 +2797,7 @@ Lisa pointed to Anna, "From her."
 
 "Evidently. He saw you when you were leaving the engine car and going back into the airship."
 
-"Now it's time turn to find it weird. I can't believe that someone actually saw me. I thought that I had disappeared completely."
+"Now it's time turn to find it weird. I can not believe that someone actually saw me. I thought that I had disappeared completely."
 
 "Not completely," said Nathaniel.
 
@@ -2809,13 +2809,13 @@ Officer Doyle walked up to them next. "Well, this has been quite an adventure fo
 
 "Am I in trouble?" asked Arthur.
 
-"I don't know son. Everything about that thing appearing in town was out of the ordinary. I just don't know. There's sure to be some upset people in town, but people being upset isn't exactly against the law."
+"I do not know son. Everything about that thing appearing in town was out of the ordinary. I just do not know. There's sure to be some upset people in town, but people being upset isn't exactly against the law."
 
 "Upset? Why?" asked Lisa.
 
 "A fair number of people were scheming how to make money off of that airship. Tours, exhibits, scrap metal. You name it. I bet there's someone right now who doesn't listne to pplice scanner radio feverishly planning their next move. Yep, you've probably upset a few number of people." Arthur seemed a little defeated by this speech. The officer went on the say, "On the other hand, you're sure to find a few people to thank you for destroying that thing."
 
-"We didn't do that on purpose." Lisa added. Nathaniel wasn't sure if she was tyrgin to keep her brother ouf of trouble, but he wished that she would exercise a bit more discretion. 
+"We did not do that on purpose." Lisa added. Nathaniel wasn't sure if she was tyrgin to keep her brother ouf of trouble, but he wished that she would exercise a bit more discretion. 
 
 "But either way it happened," added Nathaniel.
 
@@ -2831,7 +2831,7 @@ Officer Doyle walked up to them next. "Well, this has been quite an adventure fo
 
 "What's going to happen to those religious people from teh rooftop?"
 
-"I don't know yet, Lisa," replied Officer Doyle. "I haven't heard much chatter about them on the radio."
+"I do not know yet, Lisa," replied Officer Doyle. "I haven't heard much chatter about them on the radio."
 
 "I think this isn't the groups first brush with the law," said Anna.
 
@@ -2847,7 +2847,7 @@ Arthur chimed in, "Those people were trying to kill us. What's confusing about t
 
 "It seems like they're really good at being heard," Lisa commented.
 
-"Well, that's not for us to decide," replied Officer Doyle. "Why don't you folks get in the car and I'll take you back to town." They piled into the back of Officer Doyle's police car. It was warm inside and the chatter from the radio made everyone feel sleepy. 
+"Well, that's not for us to decide," replied Officer Doyle. "Why do not you folks get in the car and I'll take you back to town." They piled into the back of Officer Doyle's police car. It was warm inside and the chatter from the radio made everyone feel sleepy. 
 
 When Nathaniel snapped back awake, they were pulling up in front of the house. "Here we are," said Officer Doyle.
 
@@ -2886,7 +2886,7 @@ Lisa opened the front door. The cold bit her face and made thick robe feel thin 
 
 "I just felt so bad about leaving. There's so much going on with the airship and your brother. I just felt like I should come back and help out." Lisa started laughing. "Why are you laughing?" he asked.
 
-"I'm laughing because...I don't know why. It's just that...so much has happened since you left. The airship isn't there anymore."
+"I'm laughing because...I do not know why. It's just that...so much has happened since you left. The airship isn't there anymore."
 
 "Where did it go?"
 
@@ -2926,7 +2926,7 @@ Lisa opened the front door. The cold bit her face and made thick robe feel thin 
 
 "I feel kind of dumb for coming back."
 
-Lisa leaned over and kissed him on the cheek. "It's okay. It's kind of sweet. Why don't you come inside get some rest."
+Lisa leaned over and kissed him on the cheek. "It's okay. It's kind of sweet. Why do not you come inside get some rest."
 
 "Your brother won't mind."
 
@@ -2945,7 +2945,7 @@ Chapter 28
 
 When she heard the sirens whirl and whine and saw the flashing lights outside her house, the mayor jumped out of bed. Fear rushed over her. Are they coming for me, she wondered. Her more conscious and rational mind took over. She threw on her house coat and her slippers and went downstairs.
 
-She opened her front door and found the police chief and the fire chief standing there. They both looked exhausted but not anxious or panicked. They certainly didn't seem like they were going to take her to jail. This set the mayor much more at ease. Her public face took over and she said, "Gentleman, what has you out at this time of night."
+She opened her front door and found the police chief and the fire chief standing there. They both looked exhausted but not anxious or panicked. They certainly did not seem like they were going to take her to jail. This set the mayor much more at ease. Her public face took over and she said, "Gentleman, what has you out at this time of night."
 
 "CAn we step inside?" the fire chief asked.
 
@@ -2953,7 +2953,7 @@ She opened her front door and found the police chief and the fire chief standing
 
 "Yes, mayor it did," said the police chief.
 
-It occured to the mayor that they might have been speaking in metaphor and she didn't realize it. If it was a code or a metaphor what did it mean. Coldness, winter, the end of things, dying. Maybe they were coming to relieve her from power. Spring and thaw and warm weather would mean something better, of course.
+It occured to the mayor that they might have been speaking in metaphor and she did not realize it. If it was a code or a metaphor what did it mean. Coldness, winter, the end of things, dying. Maybe they were coming to relieve her from power. Spring and thaw and warm weather would mean something better, of course.
 
 But it was cold outside. So, it could just be that they were talking about the weather. Being pleasant. So, the mayor turned up the heat. The radiators in the house started to hiss as the hot water streamed through them. 
 
@@ -2973,7 +2973,7 @@ The two chiefs were sitting in the front room. They weren't saying much. The fir
 
 "It crashed about an hour ago."
 
-"In town? I didn't hear anything."
+"In town? I did not hear anything."
 
 "Not in town," said the fire chief. "About ten miles outside of town, closer to Valesburg. Just past Nickle Creek. There's some woods there. The airship crashed there."
 
@@ -2985,7 +2985,7 @@ The two chiefs were sitting in the front room. They weren't saying much. The fir
 
 "What happened exactly?"
 
-"We're still trying to sort out the details," the police chief said.
+"we are still trying to sort out the details," the police chief said.
 
 "Was anyone injured? Anything we need to worry about?"
 
@@ -3001,32 +3001,248 @@ The two chiefs were sitting in the front room. They weren't saying much. The fir
 
 "They may have made the crash much less worse," explained the fire chief. "They vented a lot of the airship's hydrogen."
 
-"Well, this is interesting news indeed," the mayor said. As she sat there, she tried to figure out what these events meant for the town and for her. It certainly didn't help her situation with Fontaine. That was one little silver lining that had appeared since the airship showed up in town. She was holding on the hope that she could settle her debts with Fontaine.
+"Well, this is interesting news indeed," the mayor said. As she sat there, she tried to figure out what these events meant for the town and for her. It certainly did not help her situation with Fontaine. That was one little silver lining that had appeared since the airship showed up in town. She was holding on the hope that she could settle her debts with Fontaine.
 
 "Is there anything left of the airship?"
 
-"We can't tell right now. The fire didn't get too hot. It's pretty wet and icy out there. That also helped dampened the fire down," the fire chief said.
+"We can not tell right now. The fire did not get too hot. It's pretty wet and icy out there. That also helped dampened the fire down," the fire chief said.
 
-"Let's try to be there on the scene when things have settled down. I'd like to know what exactly is left there."
+"Let's try to be there on the scene when things have settled down. I would like to know what exactly is left there."
 
-"The airship kind of left our jurisdiction," said the police chief. We're just lending a hand at this point. It's really Claremont County's problem since that's county land, not incorporated."
+"The airship kind of left our jurisdiction," said the police chief. we are just lending a hand at this point. It's really Claremont County's problem since that's county land, not incorporated."
 
 "But it's the subject of our investigation, correct? Potentially a criminal investigation?"
 
 "Potentially..."
 
-"Let's try to sort the facts about this story as quickly as we can. I'd like to know if your men need to invesitage the crash sight for any additional evidence for their case. I think Bernie is finally back in town, so we can talk to him about what the prosecution might need too..."
+"Let's try to sort the facts about this story as quickly as we can. I would like to know if your men need to invesitage the crash sight for any additional evidence for their case. I think Bernie is finally back in town, so we can talk to him about what the prosecution might need too..."
 
 "Pardon me, madam mayor, but prosecute what exactly?" asked the police chief.
 
 "The case, the criminals, the perpetrators."
 
-"But we're not sure if there is any case."
+"But we are not sure if there is any case."
 
-The mayor set back in her chair. She didn't need to overplay her hand. Everyone in that room was tired and moods could swing wildly. She could tell that the two chiefs took themselves to be staring at the end of the case and were relieved for it. She couldn't push them too hard just yet. Just plant the suggestions and move on, she said to herself.
+The mayor set back in her chair. She did not need to overplay her hand. Everyone in that room was tired and moods could swing wildly. She could tell that the two chiefs took themselves to be staring at the end of the case and were relieved for it. She couldn't push them too hard just yet. Just plant the suggestions and move on, she said to herself.
 
-"Of course. Maybe I'm thinking too far ahead. Let's just try to get this situation with the airship settled as quickly as we can. We don't want it to get to be the end of the month and we'er still scrambling to put together the pieces of a case, if there is one before to put together."
+"Of course. Maybe I'm thinking too far ahead. Let's just try to get this situation with the airship settled as quickly as we can. We do not want it to get to be the end of the month and we'er still scrambling to put together the pieces of a case, if there is one before to put together."
 
 The two chiefs nodded. The fire chief's yawn signalled that it was time to leave. They both got up and went out to cars and the tired officers waiting for them outside. 
 
 The mayor watched them drive away, almost more worried now that the airship was gone than she had been when it was there hovering above Briersville.
+
+Chapter 29
+----------
+
+Officer Doyle had to hear his land lady complain for at least fifteen or twenty minutes that he had been coming and going at all hours of the day and night recently. "It's not good for you health," she told him. "The body needs regular sleep. My father always recommended at least eight and prefereabbly nine hours a night. Whatever could be so important to make you rush around like you have been. You'll wear yourself out, Officer Doyle. Then where would I be. Where would this house be without you?"
+
+While his land lady shuttered at the thought, Officer Doyle wasn't too concerned. He was able to come home that night and sleep soundly and well into the morning. He wasn't on duty again for another day. The chief had instructed many of them to take some extra time off. 
+
+Somehow the two days that the airship had been in their town felt like a whole month. It felt as if for every day in November there had been the airship looming over them all, demanding action from them. And so they rushed around just as the airship had demanded.
+
+But now that it over, Officer Doyle looked forward to a day to just relax and not worry about an mysterious and ancient piece of technology exploding over his town and causing unspeakable damage in the process.
+
+He was able to sleep to about nine in the morning. He prepared himself a cup of instant coffee just to get himself going. He decided that he wanted to pick up a book from the library, something that he hadn't done in a while. On the way out his land lady cornered him and lectured him on the value of sleep.
+
+It wasn't that he didn't appreciate her concner, he certainly did. But he never could quite tell wehre her concern for him and her concern for herself began and end. Maybe she was just one of those people that mixed the two up together so much that you couldn't separate out one from the other like an egg from a yolk.
+
+The thought of eggs and yolks made him hungry. He realized the the diner downtown might be repopened. They always had better service there. The waitresses were much friendlier. Or so it seemed to him. 
+
+He drove downtown, half expecting to encounter police cars and barricades. But there was none of that now. Cars and trucks eased their way along the streets. People were walking on the sidewalk. Everyone seemed ready to move on from the last few days.
+
+At the diner though, the airship and its fate was all that anyone could talk about. People were recounting bits and pieces of what had happened last night. The consensus tended to be that the religous group and released the airship and caused it to crash. The group had not generated much good will towards itself since yesterday. Their bad image in town already bore fruit in the general, pervasive hostility towards them.
+
+A few people sitting for countertop service like himself nodded to him and then asked him for his opinion. He was circumspect about what really happened. Eventually, he figured, the full story with all of the particular ins and outs would get told and retold. Putting together a story with so many parts sometimes took people a while. A good story wasn't something that you just put together in a few days. 
+
+As he ate his simple two eggs and toast breakfast, he was relieved that people mostly left him alone and out of the swirling conversations about the airship. He knew that he hadn't heard the last of it. Probably better to measure out how much airship talk he would get.
+
+After paying up for breakfast, Officer Doyle drove to the library, which had also been closed because of the airship. The small stone library ringed around the outside with columns, had only opened a few minutes before he got there. The library staff inside were starting to settle in to their daily jobs, sorting things, opening up their desks.
+
+He browsed through the fiction books and then non-fiction. He always appreciated a good biography. Maybe someone like Lincoln or a Civil War general would be a good read. He also appreciated stories about inventors, explorers, and researchers. People that brought something to light intruiged him. 
+
+He found a few good picks and strolled around the library. A few mothers had brought their children to the library. The building was bright with the morning sun and cheery from the bubbling voices of children.
+
+When he passed by teh library's research room, he found himself eyeing the large cabinets of microfilm. He smiled at the librarian who staffed the desk just outside the research room and starting scanning the drawel labels more closely. There were many, many years of local and regional papers in there. They even had a few national papers. 
+
+He went up to the librarian at the desk and asked, "How hard is it to use the microfilm?"
+
+"It depends on what you're looking for. Did you have a particular date that you wanted to look up, a birthyday or a famous event?"
+
+"No, I'm more interested in a subject. How hard would that be?"
+
+"Depends on the topic. We have indexes for some of the local papers. The national papers and pretty thorough. The real question is how much time and patience do you have for the work. There would be a fair amount of sifting and scannning to find what you want."
+
+He considered coming back at some other time. But curiosity got the best of him. "How about I take a look at one of the indexes you talked about. Maybe I can start there."
+
+"That's an excellent idea. Do you want to start locally or nationally?"
+
+"Locally, I guess."
+
+The librarian led him over to a wooden table with a a series of small shelves mounted to the table top. Across the shelves were thick bound volumes numbered and dated. She pulled out a volume wrapped in a heavy brown covering and opened it up. The pages were columns and columns and narrowly typed entries. The librarian ran her finger up and down the page. 
+
+"Here are subject terms here," she said, pointing to a column on the left. "And here at the dates where it appears. Over here you get page and section."
+
+"What do these numbers mean?" he asked pointed to a seemingly random set of numbers and letters after each article.
+
+"That a notation that the creator of this index used to indicate where on the page the reference is located. It's idyosyncratic at best. I wouldn't reply on it too heavily. The real secret to using these successfully is the plan out your research first. Do you know how to do that?"
+
+Officer Doyle gave a non-commital response. She went to her desk and returned with a form. "I suggest you start with this form. List all of the terms that you are interested in. Then try to group them together. This will help you with the index. If you don't find a term, try one of the variations and so on. Being a little bit systematic now will save you a great deal of headache later in the process."
+
+"Well, this is a lot to absordb. Thank you for your time."
+
+"You're welcome. Just let me know if you need assistance."
+
+Officer Doyle hung is coat on the back of the wooden chair at the table. He was down and started to fill out the workship. Then he flipped back open one of the indexes and hunched over it. He started flipping and running his fingers up and down the page. He started with the most obvious term, "airship", and started to write down every date and page where an airship was mentioned.
+
+This way, little by the little, Officer Doyle might just be able to fill in a little more detail about why the airship appeared in Briersville. It wouldn't really impact the story as it happened and as people were telling it to one another, but having a little more understanding about the airship could come in handy later on.
+
+Chapter 30
+----------
+
+Anna woke up early before anyone else in the house was up. She almost tripped on a boy sleeping in blankets on the floor, but saved herself from crashing into the coffee table. The boy groaned a bit and kept sleeping.
+
+In the kitchen, she rummaged around in the cabinets and found some coffee. They only had a stove top percolator, which needed a bit of cleaning. But she needed coffee to get on with her day. She emptied and scrubbed out the percolator. Soon enough after the water started to boil, she had a decent enough cup of coffee. 
+
+The warm coffee woke her up enough for her to work on her story. She didn't have all of her equipment with her, so she made do with a a few scraps of paper she found in a kitchen drawer. She didn't go anywhere without her notepad and pen, a graduation gift from her parents, and started to work.
+
+She did her best to sketch out the details of what had happened since yesterday. She managed to fit in the meeting and the protestors and the relgious group getting arrested on the roof. And the airship. She wasn't there and didn't the see what happened, but Anna felt that she needed to be sensitive when she portrayed what happened on that building roof top.
+
+She wasn't going to censor the story. She would have to write about how a boy had been found in the airship. An attempt to rescue him was hindered by a group of relgious protestors. Hindered? Maybe "complicated"? she wondered. Well, she'd leave it for her editor to decide. So far none of this was unture, but she couldn't say whether or not it accurately portrayed the confrontation that ook place on the rooftop, the way the group pushed and pushed the tower until it broke.
+
+She didn't include her own sense of powerlessness and fear as she looked up and saw the tower rocking and heard the faint shouts in the cold and dark night sky. She didn't include her concern that the Plaices would be killed, or how she convinced the two police officers she was with the radio in the disturbance, hoping that the Nathaniel and Lisa would figure out something to do.
+
+They certainly had figured something out. She just did not expect it to involve flying away in teh airship. At first, she wondered if it was planned in any way. But after the airship started to descend just outside of town, she realized that it was all an accident. The Plaices were desperately trying to figure their way out of the complicated business with the airship.
+
+She had enough to file a story. She picked up the Plaices' phone and didn't get a dial tone. 
+
+"Phone's not working," Nathaniel said, standing in the back door way into the kitchen.
+
+"I just figured that out."
+
+"Need to make a call?"
+
+"I do. I need to file my story."
+
+"I can drive you to a phone."
+
+"That'll be swell," she said.
+
+"Okay then. Ready?"
+
+"Right now?"
+
+"Sure, why not?"
+
+"No reason. Let me get my coat."
+
+They drove to a gas station just on the edge of town. As they drove, Nathaniel said that the phone had not worked in several months. "I never bothered to fix it. Now, I guess I should."
+
+"Why now?"
+
+"Just doesn't seem right to leave it the way that it was. It needs some attention. It's good to have a working phone, right?"
+
+"If there's ever a fire..."
+
+"Or a giant airship overhead..."
+
+"Or aliens or time travellers," she added laughing.
+
+"Well, a telephone would certainly be effective against time travellers. Are we talking about visitors from the past or the future?"
+
+"Both, at the same time."
+
+"So not only are they technologically superior, but their confused too. Sounds like a dangerous combination to me."
+
+"Yes, deadly."
+
+"And the phone would be effective against this muddled threat from the the past and the future?"
+
+"Indeed. It's in all of the handbooks about this sort of thing."
+
+"You mean stories."
+
+"Yes, of coures. But don't tell any of the writers that. The gospel of those stories is that they are are true to life as can be."
+
+"With a few notable exceptions like time travel or interdimensional space travel..."
+
+"I didn't take you for a science fiction fan?" she said, trying to not soudn too disappointed.
+
+"No, I've just picked up a book here and there in my spare time."
+
+"I see."
+
+"We're here. There's the phone. It's a pay phone. Got any change?"
+
+"Ill call my editor collect."
+
+She hopped down from the truck and set up by the pay phone. Unforutnatley it was outside and although the weather was better and the sun was out, it iwas still early enough int eh morning to be cold outside.
+
+Her editor accepted the collect call. "Anna, you still in Briersville with the airship?"
+
+"I am. I have a story to file."
+
+"No need."
+
+"No need, why?"
+
+"We were scooped. Another paper ran a full story about it including a exclusive interview with a group who was trying ot get rid fo teh airship."
+
+"Religious group?"
+
+"That's the one. Anyway, all of teh air has been let out of the story now. I'm bored with it. So I need you to come back. There are some oversight hearing todays that could be valuable fo us."
+
+Anna hung up the phone. How had she been scooped? Who else had been aroudn to tell this story. Stranger things had happened. She didn't feel ready to leave Briersville just yet, but work was calling her away. Maybe she could play hooky for just one day.
+
+She got back in the truck. "Got it done?" Nathaniel asked.
+
+"Yes and no."
+
+"What does that mean?"
+
+"Nevermind, no need to worry about. Can we head back though? I think that I need to head back home."
+
+"So soon?"
+
+"Yeah, well, duty calls. A good reporter doesn't sleep."
+
+"Too worried about getting scooped?"
+
+"Something like that."
+
+When they got back to the house, Anna collected her things from inside. She hugged Lisa nd shook Arthur's hand. She even shook hands with the awkward young man who had been in asleep in the living room when she left. 
+
+"Come and see us again," Lisa said.
+
+"Yeah, come spend some time with our brother. Get him to relax a litte," Arthur teased.
+
+"I don't know when I'll be back. But I'm glad that I got to meet all of you."
+
+They all stood silently in the living room for a moment, looking at each other. The others didn't seem to be sure why she wasn't leaving. Did they really not realize that she didn't have a car? But no one was moving, so she said, "I need someone to drive me back into town so that I can go home."
+
+"Of coures," said Nathaniel. "I didn't think about the fact that your car's not here. Let's get going right away."
+
+Nathaniel dropped her off by her car. As she got out, he stopped her and asked, "Will I see you again?"
+
+"I don't know. I might be able to come back by here soon."
+
+"I'd like that."
+
+"I know. I would too. I'm just not sure."
+
+"I understand. My life is not the simplest arrangement. It feels too complicated for me sometimes, but I have to make it work. You don't."
+
+"It's not that..."
+
+"What is it then?"
+
+"It's just that I have to go where the story is. There was a story here in Briersville so I'm here. Maybe I'll be somewhere else in a few days. I like it that way. I like things being up in the air and little unsettled."
+
+"And things seem too settled here?"
+
+"I think so. But you never know. Let's just not commit to anything right now, okay?"
+
+"Sure, that's fine. Well, good luck to you. It's been a heck of a few days."
+
+"It has," she replied.
+
+She waved goodby to him as he drove off. She settled her bill inside and got her things together to head back to the city. As she left Briersville, she wondered if she would in fact ever see Nathaniel Plaice and his brother and sister again. She could imagine there being serveral more twists and turns in their story in the months ahead. But she also knew that once she sat down the story, other duties would call. There would be new things to distract her from the happenings in Briersville.
